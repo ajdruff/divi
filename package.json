@@ -1,0 +1,27 @@
+{
+  "name": "divi",
+  "version": "2.3.4-1",
+  "description": "Elegant Themes Divi 2.3.4 patched to work with WordPress 4.5 ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajdruff/divi.git"
+  },
+  "keywords": [
+    "divi",
+    "elegant",
+    "wordpress",
+    "4.5"
+  ],
+  "author": "Elegant Themes",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ajdruff/divi/issues"
+  },
+  "homepage": "https://github.com/ajdruff/divi#readme"
+}
