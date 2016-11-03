@@ -1,0 +1,5822 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-02-09 04:37+0300\n"
+"PO-Revision-Date: 2015-02-12 22:19+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Эта страница защищена паролем. Введите пароль для просмотра комментариев."
+
+#: ../comments.php:13
+msgid "0 Comments"
+msgstr "0 Комментариев"
+
+#: ../comments.php:13 ../functions.php:239
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: ../comments.php:13
+msgid "Comments"
+msgstr "Комментарии"
+
+#: ../comments.php:18 ../comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие Комментарии"
+
+#: ../comments.php:19 ../comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые Комментарии <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "Трекбеки/Пинги"
+
+#: ../comments.php:56
+msgid "Submit Comment"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:56
+msgid "Submit a Comment"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий к %s"
+
+#: ../footer.php:40
+#, php-format
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "Дизайн: %s | Движок: %s"
+
+#: ../functions.php:30
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: ../functions.php:31
+msgid "Secondary Menu"
+msgstr "Меню второго уровня"
+
+#: ../functions.php:32
+msgid "Footer Menu"
+msgstr "Меню в футере"
+
+#: ../functions.php:71
+msgid "on"
+msgstr "на"
+
+#: ../functions.php:128
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"Пожалуйста, проверьте поля ниже, чтобы убедиться, что вы ввели правильную "
+"информацию."
+
+#: ../functions.php:129
+msgid "Fill"
+msgstr "Заполнить"
+
+#: ../functions.php:130
+msgid "field"
+msgstr "поле"
+
+#: ../functions.php:131
+msgid "Invalid email"
+msgstr "Неверный электронный адрес"
+
+#: ../functions.php:132 ../et-pagebuilder/et-pagebuilder.php:5798
+msgid "Captcha"
+msgstr "Кэпча"
+
+#: ../functions.php:133
+msgid "Prev"
+msgstr "Пред."
+
+#: ../functions.php:134 ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:518
+msgid "Previous"
+msgstr "Предыдущ."
+
+#: ../functions.php:135 ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:519
+msgid "Next"
+msgstr "След."
+
+#: ../functions.php:174
+msgid "Select Page"
+msgstr "Выбрать страницу"
+
+#: ../functions.php:218
+#, php-format
+msgid "Posts by %s"
+msgstr "Опубликовано: %s"
+
+#: ../functions.php:235
+msgid "% Comments"
+msgstr "% коммент."
+
+#: ../functions.php:237
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+#: ../functions.php:252
+msgid "by"
+msgstr " "
+
+#: ../functions.php:274 ../functions.php:275 ../functions.php:276
+#: ../functions.php:277
+msgid "ET Settings"
+msgstr "ET Настройки"
+
+#: ../functions.php:283
+msgid "Projects"
+msgstr "Проекты"
+
+#: ../functions.php:284
+msgid "Project"
+msgstr "Проект"
+
+#: ../functions.php:285 ../functions.php:367
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: ../functions.php:286
+msgid "Add New Project"
+msgstr "Добавить новый проект"
+
+#: ../functions.php:287
+msgid "Edit Project"
+msgstr "Редактировать проект"
+
+#: ../functions.php:288
+msgid "New Project"
+msgstr "Новый проект"
+
+#: ../functions.php:289
+msgid "All Projects"
+msgstr "Все проекты"
+
+#: ../functions.php:290
+msgid "View Project"
+msgstr "Посмотреть проект"
+
+#: ../functions.php:291
+msgid "Search Projects"
+msgstr "Искать проекты"
+
+#: ../functions.php:292 ../functions.php:374
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+#: ../functions.php:293 ../functions.php:375
+msgid "Nothing found in Trash"
+msgstr "Ничего не найдено в корзине"
+
+#: ../functions.php:320 ../functions.php:330 ../epanel/options_divi.php:292
+#: ../et-pagebuilder/et-pagebuilder.php:6278
+#: ../et-pagebuilder/et-pagebuilder.php:6541
+#: ../et-pagebuilder/et-pagebuilder.php:6787
+msgid "Categories"
+msgstr "Категории"
+
+#: ../functions.php:321
+msgid "Category"
+msgstr "Категория"
+
+#: ../functions.php:322
+msgid "Search Categories"
+msgstr "Искать категории"
+
+#: ../functions.php:323
+msgid "All Categories"
+msgstr "Все категории"
+
+#: ../functions.php:324
+msgid "Parent Category"
+msgstr "Родительская категория"
+
+#: ../functions.php:325
+msgid "Parent Category:"
+msgstr "Родительская категория:"
+
+#: ../functions.php:326
+msgid "Edit Category"
+msgstr "Редактировать категорию"
+
+#: ../functions.php:327
+msgid "Update Category"
+msgstr "Обновить категорию"
+
+#: ../functions.php:328
+msgid "Add New Category"
+msgstr "Добавить новую категорию"
+
+#: ../functions.php:329
+msgid "New Category Name"
+msgstr "Новое имя категории"
+
+#: ../functions.php:342 ../functions.php:352
+msgid "Tags"
+msgstr "Тэги"
+
+#: ../functions.php:343
+msgid "Tag"
+msgstr "Тэг"
+
+#: ../functions.php:344
+msgid "Search Tags"
+msgstr "Искать тэги"
+
+#: ../functions.php:345
+msgid "All Tags"
+msgstr "Все тэги"
+
+#: ../functions.php:346
+msgid "Parent Tag"
+msgstr "Родительский тэг"
+
+#: ../functions.php:347
+msgid "Parent Tag:"
+msgstr "Родительский тэг:"
+
+#: ../functions.php:348
+msgid "Edit Tag"
+msgstr "Редактировать тэг"
+
+#: ../functions.php:349
+msgid "Update Tag"
+msgstr "Обновить тэг"
+
+#: ../functions.php:350
+msgid "Add New Tag"
+msgstr "Добавить новый тэг"
+
+#: ../functions.php:351
+msgid "New Tag Name"
+msgstr "Новое имя тэга"
+
+#: ../functions.php:365
+msgid "Layouts"
+msgstr "Макеты"
+
+#: ../functions.php:366 ../et-pagebuilder/et-pagebuilder.php:1439
+#: ../et-pagebuilder/et-pagebuilder.php:6048
+#: ../et-pagebuilder/et-pagebuilder.php:6440
+#: ../et-pagebuilder/et-pagebuilder.php:6686
+#: ../et-pagebuilder/et-pagebuilder.php:6948
+msgid "Layout"
+msgstr "Макет"
+
+#: ../functions.php:368
+msgid "Add New Layout"
+msgstr "Добавить новый макет"
+
+#: ../functions.php:369
+msgid "Edit Layout"
+msgstr "Редактировать макет"
+
+#: ../functions.php:370
+msgid "New Layout"
+msgstr "Новый макет"
+
+#: ../functions.php:371
+msgid "All Layouts"
+msgstr "Все макеты"
+
+#: ../functions.php:372
+msgid "View Layout"
+msgstr "Посмотреть макет"
+
+#: ../functions.php:373
+msgid "Search Layouts"
+msgstr "Искать макеты"
+
+#: ../functions.php:397
+msgid "Skills"
+msgstr "Навыки"
+
+#: ../functions.php:400
+msgid "Posted on"
+msgstr "Опубликовано:"
+
+#: ../functions.php:417 ../epanel/options_divi.php:90
+msgid "Right Sidebar"
+msgstr "Правый сайдбар"
+
+#: ../functions.php:418 ../epanel/options_divi.php:91
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+#: ../functions.php:419 ../epanel/options_divi.php:92
+msgid "Full Width"
+msgstr "Полная ширина"
+
+#: ../functions.php:423 ../functions.php:865 ../functions.php:897
+#: ../et-pagebuilder/et-pagebuilder.php:1552
+#: ../et-pagebuilder/et-pagebuilder.php:1885
+#: ../et-pagebuilder/et-pagebuilder.php:2106
+#: ../et-pagebuilder/et-pagebuilder.php:2149
+#: ../et-pagebuilder/et-pagebuilder.php:3179
+#: ../et-pagebuilder/et-pagebuilder.php:3716
+#: ../et-pagebuilder/et-pagebuilder.php:4089
+#: ../et-pagebuilder/et-pagebuilder.php:4368
+#: ../et-pagebuilder/et-pagebuilder.php:4760
+#: ../et-pagebuilder/et-pagebuilder.php:5142
+#: ../et-pagebuilder/et-pagebuilder.php:5410
+#: ../et-pagebuilder/et-pagebuilder.php:5716
+#: ../et-pagebuilder/et-pagebuilder.php:6363
+#: ../et-pagebuilder/et-pagebuilder.php:6609
+#: ../et-pagebuilder/et-pagebuilder.php:6855
+#: ../et-pagebuilder/et-pagebuilder.php:7089
+#: ../et-pagebuilder/et-pagebuilder.php:7707
+#: ../et-pagebuilder/et-pagebuilder.php:8090
+#: ../et-pagebuilder/et-pagebuilder.php:8668
+#: ../et-pagebuilder/et-pagebuilder.php:8874
+#: ../et-pagebuilder/et-pagebuilder.php:9020
+#: ../et-pagebuilder/et-pagebuilder.php:9143
+#: ../et-pagebuilder/et-pagebuilder.php:9354
+#: ../et-pagebuilder/et-pagebuilder.php:9572
+msgid "Light"
+msgstr "Светлый"
+
+#: ../functions.php:424 ../functions.php:864 ../functions.php:896
+#: ../et-pagebuilder/et-pagebuilder.php:1547
+#: ../et-pagebuilder/et-pagebuilder.php:1890
+#: ../et-pagebuilder/et-pagebuilder.php:2111
+#: ../et-pagebuilder/et-pagebuilder.php:2144
+#: ../et-pagebuilder/et-pagebuilder.php:3184
+#: ../et-pagebuilder/et-pagebuilder.php:3711
+#: ../et-pagebuilder/et-pagebuilder.php:4084
+#: ../et-pagebuilder/et-pagebuilder.php:4363
+#: ../et-pagebuilder/et-pagebuilder.php:4765
+#: ../et-pagebuilder/et-pagebuilder.php:5147
+#: ../et-pagebuilder/et-pagebuilder.php:5415
+#: ../et-pagebuilder/et-pagebuilder.php:5721
+#: ../et-pagebuilder/et-pagebuilder.php:6358
+#: ../et-pagebuilder/et-pagebuilder.php:6604
+#: ../et-pagebuilder/et-pagebuilder.php:6850
+#: ../et-pagebuilder/et-pagebuilder.php:7084
+#: ../et-pagebuilder/et-pagebuilder.php:7702
+#: ../et-pagebuilder/et-pagebuilder.php:8085
+#: ../et-pagebuilder/et-pagebuilder.php:8663
+#: ../et-pagebuilder/et-pagebuilder.php:8869
+#: ../et-pagebuilder/et-pagebuilder.php:9015
+#: ../et-pagebuilder/et-pagebuilder.php:9138
+#: ../et-pagebuilder/et-pagebuilder.php:9349
+#: ../et-pagebuilder/et-pagebuilder.php:9567
+msgid "Dark"
+msgstr "Темный"
+
+#: ../functions.php:437
+msgid "Page Layout"
+msgstr "Макет страницы"
+
+#: ../functions.php:451
+msgid "Side Navigation"
+msgstr "Боковая навигация"
+
+#: ../functions.php:454 ../et-pagebuilder/et-pagebuilder.php:857
+#: ../et-pagebuilder/et-pagebuilder.php:6201
+#: ../et-pagebuilder/et-pagebuilder.php:8372
+#: ../et-pagebuilder/et-pagebuilder.php:8516
+#: ../et-pagebuilder/et-pagebuilder.php:8640
+#: ../et-pagebuilder/et-pagebuilder.php:8819
+#: ../et-pagebuilder/et-pagebuilder.php:9639
+msgid "Off"
+msgstr "Выкл."
+
+#: ../functions.php:455 ../et-pagebuilder/et-pagebuilder.php:862
+#: ../et-pagebuilder/et-pagebuilder.php:6206
+#: ../et-pagebuilder/et-pagebuilder.php:8367
+#: ../et-pagebuilder/et-pagebuilder.php:8511
+#: ../et-pagebuilder/et-pagebuilder.php:8635
+#: ../et-pagebuilder/et-pagebuilder.php:8814
+#: ../et-pagebuilder/et-pagebuilder.php:9644
+msgid "On"
+msgstr "Вкл."
+
+#: ../functions.php:469 ../et-pagebuilder/et-pagebuilder.php:4028
+#: ../et-pagebuilder/et-pagebuilder.php:4704
+#: ../et-pagebuilder/et-pagebuilder.php:5082
+#: ../et-pagebuilder/et-pagebuilder.php:5350
+#: ../et-pagebuilder/et-pagebuilder.php:8106
+msgid "Use Background Color"
+msgstr "Использовать цвет фона"
+
+#: ../functions.php:473 ../et-pagebuilder/et-pagebuilder.php:877
+#: ../et-pagebuilder/et-pagebuilder.php:3057
+#: ../et-pagebuilder/et-pagebuilder.php:4056
+#: ../et-pagebuilder/et-pagebuilder.php:4732
+#: ../et-pagebuilder/et-pagebuilder.php:5110
+#: ../et-pagebuilder/et-pagebuilder.php:5378
+#: ../et-pagebuilder/et-pagebuilder.php:5684
+#: ../et-pagebuilder/et-pagebuilder.php:7723
+#: ../et-pagebuilder/et-pagebuilder.php:8136
+#: ../et-pagebuilder/et-pagebuilder.php:9319
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: ../functions.php:474 ../et-pagebuilder/et-pagebuilder.php:885
+#: ../et-pagebuilder/et-pagebuilder.php:3065
+#: ../et-pagebuilder/et-pagebuilder.php:3465
+#: ../et-pagebuilder/et-pagebuilder.php:3518
+#: ../et-pagebuilder/et-pagebuilder.php:4062
+#: ../et-pagebuilder/et-pagebuilder.php:5116
+#: ../et-pagebuilder/et-pagebuilder.php:5384
+#: ../et-pagebuilder/et-pagebuilder.php:5690
+#: ../et-pagebuilder/et-pagebuilder.php:5927
+#: ../et-pagebuilder/et-pagebuilder.php:7731
+#: ../et-pagebuilder/et-pagebuilder.php:7754
+#: ../et-pagebuilder/et-pagebuilder.php:8144
+#: ../et-pagebuilder/et-pagebuilder.php:8692
+#: ../et-pagebuilder/et-pagebuilder.php:8843
+#: ../et-pagebuilder/et-pagebuilder.php:9327
+#: ../et-pagebuilder/et-pagebuilder.php:9853
+msgid "Hex Value"
+msgstr "Шестнадцатеричное значение (цвета)"
+
+#: ../functions.php:478 ../et-pagebuilder/et-pagebuilder.php:1540
+#: ../et-pagebuilder/et-pagebuilder.php:2137
+#: ../et-pagebuilder/et-pagebuilder.php:3172
+#: ../et-pagebuilder/et-pagebuilder.php:3704
+#: ../et-pagebuilder/et-pagebuilder.php:4077
+#: ../et-pagebuilder/et-pagebuilder.php:4356
+#: ../et-pagebuilder/et-pagebuilder.php:4753
+#: ../et-pagebuilder/et-pagebuilder.php:5135
+#: ../et-pagebuilder/et-pagebuilder.php:5403
+#: ../et-pagebuilder/et-pagebuilder.php:5709
+#: ../et-pagebuilder/et-pagebuilder.php:6351
+#: ../et-pagebuilder/et-pagebuilder.php:6597
+#: ../et-pagebuilder/et-pagebuilder.php:6843
+#: ../et-pagebuilder/et-pagebuilder.php:7077
+#: ../et-pagebuilder/et-pagebuilder.php:7695
+#: ../et-pagebuilder/et-pagebuilder.php:8078
+#: ../et-pagebuilder/et-pagebuilder.php:8656
+#: ../et-pagebuilder/et-pagebuilder.php:8862
+#: ../et-pagebuilder/et-pagebuilder.php:9008
+#: ../et-pagebuilder/et-pagebuilder.php:9131
+#: ../et-pagebuilder/et-pagebuilder.php:9342
+#: ../et-pagebuilder/et-pagebuilder.php:9560
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: ../functions.php:620
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: ../functions.php:625
+msgid "Fonts"
+msgstr "Шрифты"
+
+#: ../functions.php:630
+msgid "Schemes"
+msgstr "Схемы"
+
+#: ../functions.php:632
+msgid ""
+"Note: Color settings set above should be applied to the Default color scheme."
+msgstr ""
+"Примечание: Настройки цвета, выбранные выше, будут применены к основной "
+"цветовой схеме."
+
+#: ../functions.php:643
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: ../functions.php:656
+msgid "Main Font Color"
+msgstr "Основной цвет шрифта"
+
+#: ../functions.php:669
+msgid "Accent Color"
+msgstr "Основной цвет"
+
+#: ../functions.php:682
+msgid "Footer Background Color"
+msgstr "Цвет фона футера"
+
+#: ../functions.php:695
+msgid "Menu Links Color"
+msgstr "Цвет ссылок в меню"
+
+#: ../functions.php:708
+msgid "Active Menu Link Color"
+msgstr "Цвет активных ссылок в меню"
+
+#: ../functions.php:720
+msgid "Boxed Layout"
+msgstr "Фиксированный размер макета страницы"
+
+#: ../functions.php:734
+msgid "Stretch Background Image"
+msgstr "Растянуть фоновое изображение"
+
+#: ../functions.php:747
+msgid "Vertical Navigation"
+msgstr "Вертикальная навигация"
+
+#: ../functions.php:760
+msgid "Show Social Icons in Header"
+msgstr "Показывать социальные иконки в шапке сайта"
+
+#: ../functions.php:774
+msgid "Show Social Icons in Footer"
+msgstr "Показывать социальные иконки в футере"
+
+#: ../functions.php:788
+msgid "Show Search Icon"
+msgstr "Показывать социальные иконки"
+
+#: ../functions.php:802
+msgid "Header Style"
+msgstr "Стиль шапки сайта"
+
+#: ../functions.php:806 ../functions.php:947
+msgid "Default"
+msgstr "По умолчанию"
+
+#: ../functions.php:807
+msgid "Centered"
+msgstr "По центру"
+
+#: ../functions.php:819
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: ../functions.php:832 ../et-pagebuilder/et-pagebuilder.php:5826
+msgid "Email"
+msgstr "Электронный адрес"
+
+#: ../functions.php:846
+msgid "Primary Navigation Background"
+msgstr "Фон основной навигации"
+
+#: ../functions.php:860
+msgid "Primary Navigation Text Color"
+msgstr "Цвет текста основной навигации"
+
+#: ../functions.php:878
+msgid "Secondary Navigation Background"
+msgstr "Фон дополнительной навигации"
+
+#: ../functions.php:892
+msgid "Secondary Navigation Text Color"
+msgstr "Цвет текста дополнительной навигации"
+
+#: ../functions.php:911
+msgid "Header Font"
+msgstr "Шрифт заголовков"
+
+#: ../functions.php:926
+msgid "Body Font"
+msgstr "Основной шрифт"
+
+#: ../functions.php:942
+msgid "Color Schemes"
+msgstr "Цветовые схемы"
+
+#: ../functions.php:948
+msgid "Green"
+msgstr "Зелен."
+
+#: ../functions.php:949
+msgid "Orange"
+msgstr "Оранж."
+
+#: ../functions.php:950
+msgid "Pink"
+msgstr "Розов."
+
+#: ../functions.php:951
+msgid "Red"
+msgstr "Красн."
+
+#: ../functions.php:1045
+msgid "0 comments"
+msgstr "Нет комментариев"
+
+#: ../functions.php:1045
+msgid "1 comment"
+msgstr "1 коммент."
+
+#: ../functions.php:1045
+msgid "comments"
+msgstr "коммент."
+
+#: ../functions.php:1268
+msgid "Password Protected"
+msgstr "Страница защищена паролем"
+
+#: ../functions.php:1269
+msgid "To view this protected post, enter the password below"
+msgstr "Чтобы просмотреть защищенную страницу. введите пароль ниже"
+
+#: ../functions.php:1272 ../functions.php:3607
+msgid "Password"
+msgstr "Пароль"
+
+#: ../functions.php:1273 ../functions.php:4668
+msgid "Submit"
+msgstr "Отправить"
+
+#: ../functions.php:1378
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../functions.php:1380
+msgid "Item"
+msgstr "Шт."
+
+#: ../functions.php:1380
+msgid "Items"
+msgstr "Шт."
+
+#: ../functions.php:1553
+msgid "Connecting..."
+msgstr "Соединение..."
+
+#: ../functions.php:1554
+msgid "Connection failed"
+msgstr "Не удалось установить соединение"
+
+#: ../functions.php:1555
+msgid "Removing connection..."
+msgstr "Удаление соединения..."
+
+#: ../functions.php:1556
+msgid "Done"
+msgstr "Выполнено"
+
+#: ../functions.php:1585
+#, php-format
+msgid ""
+"Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a>"
+msgstr ""
+"Шаг 1: <a href=\"%1$s\" target=\"_blank\">Сгенерировать код авторизации</a>"
+
+#: ../functions.php:1586
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr ""
+"Шаг 2: Вставьте код авторизации и нажмите кнопку \"Установление соединения"
+"\": "
+
+#: ../functions.php:1587
+msgid "Make a connection"
+msgstr "Установление соединения"
+
+#: ../functions.php:1590
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Aweber установлен корректно. Вы можете удалить соединение здесь, если хотите."
+
+#: ../functions.php:1591
+msgid "Remove the connection"
+msgstr "Удалить соединение"
+
+#: ../functions.php:1599
+msgid "Nonce failed."
+msgstr "Nonce не прошел валидацию."
+
+#: ../functions.php:1605
+msgid "Authorization code is empty."
+msgstr "Код авторизации пуст."
+
+#: ../functions.php:1616
+msgid ""
+"Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr ""
+"Код авторизации недействителен. Попробуйте сгенерировать и вставить новый "
+"код."
+
+#: ../functions.php:1638
+msgid "Aweber API Exception"
+msgstr "Aweber API исключение"
+
+#: ../functions.php:1639 ../epanel/shortcodes/shortcodes.php:999
+#: ../epanel/shortcodes/shortcodes.php:1021
+#: ../et-pagebuilder/et-pagebuilder.php:7211
+msgid "Type"
+msgstr "Вид"
+
+#: ../functions.php:1640 ../functions.php:4615
+msgid "Message"
+msgstr "Сообщение"
+
+#: ../functions.php:1641 ../epanel/options_divi.php:844
+msgid "Documentation"
+msgstr "Документация"
+
+#: ../functions.php:1651
+msgid "Nonce failed"
+msgstr "Nonce не прошел валидацию"
+
+#: ../functions.php:1746
+msgid "Read more"
+msgstr "Читать далее"
+
+#: ../functions.php:2499 ../includes/social_icons.php:6
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../functions.php:2507 ../et-pagebuilder/et-pagebuilder.php:9746
+#: ../includes/social_icons.php:13
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../functions.php:2515 ../et-pagebuilder/et-pagebuilder.php:9751
+msgid "Google+"
+msgstr "Google+"
+
+#: ../functions.php:2523 ../et-pagebuilder/et-pagebuilder.php:9761
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../functions.php:2750
+msgid "Tab"
+msgstr "Таб"
+
+#: ../functions.php:2949
+msgid "Follow"
+msgstr "Подписаться"
+
+#: ../functions.php:3033
+msgid "Days"
+msgstr "Дни"
+
+#: ../functions.php:3034
+msgid "Hours"
+msgstr "Часы"
+
+#: ../functions.php:3035
+msgid "Hrs"
+msgstr "Часы"
+
+#: ../functions.php:3036
+msgid "Minutes"
+msgstr "Минуты"
+
+#: ../functions.php:3037
+msgid "Min"
+msgstr "Мин."
+
+#: ../functions.php:3038
+msgid "Seconds"
+msgstr "Секунды"
+
+#: ../functions.php:3039
+msgid "Sec"
+msgstr "Сек."
+
+#: ../functions.php:3195
+#, php-format
+msgid "by <strong>%1$s</strong>"
+msgstr " <strong>%1$s</strong>"
+
+#: ../functions.php:3337
+msgid "Configuration error"
+msgstr "Ошибка конфигурации"
+
+#: ../functions.php:3347
+msgid "Please enter first name"
+msgstr "Пожалуйста, введите имя"
+
+#: ../functions.php:3349
+msgid "Incorrect email"
+msgstr "Ошибочный адрес электронной почты"
+
+#: ../functions.php:3351
+msgid "Configuration error: List is not defined"
+msgstr "Ошибка конфигурации: Список не определен"
+
+#: ../functions.php:3353
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!"
+"</h2>"
+msgstr ""
+"<h2 class=\"et_pb_subscribed\">Подписка оформлена - вам выслано письмо с "
+"подтверждением!</h2>"
+
+#: ../functions.php:3365
+msgid "Configuration error: api key is not defined"
+msgstr "Ошибка конфигурации: ключ API не определен"
+
+#: ../functions.php:3402
+msgid "Aweber: Wrong configuration data"
+msgstr "Aweber: Неправильные конфигурационные данные"
+
+#: ../functions.php:3435 ../et-pagebuilder/et-pagebuilder.php:409
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: ../functions.php:3455
+msgid "First Name"
+msgstr "Имя"
+
+#: ../functions.php:3456
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: ../functions.php:3457 ../functions.php:4614
+msgid "Email Address"
+msgstr "Электронный адрес"
+
+#: ../functions.php:3514 ../functions.php:4613
+#: ../et-pagebuilder/et-pagebuilder.php:4244
+msgid "Name"
+msgstr "Имя"
+
+#: ../functions.php:3595
+#, php-format
+msgid "Logged in as %1$s"
+msgstr "Вы вошли как %1$s"
+
+#: ../functions.php:3597
+msgid "Log out"
+msgstr "Выйти"
+
+#: ../functions.php:3606
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: ../functions.php:3627
+msgid "Forgot your password?"
+msgstr "Забыли пароль?"
+
+#: ../functions.php:3634 ../epanel/shortcodes/shortcodes.php:294
+#: ../et-pagebuilder/et-pagebuilder.php:410
+msgid "Login"
+msgstr "Войти"
+
+#: ../functions.php:3814
+#, php-format
+msgid "by %s"
+msgstr " %s"
+
+#: ../functions.php:3824
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../functions.php:3844
+msgid "read more..."
+msgstr "читать далее..."
+
+#: ../functions.php:3851
+msgid "read more"
+msgstr "читать далее"
+
+#: ../functions.php:4274
+msgid "All"
+msgstr "Все"
+
+#: ../functions.php:4553
+msgid "Make sure you entered the captcha."
+msgstr "Убедитесь, что вы ввели капчу."
+
+#: ../functions.php:4556
+msgid "You entered the wrong number in captcha."
+msgstr "Вы ввели неправильное число в капче."
+
+#: ../functions.php:4563
+msgid "Make sure you fill all fields."
+msgstr "Убедитесь, что вы заполнили все поля."
+
+#: ../functions.php:4568
+msgid "Invalid Email."
+msgstr "Неверный электронный адрес."
+
+#: ../functions.php:4603
+#, php-format
+msgid "New Message From %1$s%2$s"
+msgstr "Новое сообщение от %1$s%2$s"
+
+#: ../functions.php:4605
+#, php-format
+msgid " - %s"
+msgstr " - %s"
+
+#: ../functions.php:4608
+msgid "Thanks for contacting us"
+msgstr "Благодарим за обращение к нам"
+
+#: ../functions.php:4864 ../header.php:143 ../epanel/custom_functions.php:465
+msgid "Home"
+msgstr "Главная"
+
+#: ../header.php:170
+msgid "Search &hellip;"
+msgstr "Поиск &hellip;"
+
+#: ../header.php:172
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: ../page-template-blank.php:49 ../page.php:48 ../single-project.php:53
+#: ../single.php:93
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: ../single-project.php:62
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../single-project.php:63
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:401
+msgid "Saving..."
+msgstr "Сохранение..."
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Опции сохранены."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "Опции"
+
+#: ../epanel/core_functions.php:73
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "настройки сохранены."
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "сброс настроек."
+
+#: ../epanel/core_functions.php:111 ../epanel/options_divi.php:297
+#: ../epanel/options_divi.php:448
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Навигация"
+
+#: ../epanel/core_functions.php:117
+msgid "Layout Settings"
+msgstr "Настройки макета"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Управление баннерами"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "Цветовые опции"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Интеграция"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Документация"
+
+#: ../epanel/core_functions.php:209 ../epanel/core_functions.php:389
+msgid "Reset"
+msgstr "Сброс"
+
+#: ../epanel/core_functions.php:210
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: ../epanel/core_functions.php:237
+msgid "You don't have pages"
+msgstr "У вас нет страниц"
+
+#: ../epanel/core_functions.php:374
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: ../epanel/core_functions.php:385
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?</strong>"
+msgstr ""
+"Это вернет все настройки к значениям по умолчанию. <strong>Вы уверены, что "
+"хотите это сделать?</strong>"
+
+#: ../epanel/core_functions.php:559 ../et-pagebuilder/et-pagebuilder.php:1159
+#: ../et-pagebuilder/et-pagebuilder.php:1700
+#: ../et-pagebuilder/et-pagebuilder.php:2076
+#: ../et-pagebuilder/et-pagebuilder.php:3597
+#: ../et-pagebuilder/et-pagebuilder.php:3982
+#: ../et-pagebuilder/et-pagebuilder.php:4290
+#: ../et-pagebuilder/et-pagebuilder.php:5666
+msgid "Choose an Image"
+msgstr "Выбрать изображение"
+
+#: ../epanel/custom_functions.php:192
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: ../epanel/custom_functions.php:706
+msgid "Archives"
+msgstr "Архивы"
+
+#: ../epanel/custom_functions.php:708
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "Результаты поиска \"%s\""
+
+#: ../epanel/custom_functions.php:710
+msgid "404 Not Found"
+msgstr "404 ничего не найдено"
+
+#: ../epanel/custom_functions.php:781
+#, php-format
+msgid "Currently viewing archives from %1$s"
+msgstr "Процесс просмотра архива: %1$s"
+
+#: ../epanel/custom_functions.php:1014
+msgid "Image doesn't exist"
+msgstr "Изображение не существует"
+
+#: ../epanel/custom_functions.php:1210
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p>Это новая установка %1$s темы. Не забудьте зайти в "
+"<a href=\"%2$s\">ePanel</a> для конфигурации темы.  Это сообщение исчезнет, "
+"как только вы нажмете кнопку \"Сохранить\" <a href=\"%2$s\">на странице "
+"настроек темы</a>.</p></div>"
+
+#: ../epanel/custom_functions.php:1222
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
+"your Elegant Themes, you must first install the <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
+msgstr ""
+"Доступна новая версия темы %1$s. <a href=\"%2$s\" class=\"thickbox\" title="
+"\"%1$s\">Просмотреть %3$s детали</a>. <em>Прежде чем вы сможете обновить "
+"Elegant Themes, вы должны сначала установить <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> для проверки подлинности подписки.</em>"
+
+#: ../epanel/custom_functions.php:1226
+msgid ""
+"Before you can update your Elegant Themes, you must first install the <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
+"subscription."
+msgstr ""
+"Прежде чем вы сможете обновить Elegant Themes, вы должны сначала установить "
+"<a href=\"https://www.elegantthemes.com/members-area/documentation."
+"html#updater\" target=\"_blank\">Elegant Updater Plugin</a> для проверки "
+"подлинности подписки."
+
+#: ../epanel/options_divi.php:38
+msgid "General"
+msgstr "Общие"
+
+#: ../epanel/options_divi.php:45
+msgid "Logo"
+msgstr "Логотип"
+
+#: ../epanel/options_divi.php:48
+msgid "Set As Logo"
+msgstr "Выбрать для Логотипа"
+
+#: ../epanel/options_divi.php:50
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+"Если вы хотите использовать ваш собственный логотип, нажмите кнопку "
+"Загрузить изображение."
+
+#: ../epanel/options_divi.php:53
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../epanel/options_divi.php:56
+msgid "Set As Favicon"
+msgstr "Выбрать для Favicon"
+
+#: ../epanel/options_divi.php:58
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr ""
+"Если вы хотите использовать ваш собственный favicon, нажмите кнопку "
+"Загрузить изображение."
+
+#: ../epanel/options_divi.php:61
+msgid "Fixed Navigation Bar"
+msgstr "Фиксированная панель навигации"
+
+#: ../epanel/options_divi.php:65
+msgid ""
+"By default the navigation bar stays on top of the screen at all times. We "
+"suggest to disable this option, if you need to use a logo taller than the "
+"default one."
+msgstr ""
+"По умолчанию панель навигации всегда остается в верхней части экрана. Мы "
+"предлагаем отключить эту опцию, если вы хотите использовать логотип больший "
+"по размеру, чем оригинальный."
+
+#: ../epanel/options_divi.php:70
+msgid "Grab the first post image"
+msgstr "Использовать первое изображение поста"
+
+#: ../epanel/options_divi.php:74
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+"По умолчанию, картинки создаются при помощи произвольных полей ( custom "
+"fields ). Но если вы хотите использовать картинки, которые уже находятся в "
+"вашем посте и не использовать произвольные поля, вы можете активировать эту "
+"опцию. Когда вы активируете эту опцию, то будет использоваться первая "
+"картинка вашего поста. Картинка должна быть размещена на вашем сервере."
+
+#: ../epanel/options_divi.php:77
+msgid "Blog Style Mode"
+msgstr "Режим Блог"
+
+#: ../epanel/options_divi.php:81
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+"По умолчанию, в теме создаются выдержки ваших постов на домашней странице и "
+"на странице архивов. Если же вы хотите, чтобы посты отображались целиком на "
+"этих страницах, активируйте данную опцию."
+
+#: ../epanel/options_divi.php:86
+msgid "Shop Page & Category Page Layout for WooCommerce"
+msgstr "Макеты страницы магазина и страницы категории для WooCommerce"
+
+#: ../epanel/options_divi.php:95
+msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
+msgstr ""
+"Здесь вы можете выбрать макеты страниц магазина и категории для WooCommerce."
+
+#: ../epanel/options_divi.php:99
+msgid "MailChimp API Key"
+msgstr "MailChimp API Ключ"
+
+#: ../epanel/options_divi.php:104
+#, php-format
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"Введите ключ MailChimp API. Вы можете создать ключ api <a target=\"_blank\" "
+"href=\"%1$s\">здесь</a>"
+
+#: ../epanel/options_divi.php:107
+msgid "Aweber Authorization"
+msgstr "Aweber Авторизация"
+
+#: ../epanel/options_divi.php:109
+msgid "Authorize your Aweber account here."
+msgstr "Авторизируйте свой аккаунт Aweber здесь."
+
+#: ../epanel/options_divi.php:113
+msgid "Regenerate MailChimp Lists"
+msgstr "Перегенерировать списки Mailchimp"
+
+#: ../epanel/options_divi.php:117
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, "
+"but it doesn't appear within the SignUp module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"По умолчанию, списки MailChimp кэшируются на 1 день. Если вы добавили новый "
+"список, но он не появился в настройках SignUp модуля, активируйте эту опцию. "
+"Не забудьте отключить ее, как только список будет регенерирован."
+
+#: ../epanel/options_divi.php:119
+msgid "Regenerate Aweber Lists"
+msgstr "Перегенерировать списки Aweber"
+
+#: ../epanel/options_divi.php:123
+msgid ""
+"By default, Aweber lists are cached for one day. If you added new list, but "
+"it doesn't appear within the SignUp module settings, activate this option. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"По умолчанию, списки Aweber кэшируются на 1 день. Если вы добавили новый "
+"список, но он не появился в настройках SignUp модуля, активируйте эту опцию. "
+"Не забудьте отключить ее, как только список будет регенерирован."
+
+#: ../epanel/options_divi.php:127
+msgid "Show Facebook Icon"
+msgstr "Показать Facebook иконку"
+
+#: ../epanel/options_divi.php:131
+msgid "Here you can choose to display the Facebook Icon on your homepage. "
+msgstr ""
+"Здесь вы можете активировать отображение Facebook иконки на домашней "
+"странице."
+
+#: ../epanel/options_divi.php:133
+msgid "Show Twitter Icon"
+msgstr "Показать Twitter иконку"
+
+#: ../epanel/options_divi.php:137
+msgid "Here you can choose to display the Twitter Icon. "
+msgstr "Здесь вы можете активировать отображение Twitter иконки."
+
+#: ../epanel/options_divi.php:141
+msgid "Show Google+ Icon"
+msgstr "Показать Google+ иконку"
+
+#: ../epanel/options_divi.php:145
+msgid "Here you can choose to display the Google+ Icon on your homepage. "
+msgstr ""
+"Здесь вы можете активировать отображение Google+ иконки на домашней "
+"странице. "
+
+#: ../epanel/options_divi.php:147
+msgid "Show RSS Icon"
+msgstr "Показать RSS иконку"
+
+#: ../epanel/options_divi.php:151
+msgid "Here you can choose to display the RSS Icon. "
+msgstr "Здесь вы можете активировать отображение RSS иконки."
+
+#: ../epanel/options_divi.php:155 ../et-pagebuilder/et-pagebuilder.php:4384
+msgid "Facebook Profile Url"
+msgstr "URL профиля Facebook"
+
+#: ../epanel/options_divi.php:160
+msgid "Enter the URL of your Facebook Profile. "
+msgstr "Введите URL Вашего Facebook профиля. "
+
+#: ../epanel/options_divi.php:162 ../et-pagebuilder/et-pagebuilder.php:4401
+msgid "Twitter Profile Url"
+msgstr "URL профиля Twitter"
+
+#: ../epanel/options_divi.php:167
+msgid "Enter the URL of your Twitter Profile."
+msgstr "Введите URL Вашего Twitter профиля."
+
+#: ../epanel/options_divi.php:169 ../et-pagebuilder/et-pagebuilder.php:4418
+msgid "Google+ Profile Url"
+msgstr "URL профиля Google+"
+
+#: ../epanel/options_divi.php:174
+msgid "Enter the URL of your Google+ Profile. "
+msgstr "Введите URL Вашего Google+ профиля. "
+
+#: ../epanel/options_divi.php:176
+msgid "RSS Icon Url"
+msgstr "URL RSS ленты"
+
+#: ../epanel/options_divi.php:181
+msgid "Enter the URL of your RSS feed. "
+msgstr "Введите URL Вашей RSS ленты. "
+
+#: ../epanel/options_divi.php:183
+msgid "Number of Posts displayed on Category page"
+msgstr "Количество постов, отображающихся на странице категории"
+
+#: ../epanel/options_divi.php:187
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Здесь вы можете задавать количество постов, отображаемых на странице "
+"категории. Эта опция работает независимо от опции определения кол-ва постов "
+"из Settings > Reading в wp-admin."
+
+#: ../epanel/options_divi.php:191
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Количество постов, отображающихся на страницах архива"
+
+#: ../epanel/options_divi.php:195
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Здесь вы можете задавать количество постов, отображаемых на странице "
+"архивов. Эта опция работает независимо от опции определения кол-ва постов из "
+"Settings > Reading в wp-admin."
+
+#: ../epanel/options_divi.php:199
+msgid "Number of Posts displayed on Search pages"
+msgstr "Количество постов, отображающихся на страницах поиска"
+
+#: ../epanel/options_divi.php:203
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Здесь вы можете задавать количество постов, отображаемых на странице поиска. "
+"Эта опция работает независимо от опции определения кол-ва постов из Settings "
+"> Reading в wp-admin."
+
+#: ../epanel/options_divi.php:207
+msgid "Number of Posts displayed on Tag pages"
+msgstr "Количество постов, отображающихся на страницах тэгов"
+
+#: ../epanel/options_divi.php:211
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Здесь вы можете задавать количество постов, отображаемых на странице тэгов. "
+"Эта опция работает независимо от опции определения кол-ва постов из Settings "
+"> Reading в wp-admin."
+
+#: ../epanel/options_divi.php:215
+msgid "Date format"
+msgstr "Формат даты"
+
+#: ../epanel/options_divi.php:219
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"Эта опция позволяет изменить способ отображения дат. Для получения более "
+"подробной информации, пожалуйста, обратитесь к кодексу WordPress здесь:<a "
+"href='http://codex.wordpress.org/Formatting_Date_and_Time' "
+"target='_blank'>Форматирование даты и времени</a>"
+
+#: ../epanel/options_divi.php:225
+msgid "Use excerpts when defined"
+msgstr "Использовать выдержки постов, если они определены"
+
+#: ../epanel/options_divi.php:229
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "Это позволит использовать выдержки в постах или на страницах."
+
+#: ../epanel/options_divi.php:232
+msgid "Responsive shortcodes"
+msgstr "Адаптивные ( responsive ) шорткоды"
+
+#: ../epanel/options_divi.php:236
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+"Подключите эту опцию, чтобы шорткоды адаптировались к различным разрешениям "
+"экрана"
+
+#: ../epanel/options_divi.php:241
+msgid "Google Fonts subsets"
+msgstr "Вариации Google шрифтов"
+
+#: ../epanel/options_divi.php:245
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr ""
+"Активировать поддержку Google шрифтов для остальных языков, помимо "
+"английского."
+
+#: ../epanel/options_divi.php:248
+msgid "Back To Top Button"
+msgstr "Кнопка \"Вернуться Наверх\""
+
+#: ../epanel/options_divi.php:252
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr ""
+"Подключите эту опцию, чтобы отобразить кнопку \"Вернуться Наверх\" во время "
+"прокрутки"
+
+#: ../epanel/options_divi.php:255
+msgid "Smooth Scrolling"
+msgstr "Плавная прокрутка"
+
+#: ../epanel/options_divi.php:259
+msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
+msgstr ""
+"Подключите эту опцию для плавного эффекта прокрутки с помощью колесика мыши"
+
+#: ../epanel/options_divi.php:264
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: ../epanel/options_divi.php:268
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+"Здесь вы можете добавить css код, чтобы переопределить css код по умолчанию."
+
+#: ../epanel/options_divi.php:287
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../epanel/options_divi.php:305
+msgid "Exclude pages from the navigation bar"
+msgstr "Исключить страницы из меню"
+
+#: ../epanel/options_divi.php:309
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Здесь вы можете выбрать определенные страницы в меню навигации, чтобы "
+"удалить их. Все страницы, отмеченные X не будут отображаться в навигационной "
+"панели. "
+
+#: ../epanel/options_divi.php:313 ../epanel/options_divi.php:368
+msgid "Show dropdown menus"
+msgstr "Показывать выпадающие меню"
+
+#: ../epanel/options_divi.php:317
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"Если вы хотите удалить выпадающие меню в панели навигации, отключите эту "
+"опцию."
+
+#: ../epanel/options_divi.php:320
+msgid "Display Home link"
+msgstr "Показывать ссылку на домашнюю страницу"
+
+#: ../epanel/options_divi.php:324
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+"По умолчанию в теме создается ссылка на домашнюю страницу, которая ведет на "
+"страницу блога. Но если вы используете статическую домашнюю страницу с "
+"названием Home, это приведет к дублированию ссылки. В таком случае вам нужно "
+"отключить опцию, чтобы удалить автоматически созданную ссылку."
+
+#: ../epanel/options_divi.php:329
+msgid "Sort Pages Links"
+msgstr "Сортировать ссылки страниц"
+
+#: ../epanel/options_divi.php:333
+msgid "Here you can choose to sort your pages links."
+msgstr "Здесь вы можете выбрать способ сортировки ссылок страниц."
+
+#: ../epanel/options_divi.php:336
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Упорядочить ссылки по алфавиту"
+
+#: ../epanel/options_divi.php:340
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr "Здесь вы можете изменить порядок отображения ссылок по алфавиту."
+
+#: ../epanel/options_divi.php:343 ../epanel/options_divi.php:384
+msgid "Number of dropdown tiers shown"
+msgstr "Количество уровней выпадающего меню"
+
+#: ../epanel/options_divi.php:347 ../epanel/options_divi.php:388
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"Эта опция позволяет контролировать, количество уровней вашего выпадающего "
+"меню. Увеличение количества уровней позволяет отображать дополнительные "
+"элементы меню."
+
+#: ../epanel/options_divi.php:360
+msgid "Exclude categories from the navigation bar"
+msgstr "Исключить категории из меню"
+
+#: ../epanel/options_divi.php:364
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Здесь вы можете выбрать определенные категории в меню навигации, чтобы "
+"удалить их. Все категории, отмеченные X не будут отображаться в "
+"навигационной панели. "
+
+#: ../epanel/options_divi.php:372
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+"Если вы хотите удалить выпадающие меню из меню категорий, отключите эту "
+"опцию."
+
+#: ../epanel/options_divi.php:375
+msgid "Hide empty categories"
+msgstr "Спрятать пустые категории"
+
+#: ../epanel/options_divi.php:379
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+"Если вы хотите, чтобы категории в которых нет постов отображались в меню, "
+"отключите эту опцию. По умолчанию пустые категории скрыты"
+
+#: ../epanel/options_divi.php:394
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "Сортировать ссылки категорий по Name/ID/Slug/Count/Term Group"
+
+#: ../epanel/options_divi.php:398
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"По умолчанию, страницы сортируются по имени. Однако, если вы предпочитаете "
+"сортировку по ID вы можете использовать эту настройку."
+
+#: ../epanel/options_divi.php:401
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Упорядочить ссылки категорий по алфавиту"
+
+#: ../epanel/options_divi.php:405
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr "Здесь вы можете изменить порядок отображения ссылок категорий."
+
+#: ../epanel/options_divi.php:414
+msgid "Disable top tier dropdown menu links"
+msgstr "Отключить верхний ряд ссылок с подссылками в меню"
+
+#: ../epanel/options_divi.php:418
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+"В некоторых случаях, пользователи хотят использовать родительские категории "
+"или ссылки, чтобы определить ссылку, из которой выпадает меню. В этом случае "
+"нежелательно, чтобы эта ссылка была не пустой. Активируя эту опцию, вы "
+"уберете все ссылки с родительских страниц и категорий, чтобы они никуда не "
+"вели."
+
+#: ../epanel/options_divi.php:438
+msgid "Single Post Layout"
+msgstr "Макет поста"
+
+#: ../epanel/options_divi.php:443
+msgid "Single Page Layout"
+msgstr "Макет страницы"
+
+#: ../epanel/options_divi.php:456
+msgid "Choose which items to display in the postinfo section"
+msgstr "Выберите элементы для отображения в секции postinfo"
+
+#: ../epanel/options_divi.php:460
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+"Здесь вы можете выбрать какие элементы показывать на странице поста. Обычно "
+"эта информация следует за заголовком и отображает основные сведения о посте. "
+"Активные элементы будут отображаться."
+
+#: ../epanel/options_divi.php:464
+msgid "Show comments on posts"
+msgstr "Показывать комментарии в постах"
+
+#: ../epanel/options_divi.php:468
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+"Вы можете отключить эту опцию, чтобы не показывать форму добавления "
+"комментариев и сами комментарии на странице постов. "
+
+#: ../epanel/options_divi.php:471
+msgid "Place Thumbs on Posts"
+msgstr "Поместить картинки в посты"
+
+#: ../epanel/options_divi.php:475
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+"По умолчанию картинки размещены в начале страницы поста. Если вы хотите "
+"удалить эту картинку, избежав повторения, отключите эту опцию. "
+
+#: ../epanel/options_divi.php:486
+msgid "Place Thumbs on Pages"
+msgstr "Поместить картинки на страницах"
+
+#: ../epanel/options_divi.php:490
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option. "
+msgstr ""
+"По умолчанию картинки не размещаются на страницах ( они используются только "
+"в постах ). Однако, если вы хотите использовать картинки на страницах, "
+"просто подключите данную опцию."
+
+#: ../epanel/options_divi.php:493
+msgid "Show comments on pages"
+msgstr "Показывать комментарии на страницах"
+
+#: ../epanel/options_divi.php:497
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"По умолчанию, комментарии не размещаются на страницах, однако, если вы "
+"хотите, чтобы люди могли оставлять комментарии на ваших страницах, просто "
+"подключите эту опцию. "
+
+#: ../epanel/options_divi.php:508
+msgid "Post info section"
+msgstr "Секция postinfo ( информация о посте )"
+
+#: ../epanel/options_divi.php:512
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"Здесь вы можете выбрать какие элементы показывать в postinfo секции на "
+"страницах. Обычно эта информация следует за заголовком и отображает основные "
+"сведения. Активные элементы будут отображаться. "
+
+#: ../epanel/options_divi.php:517
+msgid "Show Thumbs on Index pages"
+msgstr "Показывать картинки на страницах архивов"
+
+#: ../epanel/options_divi.php:521
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "Подключить эту опцию, чтобы показывать картинки на страницах архивов."
+
+#: ../epanel/options_divi.php:540
+msgid "Homepage SEO"
+msgstr "SEO: домашняя страница"
+
+#: ../epanel/options_divi.php:545
+msgid "Single Post Page SEO"
+msgstr "SEO: страница поста"
+
+#: ../epanel/options_divi.php:550
+msgid "Index Page SEO"
+msgstr "SEO: главная страница"
+
+#: ../epanel/options_divi.php:558
+msgid " Enable custom title "
+msgstr "Использовать произвольный заголовок"
+
+#: ../epanel/options_divi.php:562
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"По умолчанию тема использует сочетание названия и описания вашего сайта, "
+"которые вы определили во время создания сайта, для создания названия "
+"домашней страницы. Однако если вы хотите создать произвольный заголовок, "
+"просто подключите данную опцию и заполните  произвольное поле Название "
+"( title ) ниже."
+
+#: ../epanel/options_divi.php:565
+msgid " Enable meta description"
+msgstr "Подключить мета описание"
+
+#: ../epanel/options_divi.php:569
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"По умолчанию тема использует описание вашего сайта, которые вы определили во "
+"время создания сайта, для создания тэгов meta описания. Если вы хотите "
+"использовать другое описание,  подключите данную опцию и заполните "
+"произвольного поле Описание ( description ) ниже."
+
+#: ../epanel/options_divi.php:572
+msgid " Enable meta keywords"
+msgstr "Подключить мета ключевые слова"
+
+#: ../epanel/options_divi.php:576
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+"По умолчанию тема не добавляет ключевые слова в шапку сайта. Многие "
+"поисковые системы больше не используют ключевые слова для оценки вашего "
+"сайта, но многие пользователи все равно определяют их. Если вы хотите "
+"добавить meta тэг с ключевыми словами, просто подключите эту опцию и "
+"добавьте их в произвольное поле keywords ниже."
+
+#: ../epanel/options_divi.php:579 ../epanel/options_divi.php:712
+msgid " Enable canonical URL's"
+msgstr "Использовать канонический URL"
+
+#: ../epanel/options_divi.php:583 ../epanel/options_divi.php:661
+#: ../epanel/options_divi.php:716
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treated individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"Канонизация помогает избежать индексирования одинакового контента поисковыми "
+"сервисами, и как результат, может помочь предотвратить блокирование сайта из-"
+"за дублирующегося контента и ухудшение ранга сайта в поисковой системе. "
+"Существуют страницы с разными ссылками, ведущими на одно и тоже место на "
+"сайте, например domain.com, domain.com/index.html, и www.domain.com, все эти "
+"ссылки ведут на главную страницу сайта. С точки зрения поисковых систем, эти "
+"дублирующиеся ссылки, которые также часто возникают вследствие использования "
+"произвольных ссылок ( custom permalinks ), могут восприниматься как "
+"уникальные ссылки. Определяя канонический URL, вы указываете поисковой "
+"системе какой URL вы хотите использовать. Тема создает канонический URL из "
+"ваших ссылок и имени домена, определенных в установках в wp-admin. "
+
+#: ../epanel/options_divi.php:588
+msgid "Homepage custom title (if enabled)"
+msgstr "Произвольный заголовок на домашней странице  (если подключено)"
+
+#: ../epanel/options_divi.php:592
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+"Если вы активировали произвольные заголовки, вы можете добавить ваш "
+"произвольный заголовок сюда. Все, что вы напишите сюда будет размещено между "
+"тэгами < title >< /title > в файле header.php"
+
+#: ../epanel/options_divi.php:596
+msgid "Homepage meta description (if enabled)"
+msgstr "Мета описание на домашней странице  (если подключено)"
+
+#: ../epanel/options_divi.php:600
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr ""
+"Если у вас активированы описания meta вы можете добавить описание сюда."
+
+#: ../epanel/options_divi.php:604
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Мета ключевые слова на домашней странице  (если подключено)"
+
+#: ../epanel/options_divi.php:608
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+"Если у вас активированы ключевые слова meta, вы можете добавить ключевые "
+"слова сюда. Ключевые слова должны быть разделены запытями. Например: "
+"wordpress,themes,templates,elegant"
+
+#: ../epanel/options_divi.php:612 ../epanel/options_divi.php:690
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr "Если произвольные заголовки отключены, выберите метод автогенерации"
+
+#: ../epanel/options_divi.php:617
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Если вы не используете произвольные заголовки вы все равно можете "
+"контролировать как ваши заголовки генерируются. Здесь вы можете выбрать "
+"порядок отображения заголовка поста и названия сайта или вы можете полностью "
+"удалить название сайта из заголовка страницы."
+
+#: ../epanel/options_divi.php:620 ../epanel/options_divi.php:698
+#: ../epanel/options_divi.php:736
+msgid "Define a character to separate BlogName and Post title"
+msgstr "Определить символ, который отделяет название сайта от названия поста"
+
+#: ../epanel/options_divi.php:624 ../epanel/options_divi.php:702
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Здесь вы можете выбрать символ разделяющий название поста и заголовка сайта, "
+"когда название страниц генерируется автоматически. Самые распространенные "
+"значения: | или -"
+
+#: ../epanel/options_divi.php:634
+msgid "Enable custom titles"
+msgstr "Подключить произвольные заголовки"
+
+#: ../epanel/options_divi.php:638
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+"По умолчанию в теме создается название страниц при помощи название постов и "
+"имени сайта. Если вы хотите, чтобы заголовок meta отличался от названия "
+"поста, вы можете определить произвольное значение для каждого поста "
+"используя произвольные поля. Опция должна быть включена для этого и вы "
+"должны выбрать название произвольного поля ниже."
+
+#: ../epanel/options_divi.php:641
+msgid "Enable custom description"
+msgstr "Подключить произвольное описание"
+
+#: ../epanel/options_divi.php:645
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+"Если вы хотите добавить описание meta в ваш пост, вы можете сделать это, "
+"используя произвольные поля. Эта опция должна быть подключена для этого. Вы "
+"можете добавить ваше meta описание используя произвольные поля на основании "
+"произвольного поля Название, которое вы определили ниже."
+
+#: ../epanel/options_divi.php:650
+msgid "Enable custom keywords"
+msgstr "Подключить произвольные ключевые слова"
+
+#: ../epanel/options_divi.php:654
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"Если вы хотите добавить ключевые слова к вашему посту, вы можете "
+"использовать произвольные поля для этого. Эта опция должна быть включена "
+"чтобы применить ключевые слова к страницам постов. Вы можете добавить "
+"ключевые слова, используя произвольные поля, на основании значения в "
+"произвольном поле Имя, определенном ниже."
+
+#: ../epanel/options_divi.php:657
+msgid "Enable canonical URL's"
+msgstr "Подключить канонический URL"
+
+#: ../epanel/options_divi.php:666
+msgid "Custom field Name to be used for title"
+msgstr "Имя произвольного поля, используемого для заголовков"
+
+#: ../epanel/options_divi.php:670
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"Когда вы определяете ваш заголовок с помощью произвольных полей ( custom "
+"fields ), вы должны использовать это значение для имени произвольного поля "
+"( custom field Name ). Значение вашего произвольного поля должно быть "
+"названием страницы, которое вы хотите использовать."
+
+#: ../epanel/options_divi.php:674
+msgid "Custom field Name to be used for description"
+msgstr "Имя произвольного поля используемого для описания"
+
+#: ../epanel/options_divi.php:678
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+"Когда вы определяете описание meta, используя произвольные поля, вам нужно "
+"использовать это значение для имени произвольного поля. Значение "
+"произвольного поля будет описание страницы, которое вы хотите использовать."
+
+#: ../epanel/options_divi.php:682
+msgid "Custom field Name to be used for keywords"
+msgstr ""
+"Имя произвольного поля ( custom fields ), которое будет использоваться для "
+"ключевых слов"
+
+#: ../epanel/options_divi.php:686
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"Когда вы определяете ключевые слова с помощью произвольных полей ( custom "
+"fields ), вы должны использовать это значение для имени произвольного поля "
+"( custom field Name ). Значение вашего произвольного поля должно содержать "
+"ключевые слова, разделенные запятой."
+
+#: ../epanel/options_divi.php:695
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Если вы не используете произвольные заголовки, вы все равно можете "
+"контролировать каким образом генерируются названия страниц. Здесь вы можете "
+"выбрать порядок отображения заголовка поста и названия сайта, или вы можете "
+"совсем удалить название сайта из имени страницы."
+
+#: ../epanel/options_divi.php:719
+msgid "Enable meta descriptions"
+msgstr "Подключить мета описания"
+
+#: ../epanel/options_divi.php:723
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"Активируйте эту опцию, если вы хотите отображать meta описание на страницах "
+"категорий и архивов. Описание основано на описании категории, которое "
+"задается когда вы создаете или редактируете категорию в wp-admin."
+
+#: ../epanel/options_divi.php:728
+msgid "Choose title autogeneration method"
+msgstr "Выберите метод автогенерации заголовка"
+
+#: ../epanel/options_divi.php:733
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"Здесь вы можете выбрать как генерируются заголовки страниц архивов. Вы "
+"можете поменять порядок, в котором отображаются имя сайта и название "
+"страницы или вы можете удалить название сайта полностью."
+
+#: ../epanel/options_divi.php:740
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Здесь вы можете выбрать какой символ отделяет название сайта от названия "
+"страницы архива, на которой автоматически генерируются заголовки. Самые "
+"распространенные значения: | или -"
+
+#: ../epanel/options_divi.php:761
+msgid "Code Integration"
+msgstr "Код интеграции"
+
+#: ../epanel/options_divi.php:769
+msgid "Enable header code"
+msgstr "Подключить код шапки сайта"
+
+#: ../epanel/options_divi.php:773
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Деактивация этой опции удалит код в шапке сайта. Таким образом, вы можете "
+"оставить код на будущее, удалив его при этом с сайта."
+
+#: ../epanel/options_divi.php:776
+msgid "Enable body code"
+msgstr "Подключить код, добавленный к тегу <body>"
+
+#: ../epanel/options_divi.php:780
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Деактивация этой опции удалит код в тэге body на вашем сайте. Таким образом, "
+"вы можете оставить код на будущее, удалив его при этом с сайта."
+
+#: ../epanel/options_divi.php:785
+msgid "Enable single top code"
+msgstr "Активировать код в верхней части одиночных страниц"
+
+#: ../epanel/options_divi.php:789
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"Деактивация этой опции удалит код в верхней части на одиночных страницах "
+"сайта. Таким образом, вы можете оставить код на будущее, удалив его при этом "
+"с сайта."
+
+#: ../epanel/options_divi.php:792
+msgid "Enable single bottom code"
+msgstr "Активировать код в нижней части одиночных страниц"
+
+#: ../epanel/options_divi.php:796
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+"Деактивация этой опции удалит код в нижней части одиночных страниц сайта. "
+"Таким образом, вы можете оставить код на будущее, удалив его при этом с "
+"сайта."
+
+#: ../epanel/options_divi.php:801
+msgid "Add code to the < head > of your blog"
+msgstr "Добавить код в < head > вашего блога"
+
+#: ../epanel/options_divi.php:805
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Любой код, размещенный здесь, появится в верхней части каждой страницы "
+"вашего блога. Это удобно, когда нужно добавить JavaScript или CSS для всех "
+"страниц."
+
+#: ../epanel/options_divi.php:808
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+"Добавить код в тэг < body > ( лучше всего работает для кода статистики, "
+"например google analytics )"
+
+#: ../epanel/options_divi.php:812
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+"Любой код размещенный здесь появится в тэге body на всех страницах сайта. "
+"Это позволяет размещать код статистики посещений, как например Google "
+"Analytics"
+
+#: ../epanel/options_divi.php:815
+msgid "Add code to the top of your posts"
+msgstr "Добавьте код в начало ваших постов"
+
+#: ../epanel/options_divi.php:819 ../epanel/options_divi.php:826
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Любой код размещенный здесь будет расположен в верхней части одиночных "
+"страниц постов. Может быть полезно для интеграции ссылок \"поделиться постом"
+"\" на различных социальных сайтах и так далее."
+
+#: ../epanel/options_divi.php:822
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "Добавьте код в нижнюю часть ваших постов, перед комментариями"
+
+#: ../epanel/options_divi.php:870
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Управление рекламными блоками, расположенными вне виджетов"
+
+#: ../epanel/options_divi.php:878
+msgid "Enable Single Post 468x60 banner"
+msgstr "Активировать 468x60 баннер на страницах постов"
+
+#: ../epanel/options_divi.php:882
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"Активация этой опции отобразит 468x60 баннер в нижней части ваших страниц "
+"постов, после контента поста. Если эта опция активирована, то вам нужно "
+"заполнить поля: url картинки и url ссылки ниже."
+
+#: ../epanel/options_divi.php:887
+msgid "Input 468x60 advertisement banner image"
+msgstr "Введите путь к картинке 468x60 баннера"
+
+#: ../epanel/options_divi.php:891
+msgid "Here you can provide 468x60 banner image url"
+msgstr "Здесь вам нужно указать url 468x60 баннера"
+
+#: ../epanel/options_divi.php:895
+msgid "Input 468x60 advertisement destination url"
+msgstr "Введите ссылку для 468x60 баннера"
+
+#: ../epanel/options_divi.php:899
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "Здесь вам нужно указать ссылку на 468x60 баннер"
+
+#: ../epanel/options_divi.php:903
+msgid "Input 468x60 adsense code"
+msgstr "Введите 468x60 код adsense"
+
+#: ../epanel/options_divi.php:907
+msgid "Place your adsense code here."
+msgstr "Поместите adsense код здесь."
+
+#: ../epanel/shortcodes/shortcodes.php:273
+msgid "Tweet"
+msgstr "Твитнуть"
+
+#: ../epanel/shortcodes/shortcodes.php:289
+msgid "Member Login"
+msgstr "Вход для зарегистрированных пользователей"
+
+#: ../epanel/shortcodes/shortcodes.php:292
+msgid "Username: "
+msgstr "Имя пользователя: "
+
+#: ../epanel/shortcodes/shortcodes.php:293
+msgid "Password: "
+msgstr "Пароль: "
+
+#: ../epanel/shortcodes/shortcodes.php:330
+msgid "Add a Tooltip Text"
+msgstr "Добавить текст всплывающей подсказки"
+
+#: ../epanel/shortcodes/shortcodes.php:352
+msgid "Click here to learn more"
+msgstr "Нажмите, чтобы узнать больше."
+
+#: ../epanel/shortcodes/shortcodes.php:732
+msgid "Join Now"
+msgstr "Подписаться сейчас"
+
+#: ../epanel/shortcodes/shortcodes.php:967
+msgid "Add ET Learn more block"
+msgstr "Добавить ET - блок Learn More"
+
+#: ../epanel/shortcodes/shortcodes.php:968
+msgid "Add ET Box"
+msgstr "Добавить ET - блок с контентом"
+
+#: ../epanel/shortcodes/shortcodes.php:969
+msgid "Add ET Button"
+msgstr "Добавить ET - кнопку"
+
+#: ../epanel/shortcodes/shortcodes.php:970
+msgid "Add ET Tabs"
+msgstr "Добавить ET - вкладки"
+
+#: ../epanel/shortcodes/shortcodes.php:971
+msgid "Add Author Bio"
+msgstr "Добавить информацию об авторе"
+
+#: ../epanel/shortcodes/shortcodes.php:972
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: ../epanel/shortcodes/shortcodes.php:977
+msgid "Caption"
+msgstr "Заголовок"
+
+#: ../epanel/shortcodes/shortcodes.php:978
+msgid "Caption goes here"
+msgstr "Введите сюда заголовок"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "Caption title goes here"
+msgstr "Здесь отображается заголовок"
+
+#: ../epanel/shortcodes/shortcodes.php:983
+#: ../et-pagebuilder/et-pagebuilder.php:4547
+msgid "State"
+msgstr "Вид"
+
+#: ../epanel/shortcodes/shortcodes.php:985
+msgid "Select between expanded and closed state"
+msgstr "Выберите открытый или закрытый вид"
+
+#: ../epanel/shortcodes/shortcodes.php:990
+#: ../epanel/shortcodes/shortcodes.php:1006
+#: ../epanel/shortcodes/shortcodes.php:1035
+#: ../epanel/shortcodes/shortcodes.php:1115
+#: ../et-pagebuilder/et-pagebuilder.php:1906
+#: ../et-pagebuilder/et-pagebuilder.php:2230
+#: ../et-pagebuilder/et-pagebuilder.php:2363
+#: ../et-pagebuilder/et-pagebuilder.php:2400
+#: ../et-pagebuilder/et-pagebuilder.php:2645
+#: ../et-pagebuilder/et-pagebuilder.php:2890
+#: ../et-pagebuilder/et-pagebuilder.php:3322
+#: ../et-pagebuilder/et-pagebuilder.php:3796
+#: ../et-pagebuilder/et-pagebuilder.php:4166
+#: ../et-pagebuilder/et-pagebuilder.php:4575
+#: ../et-pagebuilder/et-pagebuilder.php:4844
+#: ../et-pagebuilder/et-pagebuilder.php:5227
+#: ../et-pagebuilder/et-pagebuilder.php:5494
+#: ../et-pagebuilder/et-pagebuilder.php:6166
+#: ../et-pagebuilder/et-pagebuilder.php:7412
+#: ../et-pagebuilder/et-pagebuilder.php:7645
+#: ../et-pagebuilder/et-pagebuilder.php:7773
+#: ../et-pagebuilder/et-pagebuilder.php:7913
+#: ../et-pagebuilder/et-pagebuilder.php:8016
+#: ../et-pagebuilder/et-pagebuilder.php:8277
+#: ../et-pagebuilder/et-pagebuilder.php:8315
+#: ../et-pagebuilder/et-pagebuilder.php:8459
+#: ../et-pagebuilder/et-pagebuilder.php:9588
+msgid "Content"
+msgstr "Контент"
+
+#: ../epanel/shortcodes/shortcodes.php:991
+#: ../epanel/shortcodes/shortcodes.php:1007
+#: ../epanel/shortcodes/shortcodes.php:1093
+#: ../epanel/shortcodes/shortcodes.php:1116
+msgid "Content goes here"
+msgstr "Введите контент сюда"
+
+#: ../epanel/shortcodes/shortcodes.php:992
+#: ../epanel/shortcodes/shortcodes.php:1008
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Content text or html"
+msgstr "Текст или html"
+
+#: ../epanel/shortcodes/shortcodes.php:1001
+msgid "Type of the box"
+msgstr "Вид контейнера"
+
+#: ../epanel/shortcodes/shortcodes.php:1015
+msgid "Link"
+msgstr "Ссылка"
+
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "URL"
+msgstr "URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1023
+msgid "Choose button type"
+msgstr "Выбрать тип кнопки"
+
+#: ../epanel/shortcodes/shortcodes.php:1028
+#: ../et-pagebuilder/et-pagebuilder.php:5921
+msgid "Color"
+msgstr "Цвет"
+
+#: ../epanel/shortcodes/shortcodes.php:1030
+msgid "Choose button color"
+msgstr "Выбрать цвет кнопки"
+
+#: ../epanel/shortcodes/shortcodes.php:1036
+msgid "Link text"
+msgstr "Текст ссылки"
+
+#: ../epanel/shortcodes/shortcodes.php:1041
+#: ../et-pagebuilder/et-pagebuilder.php:3439
+msgid "Icon"
+msgstr "Иконка"
+
+#: ../epanel/shortcodes/shortcodes.php:1043
+msgid "Used for icon button type"
+msgstr "Используется для типа иконки кнопки"
+
+#: ../epanel/shortcodes/shortcodes.php:1048
+msgid "Open link in new window"
+msgstr "Открыть ссылку в новом окне"
+
+#: ../epanel/shortcodes/shortcodes.php:1050
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Выберите Да, если ссылка должна быть открыта в новом окне"
+
+#: ../epanel/shortcodes/shortcodes.php:1058
+msgid "Slider Type"
+msgstr "Тип слайдера"
+
+#: ../epanel/shortcodes/shortcodes.php:1060
+msgid "Select Slider Type here"
+msgstr "Выбрать тип слайдера здесь"
+
+#: ../epanel/shortcodes/shortcodes.php:1065
+msgid "Effect"
+msgstr "Эффект"
+
+#: ../epanel/shortcodes/shortcodes.php:1067
+msgid "Select Animation Effect"
+msgstr "Выбрать эффект анимации"
+
+#: ../epanel/shortcodes/shortcodes.php:1072
+msgid "Auto"
+msgstr "Автомат."
+
+#: ../epanel/shortcodes/shortcodes.php:1074
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Выберите Да, если хотите установить автоматическую анимацию у слайдера"
+
+#: ../epanel/shortcodes/shortcodes.php:1079
+msgid "Auto Speed"
+msgstr "Автоматическая скорость"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr ""
+"Автоматическая скорость слайдера (работает только, если установлено значение "
+"Да)"
+
+#: ../epanel/shortcodes/shortcodes.php:1085
+msgid "Tab Text"
+msgstr "Текст таба"
+
+#: ../epanel/shortcodes/shortcodes.php:1092
+msgid "Tab Content"
+msgstr "Контент таба"
+
+#: ../epanel/shortcodes/shortcodes.php:1094
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+"Вставьте url изображения здесь, если вы выбрали вид слайдера \"изображения\""
+
+#: ../epanel/shortcodes/shortcodes.php:1102
+msgid "Image Url"
+msgstr "Url изображения"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Author Image URL"
+msgstr "URL изображения автора"
+
+#: ../epanel/shortcodes/shortcodes.php:1108
+msgid "Use resizing"
+msgstr "Использовать автоматическое изменение размера картинки"
+
+#: ../epanel/shortcodes/shortcodes.php:1185
+msgid "+ Add One More Tab"
+msgstr "+ Добавить еще один таб"
+
+#: ../epanel/shortcodes/shortcodes.php:1335
+msgid "Image Height"
+msgstr "Высота изображения"
+
+#: ../epanel/shortcodes/shortcodes.php:1336
+msgid "Image Width"
+msgstr "Ширина изображения"
+
+#: ../et-pagebuilder/et-pagebuilder.php:33
+#: ../et-pagebuilder/et-pagebuilder.php:72
+msgid "Export Page Builder Layouts"
+msgstr "Экспортировать макеты конструктора страниц"
+
+#: ../et-pagebuilder/et-pagebuilder.php:67
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr "У вас нет достаточно прав, чтобы экспортировать контент этого сайта."
+
+#: ../et-pagebuilder/et-pagebuilder.php:73
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+"При нажатии кнопки, находящейся ниже, WordPress создаст XML файл, для "
+"сохранения на вашем компьютере."
+
+#: ../et-pagebuilder/et-pagebuilder.php:74
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain all "
+"layouts you created using the Page Builder."
+msgstr ""
+"Этот формат, который мы называем WordPress расширенный RSS или WXR, будет "
+"содержать все макеты созданные с помощью конструктора страниц."
+
+#: ../et-pagebuilder/et-pagebuilder.php:75
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import all layouts from this site."
+msgstr ""
+"После того как вы сохранили загруженный файл, вы можете использовать его на "
+"другом сайте, чтобы импортировать все макеты с этого сайта."
+
+#: ../et-pagebuilder/et-pagebuilder.php:81
+msgid "Download Export File"
+msgstr "Загрузить файл экспорта"
+
+#: ../et-pagebuilder/et-pagebuilder.php:97
+#: ../et-pagebuilder/et-pagebuilder.php:99
+msgid "Use Default Editor"
+msgstr "Использовать редактор по умолчанию "
+
+#: ../et-pagebuilder/et-pagebuilder.php:97
+#: ../et-pagebuilder/et-pagebuilder.php:98
+msgid "Use Page Builder"
+msgstr "Использовать конструктор страниц"
+
+#: ../et-pagebuilder/et-pagebuilder.php:122
+msgid "Here you can create new widget areas for use in the Sidebar module"
+msgstr ""
+"Здесь вы можете создать новые зоны для виджетов, чтобы использовать их в "
+"модуле сайдбара"
+
+#: ../et-pagebuilder/et-pagebuilder.php:123
+msgid ""
+"Note: Naming your widget area \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" or \"sidebar 5\" will cause conflicts with this theme"
+msgstr ""
+"Заметка: Если вы назовете зону виджетов \"sidebar 1\", \"sidebar 2\", "
+"\"sidebar 3\", \"sidebar 4\" or \"sidebar 5\", это вызовет конфликт с темой"
+
+#: ../et-pagebuilder/et-pagebuilder.php:124
+msgid "Widget Name"
+msgstr "Имя виджета"
+
+#: ../et-pagebuilder/et-pagebuilder.php:125
+msgid "Create"
+msgstr "Создать"
+
+#: ../et-pagebuilder/et-pagebuilder.php:127
+#: ../et-pagebuilder/et-pagebuilder.php:267
+#: ../et-pagebuilder/et-pagebuilder.php:2300
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../et-pagebuilder/et-pagebuilder.php:209
+#, php-format
+msgid ""
+"<strong>%1$s</strong> widget area has been created. You can create more "
+"areas, once you finish update the page to see all the areas."
+msgstr ""
+"<strong>%1$s</strong> зона виджетов была создана. Вы можете создать больше "
+"зон, как только вы закончите, обновите страницу, чтобы увидеть все зоны."
+
+#: ../et-pagebuilder/et-pagebuilder.php:238
+msgid "Replace the existing content with loaded layout"
+msgstr "Заменить существующий контент на загруженный макет"
+
+#: ../et-pagebuilder/et-pagebuilder.php:256
+msgid "Saved Layouts:"
+msgstr "Сохраненные макеты:"
+
+#: ../et-pagebuilder/et-pagebuilder.php:266
+#: ../et-pagebuilder/et-pagebuilder.php:298
+msgid "Load"
+msgstr "Загрузить"
+
+#: ../et-pagebuilder/et-pagebuilder.php:288
+msgid "Predefined Layouts:"
+msgstr "Макеты по умолчанию:"
+
+#: ../et-pagebuilder/et-pagebuilder.php:388
+msgid "The section should have at least one row."
+msgstr "В этой секции должен быть по крайней мере один ряд."
+
+#: ../et-pagebuilder/et-pagebuilder.php:389
+msgid "Fullwidth module can't be used outside of the Fullwidth Section."
+msgstr ""
+"Модуль Fullwidth не может быть использован за пределами Fullwidth секции."
+
+#: ../et-pagebuilder/et-pagebuilder.php:390
+msgid "3 column row can't be used in this column."
+msgstr "Ряд с тремя колонками не может быть использован в этой колонке."
+
+#: ../et-pagebuilder/et-pagebuilder.php:391
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: ../et-pagebuilder/et-pagebuilder.php:392
+msgid "Module"
+msgstr "Модуль"
+
+#: ../et-pagebuilder/et-pagebuilder.php:393
+msgid ""
+"Still images cannot be generated from this video service and/or this video "
+"format"
+msgstr ""
+"Картинки не могут быть сгенерированы с этого видео сервиса / или данный "
+"формат видео не поддерживается"
+
+#: ../et-pagebuilder/et-pagebuilder.php:394
+msgid "Geocode was not successful for the following reason"
+msgstr "Геокод не был воспроизведен по следующей причине"
+
+#: ../et-pagebuilder/et-pagebuilder.php:395
+msgid "Geocoder failed due to"
+msgstr "Геокодер не сработал из-за"
+
+#: ../et-pagebuilder/et-pagebuilder.php:396
+msgid "No results found"
+msgstr "Ничего не найдено"
+
+#: ../et-pagebuilder/et-pagebuilder.php:397
+#: ../et-pagebuilder/et-pagebuilder.php:3586
+#: ../includes/widgets/widget-about.php:50
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:236
+msgid "Image"
+msgstr "Изображение"
+
+#: ../et-pagebuilder/et-pagebuilder.php:398
+msgid "Gallery"
+msgstr "Галерея"
+
+#: ../et-pagebuilder/et-pagebuilder.php:399
+msgid "Video"
+msgstr "Видео"
+
+#: ../et-pagebuilder/et-pagebuilder.php:400
+msgid "Video Slider"
+msgstr "Слайдер с видео"
+
+#: ../et-pagebuilder/et-pagebuilder.php:401
+#: ../includes/widgets/widget-about.php:52
+msgid "Text"
+msgstr "Текст"
+
+#: ../et-pagebuilder/et-pagebuilder.php:402
+msgid "Blurb"
+msgstr "Краткое описание"
+
+#: ../et-pagebuilder/et-pagebuilder.php:403
+msgid "Tabs"
+msgstr "Вкладки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:404
+#: ../et-pagebuilder/et-pagebuilder.php:1446
+msgid "Slider"
+msgstr "Слайдер"
+
+#: ../et-pagebuilder/et-pagebuilder.php:405
+msgid "Testimonial"
+msgstr "Отзывы"
+
+#: ../et-pagebuilder/et-pagebuilder.php:406
+msgid "Pricing Table"
+msgstr "Таблица с расценками"
+
+#: ../et-pagebuilder/et-pagebuilder.php:407
+msgid "Call To Action"
+msgstr "Кнопка \"Призыв к действию\""
+
+#: ../et-pagebuilder/et-pagebuilder.php:408
+#: ../et-pagebuilder/et-pagebuilder.php:5572
+msgid "Audio"
+msgstr "Аудио"
+
+#: ../et-pagebuilder/et-pagebuilder.php:411
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: ../et-pagebuilder/et-pagebuilder.php:412
+msgid "Filterable Portfolio"
+msgstr "Портфолио с фильтрами"
+
+#: ../et-pagebuilder/et-pagebuilder.php:413
+msgid "Bar Counters"
+msgstr "Счетчик с полосками"
+
+#: ../et-pagebuilder/et-pagebuilder.php:414
+msgid "Circle Counter"
+msgstr "Счетчик с кругами"
+
+#: ../et-pagebuilder/et-pagebuilder.php:415
+msgid "Number Counter"
+msgstr "Счетчик с числами"
+
+#: ../et-pagebuilder/et-pagebuilder.php:416
+msgid "Accordion"
+msgstr "Элемент-аккордион"
+
+#: ../et-pagebuilder/et-pagebuilder.php:417
+msgid "Fullwidth Header"
+msgstr "Широкоформатный Хэдер"
+
+#: ../et-pagebuilder/et-pagebuilder.php:418
+msgid "Fullwidth Menu"
+msgstr "Широкоформатное меню"
+
+#: ../et-pagebuilder/et-pagebuilder.php:419
+msgid "Fullwidth Slider"
+msgstr "Широкоформатный слайдер"
+
+#: ../et-pagebuilder/et-pagebuilder.php:420
+msgid "Fullwidth Portfolio"
+msgstr "Широкоформатное портфолио"
+
+#: ../et-pagebuilder/et-pagebuilder.php:421
+msgid "Toggle"
+msgstr "Переключатель с текстом"
+
+#: ../et-pagebuilder/et-pagebuilder.php:422
+msgid "Contact Form"
+msgstr "Контактная форма"
+
+#: ../et-pagebuilder/et-pagebuilder.php:423
+#: ../includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: ../et-pagebuilder/et-pagebuilder.php:424
+msgid "Divider"
+msgstr "Разделитель"
+
+#: ../et-pagebuilder/et-pagebuilder.php:425
+msgid "Person"
+msgstr "Модуль Персона"
+
+#: ../et-pagebuilder/et-pagebuilder.php:426
+msgid "Blog"
+msgstr "Блог"
+
+#: ../et-pagebuilder/et-pagebuilder.php:427
+msgid "Shop"
+msgstr "Магазин"
+
+#: ../et-pagebuilder/et-pagebuilder.php:428
+msgid "Countdown Timer"
+msgstr "Таймер обратного отсчета"
+
+#: ../et-pagebuilder/et-pagebuilder.php:429
+msgid "Map"
+msgstr "Карта"
+
+#: ../et-pagebuilder/et-pagebuilder.php:430
+msgid "Fullwidth Map"
+msgstr "Широкоформатная Карта"
+
+#: ../et-pagebuilder/et-pagebuilder.php:431
+msgid "Social Media Follow"
+msgstr "Аккаунты в социальных сетях"
+
+#: ../et-pagebuilder/et-pagebuilder.php:445
+msgid "Page Builder"
+msgstr "Конструктор страниц"
+
+#: ../et-pagebuilder/et-pagebuilder.php:462
+msgid "Save Layout"
+msgstr "Сохранить макет"
+
+#: ../et-pagebuilder/et-pagebuilder.php:467
+#: ../et-pagebuilder/et-pagebuilder.php:798
+msgid "Load Layout"
+msgstr "Загрузить макет"
+
+#: ../et-pagebuilder/et-pagebuilder.php:472
+msgid "Clear Layout"
+msgstr "Очистить макет"
+
+#: ../et-pagebuilder/et-pagebuilder.php:482
+#: ../et-pagebuilder/et-pagebuilder.php:2305
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:487
+msgid "Clone Section"
+msgstr "Клонировать секцию"
+
+#: ../et-pagebuilder/et-pagebuilder.php:492
+msgid "Delete Section"
+msgstr "Удалить секцию"
+
+#: ../et-pagebuilder/et-pagebuilder.php:502
+msgid "Add Section"
+msgstr "Добавить секцию"
+
+#: ../et-pagebuilder/et-pagebuilder.php:506
+msgid "Add Fullwidth Section"
+msgstr "Добавить полноразмерную секцию"
+
+#: ../et-pagebuilder/et-pagebuilder.php:510
+msgid "Add Specialty Section"
+msgstr "Добавить специальную секцию"
+
+#: ../et-pagebuilder/et-pagebuilder.php:519
+msgid "Clone Row"
+msgstr "Клонировать ряд"
+
+#: ../et-pagebuilder/et-pagebuilder.php:524
+msgid "Delete Row"
+msgstr "Удалить ряд"
+
+#: ../et-pagebuilder/et-pagebuilder.php:533
+msgid "Insert Column(s)"
+msgstr "Вставить колонку (и)"
+
+#: ../et-pagebuilder/et-pagebuilder.php:540
+msgid "Add Row"
+msgstr "Добавить ряд"
+
+#: ../et-pagebuilder/et-pagebuilder.php:548
+msgid "Module Settings"
+msgstr "Настройки модуля"
+
+#: ../et-pagebuilder/et-pagebuilder.php:553
+msgid "Clone Module"
+msgstr "Клонировать модуль"
+
+#: ../et-pagebuilder/et-pagebuilder.php:558
+msgid "Delete Module"
+msgstr "Удалить модуль"
+
+#: ../et-pagebuilder/et-pagebuilder.php:568
+#: ../et-pagebuilder/et-pagebuilder.php:2314
+msgid "Close modal window"
+msgstr "Закрыть модальное окно"
+
+#: ../et-pagebuilder/et-pagebuilder.php:576
+#: ../et-pagebuilder/et-pagebuilder.php:2320
+#: ../et-pagebuilder/et-pagebuilder.php:9933
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../et-pagebuilder/et-pagebuilder.php:587
+msgid "Insert Columns"
+msgstr "Вставить колонки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:779
+msgid "Insert Module"
+msgstr "Вставить модуль"
+
+#: ../et-pagebuilder/et-pagebuilder.php:810
+msgid "Section Module Settings"
+msgstr "Настройки секции модуля"
+
+#: ../et-pagebuilder/et-pagebuilder.php:818
+#: ../et-pagebuilder/et-pagebuilder.php:3027
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: ../et-pagebuilder/et-pagebuilder.php:826
+#: ../et-pagebuilder/et-pagebuilder.php:1155
+#: ../et-pagebuilder/et-pagebuilder.php:1696
+#: ../et-pagebuilder/et-pagebuilder.php:2072
+#: ../et-pagebuilder/et-pagebuilder.php:3035
+#: ../et-pagebuilder/et-pagebuilder.php:3978
+#: ../et-pagebuilder/et-pagebuilder.php:4286
+#: ../et-pagebuilder/et-pagebuilder.php:5662
+msgid "Upload an image"
+msgstr "Загрузить изображение"
+
+#: ../et-pagebuilder/et-pagebuilder.php:830
+#: ../et-pagebuilder/et-pagebuilder.php:3039
+msgid "Choose a Background Image"
+msgstr "Выберите фоновое изображение:"
+
+#: ../et-pagebuilder/et-pagebuilder.php:834
+#: ../et-pagebuilder/et-pagebuilder.php:3043
+msgid "Set As Background"
+msgstr "Установить как фон"
+
+#: ../et-pagebuilder/et-pagebuilder.php:840
+#: ../et-pagebuilder/et-pagebuilder.php:3048
+msgid ""
+"If defined, this image will be used as the background for this module. To "
+"remove a background image, simply delete the URL from the settings field."
+msgstr ""
+"Если определено, это изображение будет использоваться в качестве фона для "
+"этого модуля. Для удаления фонового изображения, просто удалите URL в поле "
+"настроек."
+
+#: ../et-pagebuilder/et-pagebuilder.php:849
+msgid "Transparent Background Color"
+msgstr "Прозрачный цвет фона:"
+
+#: ../et-pagebuilder/et-pagebuilder.php:868
+msgid ""
+"Switch on this option if you need transparent background color for the "
+"section."
+msgstr "Включите эту опцию, если для секции нужен прозрачный цвет фона."
+
+#: ../et-pagebuilder/et-pagebuilder.php:890
+#: ../et-pagebuilder/et-pagebuilder.php:5126
+#: ../et-pagebuilder/et-pagebuilder.php:5394
+#: ../et-pagebuilder/et-pagebuilder.php:5700
+msgid ""
+"Define a custom background color for your module, or leave blank to use the "
+"default color."
+msgstr ""
+"Определите цвет фона для вашего модуля, или оставьте поле пустым, чтобы "
+"использовать цвет по умолчанию."
+
+#: ../et-pagebuilder/et-pagebuilder.php:900
+#: ../et-pagebuilder/et-pagebuilder.php:3200
+msgid "Background Video MP4"
+msgstr "Фоновое видео формата MP4"
+
+#: ../et-pagebuilder/et-pagebuilder.php:908
+#: ../et-pagebuilder/et-pagebuilder.php:1637
+#: ../et-pagebuilder/et-pagebuilder.php:1666
+#: ../et-pagebuilder/et-pagebuilder.php:2017
+#: ../et-pagebuilder/et-pagebuilder.php:2042
+#: ../et-pagebuilder/et-pagebuilder.php:3208
+#: ../et-pagebuilder/et-pagebuilder.php:3238
+msgid "Upload a video"
+msgstr "Загрузить видео"
+
+#: ../et-pagebuilder/et-pagebuilder.php:912
+#: ../et-pagebuilder/et-pagebuilder.php:3212
+msgid "Choose a Background Video MP4 File"
+msgstr "Выбрать файл фонового видео формата MP4"
+
+#: ../et-pagebuilder/et-pagebuilder.php:916
+#: ../et-pagebuilder/et-pagebuilder.php:943
+#: ../et-pagebuilder/et-pagebuilder.php:3216
+#: ../et-pagebuilder/et-pagebuilder.php:3246
+msgid "Set As Background Video"
+msgstr "Установить как фоновое видео"
+
+#: ../et-pagebuilder/et-pagebuilder.php:922
+#: ../et-pagebuilder/et-pagebuilder.php:3221
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .MP4 version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Все видео должны быть загружены в форматах .mp4 .Webm, чтобы обеспечить "
+"максимальную совместимость во всех браузерах. Загрузите .mp4 версию здесь. "
+"<b>Важное примечание: фоновые видео отключены на мобильных устройствах. "
+"Вместо этого будет использоваться фоновое изображение. По этой причине вы "
+"должны определить как фоновое изображение, так и фоновое видео, чтобы "
+"обеспечить наилучшие результаты.</b>"
+
+#: ../et-pagebuilder/et-pagebuilder.php:931
+#: ../et-pagebuilder/et-pagebuilder.php:3230
+msgid "Background Video Webm"
+msgstr "Фоновое видео Webm"
+
+#: ../et-pagebuilder/et-pagebuilder.php:939
+#: ../et-pagebuilder/et-pagebuilder.php:3242
+msgid "Choose a Background Video WEBM File"
+msgstr "Выбрать фоновый видеофайл формата WEBM"
+
+#: ../et-pagebuilder/et-pagebuilder.php:948
+#: ../et-pagebuilder/et-pagebuilder.php:3251
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .WEBM version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Все видео должны быть загружены в форматах .mp4 .Webm, чтобы обеспечить "
+"максимальную совместимость во всех браузерах. Загрузите .WEBM версию здесь. "
+"<b>Важное примечание: фоновые видео отключены на мобильных устройствах. "
+"Вместо этого будет использоваться фоновое изображение. По этой причине вы "
+"должны определить как фоновое изображение, так и фоновое видео, чтобы "
+"обеспечить наилучшие результаты.</b>"
+
+#: ../et-pagebuilder/et-pagebuilder.php:957
+#: ../et-pagebuilder/et-pagebuilder.php:3260
+msgid "Background Video Width"
+msgstr "Ширина фонового видео"
+
+#: ../et-pagebuilder/et-pagebuilder.php:965
+#: ../et-pagebuilder/et-pagebuilder.php:3268
+msgid ""
+"In order for videos to be sized correctly, you must input the exact width "
+"(in pixels) of your video here."
+msgstr ""
+"Для того, чтобы видео имело правильные размеры, вы должны ввести точную "
+"ширину видео (в пикселях) здесь."
+
+#: ../et-pagebuilder/et-pagebuilder.php:974
+#: ../et-pagebuilder/et-pagebuilder.php:3277
+msgid "Background Video Height"
+msgstr "Высота фонового видео"
+
+#: ../et-pagebuilder/et-pagebuilder.php:982
+#: ../et-pagebuilder/et-pagebuilder.php:3285
+msgid ""
+"In order for videos to be sized correctly, you must input the exact height "
+"(in pixels) of your video here."
+msgstr ""
+"Для того, чтобы видео имело правильные размеры, вы должны ввести точную "
+"высоту видео (в пикселях) здесь."
+
+#: ../et-pagebuilder/et-pagebuilder.php:991
+#: ../et-pagebuilder/et-pagebuilder.php:3294
+msgid "Pause Video"
+msgstr "Остановить видео"
+
+#: ../et-pagebuilder/et-pagebuilder.php:998
+#: ../et-pagebuilder/et-pagebuilder.php:1339
+#: ../et-pagebuilder/et-pagebuilder.php:1496
+#: ../et-pagebuilder/et-pagebuilder.php:3301
+#: ../et-pagebuilder/et-pagebuilder.php:3418
+#: ../et-pagebuilder/et-pagebuilder.php:3491
+#: ../et-pagebuilder/et-pagebuilder.php:3544
+#: ../et-pagebuilder/et-pagebuilder.php:4040
+#: ../et-pagebuilder/et-pagebuilder.php:4716
+#: ../et-pagebuilder/et-pagebuilder.php:5094
+#: ../et-pagebuilder/et-pagebuilder.php:5329
+#: ../et-pagebuilder/et-pagebuilder.php:5362
+#: ../et-pagebuilder/et-pagebuilder.php:8120
+#: ../et-pagebuilder/et-pagebuilder.php:9955
+msgid "No"
+msgstr "Нет"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1003
+#: ../et-pagebuilder/et-pagebuilder.php:1344
+#: ../et-pagebuilder/et-pagebuilder.php:1491
+#: ../et-pagebuilder/et-pagebuilder.php:3306
+#: ../et-pagebuilder/et-pagebuilder.php:3423
+#: ../et-pagebuilder/et-pagebuilder.php:3496
+#: ../et-pagebuilder/et-pagebuilder.php:3549
+#: ../et-pagebuilder/et-pagebuilder.php:4035
+#: ../et-pagebuilder/et-pagebuilder.php:4711
+#: ../et-pagebuilder/et-pagebuilder.php:5089
+#: ../et-pagebuilder/et-pagebuilder.php:5334
+#: ../et-pagebuilder/et-pagebuilder.php:5357
+#: ../et-pagebuilder/et-pagebuilder.php:8115
+#: ../et-pagebuilder/et-pagebuilder.php:9950
+msgid "Yes"
+msgstr "Да"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1010
+#: ../et-pagebuilder/et-pagebuilder.php:3313
+msgid "Allow video to be paused by other players when they begin playing"
+msgstr "Останавливать видео, если другое видео запущено на странице"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1019
+msgid "Inner Shadow"
+msgstr "Внутренняя тень"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1026
+msgid "Don't Show Inner Shadow"
+msgstr "Не показывать внутреннюю тень"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1031
+msgid "Show Inner Shadow"
+msgstr "Показать внутреннюю тень"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1038
+msgid ""
+"Here you can select whether or not your section has an inner shadow. This "
+"can look great when you have colored backgrounds or background images."
+msgstr ""
+"Здесь вы можете выбрать, имеет ли ваша секция внутреннюю тень. Это может "
+"выглядеть здорово при цветном фоне или при фоновых изображениях."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1047
+#: ../et-pagebuilder/et-pagebuilder.php:2589
+#: ../et-pagebuilder/et-pagebuilder.php:2834
+msgid "Parallax effect"
+msgstr "Параллакс эффект"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1054
+#: ../et-pagebuilder/et-pagebuilder.php:2596
+#: ../et-pagebuilder/et-pagebuilder.php:2841
+msgid "Don't Use Parallax Effect"
+msgstr "Не использовать Параллакс эффект"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1059
+#: ../et-pagebuilder/et-pagebuilder.php:2601
+#: ../et-pagebuilder/et-pagebuilder.php:2846
+msgid "Use Parallax Effect"
+msgstr "Использовать Параллакс эффект"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1066
+msgid ""
+"If enabled, your background image will stay fixed as your scroll, creating a "
+"fun parallax-like effect."
+msgstr ""
+"Если включено, фоновое изображение будет оставаться фиксированным при "
+"прокрутке, создавая интересный параллакс эффект."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1075
+#: ../et-pagebuilder/et-pagebuilder.php:2617
+#: ../et-pagebuilder/et-pagebuilder.php:2862
+msgid "Parallax method"
+msgstr "Параллакс метод"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1082
+#: ../et-pagebuilder/et-pagebuilder.php:2624
+#: ../et-pagebuilder/et-pagebuilder.php:2869
+msgid "CSS"
+msgstr "CSS"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1087
+#: ../et-pagebuilder/et-pagebuilder.php:2629
+#: ../et-pagebuilder/et-pagebuilder.php:2874
+msgid "True Parallax"
+msgstr "Настоящий Эффект Параллакс"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1094
+#: ../et-pagebuilder/et-pagebuilder.php:2636
+#: ../et-pagebuilder/et-pagebuilder.php:2881
+msgid "Define the method, used for the parallax effect."
+msgstr "Определить метод, используемый для параллакс эффекта."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1103
+#: ../et-pagebuilder/et-pagebuilder.php:1377
+#: ../et-pagebuilder/et-pagebuilder.php:1585
+#: ../et-pagebuilder/et-pagebuilder.php:1740
+#: ../et-pagebuilder/et-pagebuilder.php:1940
+#: ../et-pagebuilder/et-pagebuilder.php:2264
+#: ../et-pagebuilder/et-pagebuilder.php:2434
+#: ../et-pagebuilder/et-pagebuilder.php:2679
+#: ../et-pagebuilder/et-pagebuilder.php:2924
+#: ../et-pagebuilder/et-pagebuilder.php:3830
+#: ../et-pagebuilder/et-pagebuilder.php:4200
+#: ../et-pagebuilder/et-pagebuilder.php:4486
+#: ../et-pagebuilder/et-pagebuilder.php:4609
+#: ../et-pagebuilder/et-pagebuilder.php:4878
+#: ../et-pagebuilder/et-pagebuilder.php:5261
+#: ../et-pagebuilder/et-pagebuilder.php:5528
+#: ../et-pagebuilder/et-pagebuilder.php:5754
+#: ../et-pagebuilder/et-pagebuilder.php:5877
+#: ../et-pagebuilder/et-pagebuilder.php:6004
+#: ../et-pagebuilder/et-pagebuilder.php:6396
+#: ../et-pagebuilder/et-pagebuilder.php:6642
+#: ../et-pagebuilder/et-pagebuilder.php:6888
+#: ../et-pagebuilder/et-pagebuilder.php:7167
+#: ../et-pagebuilder/et-pagebuilder.php:7358
+#: ../et-pagebuilder/et-pagebuilder.php:7446
+#: ../et-pagebuilder/et-pagebuilder.php:7807
+#: ../et-pagebuilder/et-pagebuilder.php:7947
+#: ../et-pagebuilder/et-pagebuilder.php:8180
+#: ../et-pagebuilder/et-pagebuilder.php:8405
+#: ../et-pagebuilder/et-pagebuilder.php:8549
+#: ../et-pagebuilder/et-pagebuilder.php:8728
+#: ../et-pagebuilder/et-pagebuilder.php:8907
+#: ../et-pagebuilder/et-pagebuilder.php:9053
+#: ../et-pagebuilder/et-pagebuilder.php:9239
+#: ../et-pagebuilder/et-pagebuilder.php:9478
+#: ../et-pagebuilder/et-pagebuilder.php:9676
+msgid "CSS ID"
+msgstr "CSS ID"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1111
+#: ../et-pagebuilder/et-pagebuilder.php:1385
+#: ../et-pagebuilder/et-pagebuilder.php:1593
+#: ../et-pagebuilder/et-pagebuilder.php:1748
+#: ../et-pagebuilder/et-pagebuilder.php:1948
+#: ../et-pagebuilder/et-pagebuilder.php:2272
+#: ../et-pagebuilder/et-pagebuilder.php:2442
+#: ../et-pagebuilder/et-pagebuilder.php:2687
+#: ../et-pagebuilder/et-pagebuilder.php:2932
+#: ../et-pagebuilder/et-pagebuilder.php:3838
+#: ../et-pagebuilder/et-pagebuilder.php:4208
+#: ../et-pagebuilder/et-pagebuilder.php:4494
+#: ../et-pagebuilder/et-pagebuilder.php:4617
+#: ../et-pagebuilder/et-pagebuilder.php:4886
+#: ../et-pagebuilder/et-pagebuilder.php:5269
+#: ../et-pagebuilder/et-pagebuilder.php:5536
+#: ../et-pagebuilder/et-pagebuilder.php:5762
+#: ../et-pagebuilder/et-pagebuilder.php:5885
+#: ../et-pagebuilder/et-pagebuilder.php:6012
+#: ../et-pagebuilder/et-pagebuilder.php:6404
+#: ../et-pagebuilder/et-pagebuilder.php:6650
+#: ../et-pagebuilder/et-pagebuilder.php:6896
+#: ../et-pagebuilder/et-pagebuilder.php:7175
+#: ../et-pagebuilder/et-pagebuilder.php:7366
+#: ../et-pagebuilder/et-pagebuilder.php:7454
+#: ../et-pagebuilder/et-pagebuilder.php:7815
+#: ../et-pagebuilder/et-pagebuilder.php:7955
+#: ../et-pagebuilder/et-pagebuilder.php:8188
+#: ../et-pagebuilder/et-pagebuilder.php:8413
+#: ../et-pagebuilder/et-pagebuilder.php:8557
+#: ../et-pagebuilder/et-pagebuilder.php:8736
+#: ../et-pagebuilder/et-pagebuilder.php:8915
+#: ../et-pagebuilder/et-pagebuilder.php:9061
+#: ../et-pagebuilder/et-pagebuilder.php:9247
+#: ../et-pagebuilder/et-pagebuilder.php:9486
+#: ../et-pagebuilder/et-pagebuilder.php:9684
+msgid ""
+"Enter an optional CSS ID to be used for this module. An ID can be used to "
+"create custom CSS styling, or to create links to particular sections of your "
+"page."
+msgstr ""
+"Ввести дополнительный CSS ID, используемый для этого модуля. ID может быть "
+"использован для создания пользовательского CSS стиля или ссылок на отдельные "
+"участки вашей страницы."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1120
+#: ../et-pagebuilder/et-pagebuilder.php:1394
+#: ../et-pagebuilder/et-pagebuilder.php:1602
+#: ../et-pagebuilder/et-pagebuilder.php:1757
+#: ../et-pagebuilder/et-pagebuilder.php:1957
+#: ../et-pagebuilder/et-pagebuilder.php:2281
+#: ../et-pagebuilder/et-pagebuilder.php:2451
+#: ../et-pagebuilder/et-pagebuilder.php:2696
+#: ../et-pagebuilder/et-pagebuilder.php:2941
+#: ../et-pagebuilder/et-pagebuilder.php:3847
+#: ../et-pagebuilder/et-pagebuilder.php:4217
+#: ../et-pagebuilder/et-pagebuilder.php:4503
+#: ../et-pagebuilder/et-pagebuilder.php:4626
+#: ../et-pagebuilder/et-pagebuilder.php:4895
+#: ../et-pagebuilder/et-pagebuilder.php:5278
+#: ../et-pagebuilder/et-pagebuilder.php:5545
+#: ../et-pagebuilder/et-pagebuilder.php:5771
+#: ../et-pagebuilder/et-pagebuilder.php:5894
+#: ../et-pagebuilder/et-pagebuilder.php:6021
+#: ../et-pagebuilder/et-pagebuilder.php:6413
+#: ../et-pagebuilder/et-pagebuilder.php:6659
+#: ../et-pagebuilder/et-pagebuilder.php:6905
+#: ../et-pagebuilder/et-pagebuilder.php:7184
+#: ../et-pagebuilder/et-pagebuilder.php:7375
+#: ../et-pagebuilder/et-pagebuilder.php:7463
+#: ../et-pagebuilder/et-pagebuilder.php:7824
+#: ../et-pagebuilder/et-pagebuilder.php:7964
+#: ../et-pagebuilder/et-pagebuilder.php:8197
+#: ../et-pagebuilder/et-pagebuilder.php:8422
+#: ../et-pagebuilder/et-pagebuilder.php:8566
+#: ../et-pagebuilder/et-pagebuilder.php:8745
+#: ../et-pagebuilder/et-pagebuilder.php:8924
+#: ../et-pagebuilder/et-pagebuilder.php:9070
+#: ../et-pagebuilder/et-pagebuilder.php:9256
+#: ../et-pagebuilder/et-pagebuilder.php:9495
+#: ../et-pagebuilder/et-pagebuilder.php:9693
+msgid "CSS Class"
+msgstr "Класс CSS "
+
+#: ../et-pagebuilder/et-pagebuilder.php:1128
+#: ../et-pagebuilder/et-pagebuilder.php:1402
+#: ../et-pagebuilder/et-pagebuilder.php:1610
+#: ../et-pagebuilder/et-pagebuilder.php:1765
+#: ../et-pagebuilder/et-pagebuilder.php:1965
+#: ../et-pagebuilder/et-pagebuilder.php:2289
+#: ../et-pagebuilder/et-pagebuilder.php:2459
+#: ../et-pagebuilder/et-pagebuilder.php:2704
+#: ../et-pagebuilder/et-pagebuilder.php:2949
+#: ../et-pagebuilder/et-pagebuilder.php:3855
+#: ../et-pagebuilder/et-pagebuilder.php:4225
+#: ../et-pagebuilder/et-pagebuilder.php:4511
+#: ../et-pagebuilder/et-pagebuilder.php:4634
+#: ../et-pagebuilder/et-pagebuilder.php:4903
+#: ../et-pagebuilder/et-pagebuilder.php:5286
+#: ../et-pagebuilder/et-pagebuilder.php:5553
+#: ../et-pagebuilder/et-pagebuilder.php:5779
+#: ../et-pagebuilder/et-pagebuilder.php:5902
+#: ../et-pagebuilder/et-pagebuilder.php:6029
+#: ../et-pagebuilder/et-pagebuilder.php:6421
+#: ../et-pagebuilder/et-pagebuilder.php:6667
+#: ../et-pagebuilder/et-pagebuilder.php:6913
+#: ../et-pagebuilder/et-pagebuilder.php:7192
+#: ../et-pagebuilder/et-pagebuilder.php:7383
+#: ../et-pagebuilder/et-pagebuilder.php:7471
+#: ../et-pagebuilder/et-pagebuilder.php:7832
+#: ../et-pagebuilder/et-pagebuilder.php:7972
+#: ../et-pagebuilder/et-pagebuilder.php:8205
+#: ../et-pagebuilder/et-pagebuilder.php:8430
+#: ../et-pagebuilder/et-pagebuilder.php:8574
+#: ../et-pagebuilder/et-pagebuilder.php:8753
+#: ../et-pagebuilder/et-pagebuilder.php:8932
+#: ../et-pagebuilder/et-pagebuilder.php:9078
+#: ../et-pagebuilder/et-pagebuilder.php:9264
+#: ../et-pagebuilder/et-pagebuilder.php:9503
+#: ../et-pagebuilder/et-pagebuilder.php:9701
+msgid ""
+"Enter optional CSS classes to be used for this module. A CSS class can be "
+"used to create custom CSS styling. You can add multiple classes, separated "
+"with a space."
+msgstr ""
+"Введите дополнительные классы CSS, которые будут использоваться для этого "
+"модуля. Класс CSS может быть использован для создания пользовательских CSS "
+"стилей. Вы можете добавить несколько классов, разделенных пробелом."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1139
+msgid "Image Module Settings"
+msgstr "Настройки модуля изображения"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1147
+#: ../et-pagebuilder/et-pagebuilder.php:4278
+msgid "Image URL"
+msgstr "Url изображения"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1163
+#: ../et-pagebuilder/et-pagebuilder.php:1704
+#: ../et-pagebuilder/et-pagebuilder.php:2080
+#: ../et-pagebuilder/et-pagebuilder.php:3601
+#: ../et-pagebuilder/et-pagebuilder.php:3986
+#: ../et-pagebuilder/et-pagebuilder.php:4294
+#: ../et-pagebuilder/et-pagebuilder.php:5670
+msgid "Set As Image"
+msgstr "Установить как изображение"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1168
+#: ../et-pagebuilder/et-pagebuilder.php:3991
+#: ../et-pagebuilder/et-pagebuilder.php:4299
+#: ../et-pagebuilder/et-pagebuilder.php:5675
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
+"Загрузить нужное изображение или ввести URL изображения, которое вы хотите "
+"отобразить."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1177
+#: ../et-pagebuilder/et-pagebuilder.php:3155
+msgid "Image Alternative Text"
+msgstr "Альтернативный текст изображения"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1185
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr ""
+"Это определяет HTML ALT текст. Краткое описание вашего изображения может "
+"быть написано здесь."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1194
+msgid "Image Title Text"
+msgstr "Текст заголовка изображения"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1202
+msgid "This defines the HTML Title text."
+msgstr "Это определяет текст заголовка HTML."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1211
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1218
+msgid "Don't Open In Lightbox"
+msgstr "Не открывать в Lightbox"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1223
+msgid "Open In Lightbox"
+msgstr "Открывать в Lightbox"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1230
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+"Здесь вы можете выбрать, будет ли открываться изображение в Lightbox. "
+"Заметка: если изображения будут открываться в Lightbox, url-опции, "
+"устанавливаемые ниже, будут проигноррованы."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1239
+msgid "Link URL"
+msgstr "URL-адрес ссылки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1247
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+"Если вы хотите, чтобы ваше изображение имело ссылку, введите адрес "
+"назначения здесь. Никакой ссылки не будет создано, если оставить это поле "
+"пустым."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1256
+#: ../et-pagebuilder/et-pagebuilder.php:3383
+#: ../et-pagebuilder/et-pagebuilder.php:9605
+msgid "Url Opens"
+msgstr "Url открывается"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1263
+#: ../et-pagebuilder/et-pagebuilder.php:3390
+#: ../et-pagebuilder/et-pagebuilder.php:3949
+#: ../et-pagebuilder/et-pagebuilder.php:9612
+msgid "In The Same Window"
+msgstr "В том же окне"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1268
+#: ../et-pagebuilder/et-pagebuilder.php:3395
+#: ../et-pagebuilder/et-pagebuilder.php:3954
+#: ../et-pagebuilder/et-pagebuilder.php:9617
+msgid "In The New Tab"
+msgstr "В новой вкладке"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1275
+#: ../et-pagebuilder/et-pagebuilder.php:3402
+#: ../et-pagebuilder/et-pagebuilder.php:9623
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr "Здесь вы можете выбрать, открывать ссылки в новом окне или нет"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1284
+#: ../et-pagebuilder/et-pagebuilder.php:4308
+msgid "Animation"
+msgstr "Анимация"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1291
+#: ../et-pagebuilder/et-pagebuilder.php:3673
+#: ../et-pagebuilder/et-pagebuilder.php:4325
+msgid "Left To Right"
+msgstr "Слева направо"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1296
+#: ../et-pagebuilder/et-pagebuilder.php:3678
+#: ../et-pagebuilder/et-pagebuilder.php:4330
+msgid "Right To Left"
+msgstr "Справа налево"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1301
+#: ../et-pagebuilder/et-pagebuilder.php:3668
+#: ../et-pagebuilder/et-pagebuilder.php:4335
+msgid "Top To Bottom"
+msgstr "Сверху вниз"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1306
+#: ../et-pagebuilder/et-pagebuilder.php:3683
+#: ../et-pagebuilder/et-pagebuilder.php:4340
+msgid "Bottom To Top"
+msgstr "Снизу вверх"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1311
+#: ../et-pagebuilder/et-pagebuilder.php:4320
+msgid "Fade In"
+msgstr "Постепенное появление"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1316
+#: ../et-pagebuilder/et-pagebuilder.php:3688
+#: ../et-pagebuilder/et-pagebuilder.php:4315
+msgid "No Animation"
+msgstr "Без анимации"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1323
+#: ../et-pagebuilder/et-pagebuilder.php:3695
+#: ../et-pagebuilder/et-pagebuilder.php:4347
+msgid "This controls the direction of the lazy-loading animation."
+msgstr "Контролирует направление отложенной загрузки анимации."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1332
+msgid "Remove Space Below The Image"
+msgstr "Удалить пространство снизу изображения"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1351
+msgid ""
+"Here you can choose whether or not the image should have a space below it."
+msgstr "Здесь вы можете выбрать, будет ли под изображением пространство."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1360
+#: ../et-pagebuilder/et-pagebuilder.php:1568
+#: ../et-pagebuilder/et-pagebuilder.php:1723
+#: ../et-pagebuilder/et-pagebuilder.php:1923
+#: ../et-pagebuilder/et-pagebuilder.php:1992
+#: ../et-pagebuilder/et-pagebuilder.php:2247
+#: ../et-pagebuilder/et-pagebuilder.php:2417
+#: ../et-pagebuilder/et-pagebuilder.php:2662
+#: ../et-pagebuilder/et-pagebuilder.php:2907
+#: ../et-pagebuilder/et-pagebuilder.php:3813
+#: ../et-pagebuilder/et-pagebuilder.php:4183
+#: ../et-pagebuilder/et-pagebuilder.php:4469
+#: ../et-pagebuilder/et-pagebuilder.php:4592
+#: ../et-pagebuilder/et-pagebuilder.php:4861
+#: ../et-pagebuilder/et-pagebuilder.php:5244
+#: ../et-pagebuilder/et-pagebuilder.php:5511
+#: ../et-pagebuilder/et-pagebuilder.php:5737
+#: ../et-pagebuilder/et-pagebuilder.php:5860
+#: ../et-pagebuilder/et-pagebuilder.php:5987
+#: ../et-pagebuilder/et-pagebuilder.php:6379
+#: ../et-pagebuilder/et-pagebuilder.php:6625
+#: ../et-pagebuilder/et-pagebuilder.php:6871
+#: ../et-pagebuilder/et-pagebuilder.php:7150
+#: ../et-pagebuilder/et-pagebuilder.php:7341
+#: ../et-pagebuilder/et-pagebuilder.php:7429
+#: ../et-pagebuilder/et-pagebuilder.php:7790
+#: ../et-pagebuilder/et-pagebuilder.php:7930
+#: ../et-pagebuilder/et-pagebuilder.php:8163
+#: ../et-pagebuilder/et-pagebuilder.php:8388
+#: ../et-pagebuilder/et-pagebuilder.php:8532
+#: ../et-pagebuilder/et-pagebuilder.php:8711
+#: ../et-pagebuilder/et-pagebuilder.php:8890
+#: ../et-pagebuilder/et-pagebuilder.php:9036
+#: ../et-pagebuilder/et-pagebuilder.php:9222
+#: ../et-pagebuilder/et-pagebuilder.php:9461
+#: ../et-pagebuilder/et-pagebuilder.php:9659
+msgid "Admin Label"
+msgstr "Метка администратора"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1368
+#: ../et-pagebuilder/et-pagebuilder.php:1576
+#: ../et-pagebuilder/et-pagebuilder.php:1731
+#: ../et-pagebuilder/et-pagebuilder.php:1931
+#: ../et-pagebuilder/et-pagebuilder.php:2255
+#: ../et-pagebuilder/et-pagebuilder.php:2425
+#: ../et-pagebuilder/et-pagebuilder.php:2670
+#: ../et-pagebuilder/et-pagebuilder.php:2915
+#: ../et-pagebuilder/et-pagebuilder.php:3821
+#: ../et-pagebuilder/et-pagebuilder.php:4191
+#: ../et-pagebuilder/et-pagebuilder.php:4477
+#: ../et-pagebuilder/et-pagebuilder.php:4600
+#: ../et-pagebuilder/et-pagebuilder.php:4869
+#: ../et-pagebuilder/et-pagebuilder.php:5252
+#: ../et-pagebuilder/et-pagebuilder.php:5519
+#: ../et-pagebuilder/et-pagebuilder.php:5745
+#: ../et-pagebuilder/et-pagebuilder.php:5868
+#: ../et-pagebuilder/et-pagebuilder.php:5995
+#: ../et-pagebuilder/et-pagebuilder.php:6387
+#: ../et-pagebuilder/et-pagebuilder.php:6633
+#: ../et-pagebuilder/et-pagebuilder.php:6879
+#: ../et-pagebuilder/et-pagebuilder.php:7158
+#: ../et-pagebuilder/et-pagebuilder.php:7349
+#: ../et-pagebuilder/et-pagebuilder.php:7437
+#: ../et-pagebuilder/et-pagebuilder.php:7798
+#: ../et-pagebuilder/et-pagebuilder.php:7938
+#: ../et-pagebuilder/et-pagebuilder.php:8171
+#: ../et-pagebuilder/et-pagebuilder.php:8396
+#: ../et-pagebuilder/et-pagebuilder.php:8540
+#: ../et-pagebuilder/et-pagebuilder.php:8719
+#: ../et-pagebuilder/et-pagebuilder.php:8898
+#: ../et-pagebuilder/et-pagebuilder.php:9044
+#: ../et-pagebuilder/et-pagebuilder.php:9230
+#: ../et-pagebuilder/et-pagebuilder.php:9469
+#: ../et-pagebuilder/et-pagebuilder.php:9667
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr ""
+"Это позволяет поменять название модуля для более простого обнаружения в "
+"конструкторе страниц."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1413
+msgid "Gallery Module Settings"
+msgstr "Настройки модуля Галерея"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1421
+msgid "Gallery Images"
+msgstr "Изображения галереи"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1430
+msgid "Update Gallery"
+msgstr "Обновить галерею"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1451
+#: ../et-pagebuilder/et-pagebuilder.php:6060
+#: ../et-pagebuilder/et-pagebuilder.php:6452
+#: ../et-pagebuilder/et-pagebuilder.php:6698
+#: ../et-pagebuilder/et-pagebuilder.php:6960
+msgid "Grid"
+msgstr "Сетка"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1458
+#: ../et-pagebuilder/et-pagebuilder.php:6067
+msgid "Toggle between the various blog layout types."
+msgstr "Переключение между различными типами расположения постов в блоге."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1467
+msgid "Images Number"
+msgstr "Количество изображений"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1475
+msgid "Define the number of images that should be displayed per page."
+msgstr ""
+"Определить количество изображений, которые должны быть показаны на странице."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1484
+msgid "Show Title and Caption"
+msgstr "Показать заголовок и подпись"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1503
+msgid ""
+"Here you can choose whether to show the images title and caption, if the "
+"image has them."
+msgstr ""
+"Здесь вы можете выбрать, показывать ли заголовок изображения и подпись к "
+"нему, если к картинке прицеплена нужная информация."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1512
+#: ../et-pagebuilder/et-pagebuilder.php:6306
+#: ../et-pagebuilder/et-pagebuilder.php:6569
+#: ../et-pagebuilder/et-pagebuilder.php:6815
+msgid "Pagination"
+msgstr "Разбивать на несколько страниц"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1519
+#: ../et-pagebuilder/et-pagebuilder.php:6313
+#: ../et-pagebuilder/et-pagebuilder.php:6576
+#: ../et-pagebuilder/et-pagebuilder.php:6822
+msgid "Show Pagination"
+msgstr "Показать номера страниц"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1524
+#: ../et-pagebuilder/et-pagebuilder.php:6318
+#: ../et-pagebuilder/et-pagebuilder.php:6581
+#: ../et-pagebuilder/et-pagebuilder.php:6827
+msgid "Don't Show Pagination"
+msgstr "Не показывать номера страниц"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1531
+#: ../et-pagebuilder/et-pagebuilder.php:6588
+#: ../et-pagebuilder/et-pagebuilder.php:6834
+msgid "Enable or disable pagination for this feed."
+msgstr "Включить или отключить нумерацию страниц для этого rss канала."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1559
+#: ../et-pagebuilder/et-pagebuilder.php:3723
+#: ../et-pagebuilder/et-pagebuilder.php:4096
+#: ../et-pagebuilder/et-pagebuilder.php:4772
+#: ../et-pagebuilder/et-pagebuilder.php:5154
+#: ../et-pagebuilder/et-pagebuilder.php:5422
+#: ../et-pagebuilder/et-pagebuilder.php:5728
+#: ../et-pagebuilder/et-pagebuilder.php:6370
+#: ../et-pagebuilder/et-pagebuilder.php:6616
+#: ../et-pagebuilder/et-pagebuilder.php:6862
+#: ../et-pagebuilder/et-pagebuilder.php:7096
+#: ../et-pagebuilder/et-pagebuilder.php:7714
+#: ../et-pagebuilder/et-pagebuilder.php:8097
+#: ../et-pagebuilder/et-pagebuilder.php:8675
+#: ../et-pagebuilder/et-pagebuilder.php:9027
+#: ../et-pagebuilder/et-pagebuilder.php:9579
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Здесь вы можете выбрать, будет ли ваш текст светлым или тёмным. Если вы "
+"работаете с тёмным фоном, то ваш текст должен быть светлым. Если ваш фон "
+"светлый, то текст должен быть тёмным."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1621
+msgid "Video Module Settings"
+msgstr "Настройки видео модуля"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1629
+#: ../et-pagebuilder/et-pagebuilder.php:2009
+msgid "Video MP4/URL"
+msgstr "Видео MP4/URL"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1641
+#: ../et-pagebuilder/et-pagebuilder.php:2021
+msgid "Choose a Video MP4 File"
+msgstr "Выбрать видеофайл формата MP4"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1645
+#: ../et-pagebuilder/et-pagebuilder.php:1674
+#: ../et-pagebuilder/et-pagebuilder.php:2050
+msgid "Set As Video"
+msgstr "Установить как видео"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1650
+#: ../et-pagebuilder/et-pagebuilder.php:2026
+msgid ""
+"Upload your desired video in .MP4 format, or type in the URL to the video "
+"you would like to display"
+msgstr ""
+"Загрузите видео в формате .MP4 или введите URL-адрес видео, которое вы "
+"хотели бы отобразить."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1659
+#: ../et-pagebuilder/et-pagebuilder.php:2035
+msgid "Video Webm"
+msgstr "Видео Webm"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1670
+#: ../et-pagebuilder/et-pagebuilder.php:2046
+msgid "Choose a Video WEBM File"
+msgstr "Выбрать видеофайл формата WEBM"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1679
+#: ../et-pagebuilder/et-pagebuilder.php:2055
+msgid ""
+"Upload the .WEBM version of your video here. All uploaded videos should be "
+"in both .MP4 .WEBM formats to ensure maximum compatibility in all browsers."
+msgstr ""
+"Загрузите .WEBM версию вашего видео. Все загруженные видео должны быть в ."
+"MP4, .WEBM форматах чтобы была достигнута совместимость во всех браузерах"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1688
+#: ../et-pagebuilder/et-pagebuilder.php:2064
+msgid "Image Overlay URL"
+msgstr "URL overlay изображения"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1709
+#: ../et-pagebuilder/et-pagebuilder.php:2085
+msgid "Generate From Video"
+msgstr "Сгенерировать из видео"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1714
+#: ../et-pagebuilder/et-pagebuilder.php:2090
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display over your video. You can also generate a still image from your video."
+msgstr ""
+"Загрузите желаемое изображение или введите URL-адрес изображения, которое вы "
+"хотите отобразить поверх видео. Вы также можете создать стоп-кадр из вашего "
+"видео."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1776
+msgid "Video Slider Module Settings"
+msgstr "Настройки модуля видео слайдера"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1786
+msgid "Add New Video"
+msgstr "Добавить новое видео"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1794
+msgid "Display Image Overlays on Main Video"
+msgstr "Показать изображение поверх видео"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1801
+msgid "Hide"
+msgstr "Скрыть"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1806
+msgid "Show"
+msgstr "Показать"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1813
+msgid ""
+"This option will cover the player UI on the main video. This image can "
+"either be uploaded in each video setting or auto-generated by Divi."
+msgstr ""
+"Эта опция отвечает за UI плеера в главном видео. Изображение может быть "
+"загружено либо в опциях к видео, либо сгенерировано Divi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1822
+#: ../et-pagebuilder/et-pagebuilder.php:2488
+#: ../et-pagebuilder/et-pagebuilder.php:2733
+msgid "Arrows"
+msgstr "Стрелки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1829
+#: ../et-pagebuilder/et-pagebuilder.php:2495
+#: ../et-pagebuilder/et-pagebuilder.php:2740
+msgid "Show Arrows"
+msgstr "Показать стрелки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1834
+#: ../et-pagebuilder/et-pagebuilder.php:2500
+#: ../et-pagebuilder/et-pagebuilder.php:2745
+msgid "Hide Arrows"
+msgstr "Скрыть стрелки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1841
+#: ../et-pagebuilder/et-pagebuilder.php:2507
+msgid "This setting will turn on and off the navigation arrows."
+msgstr "Этот параметр включает или выключает навигационные стрелки."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1850
+msgid "Slider Controls"
+msgstr "Элементы управления слайдера"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1857
+msgid "Use Thumbnail Track"
+msgstr "Использовать дорожку миниатюр"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1862
+msgid "Use Dot Navigation"
+msgstr "Использовать навигацию с точками"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1869
+msgid ""
+"This setting will let you choose to use the thumbnail track controls below "
+"the slider or dot navigation at the bottom of the slider."
+msgstr ""
+"Этот параметр позволяет выбрать или дорожку миниатюр как элемент управления "
+"под слайдером или навигацию с точками в нижней части слайдера."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1878
+msgid "Slider Controls Color"
+msgstr "Цвет элементов управления слайдера"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1897
+msgid ""
+"This setting will make your slider controls either light or dark in color. "
+"Slider controls are either the arrows on the thumbnail track or the circles "
+"in dot navigation."
+msgstr ""
+"Этот параметр сделает ваши элементы управления слайдера светлее или темнее. "
+"Элементами управления являются либо стрелки дорожки миниатюр или кружки "
+"точечной навигации."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1914
+#: ../et-pagebuilder/et-pagebuilder.php:2653
+msgid "Input the main text content for your slider here."
+msgstr "Введите основной контент для вашего слайдера здесь."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1976
+msgid "New Video"
+msgstr "Новое видео"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1984
+msgid "Video Settings"
+msgstr "Настройки видео"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2000
+msgid ""
+"This will change the label of the video in the builder for easy "
+"identification."
+msgstr ""
+"Позволяет поменять название видео, чтобы конструктор страниц мог его "
+"идентифицировать."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2099
+msgid "Slider Arrows Color"
+msgstr "Цвет стрелок слайдера"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2118
+msgid ""
+"This setting will make your slider arrows either light or dark in color."
+msgstr "Этот параметр сделает стрелки вашего слайдера светлее или темнее."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2129
+msgid "Text Module Settings"
+msgstr "Настройки текстового модуля"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2156
+#: ../et-pagebuilder/et-pagebuilder.php:4375
+#: ../et-pagebuilder/et-pagebuilder.php:9150
+#: ../et-pagebuilder/et-pagebuilder.php:9361
+msgid ""
+"Here you can choose the value of your text. If you are working with a dark "
+"background, then your text should be set to light. If you are working with a "
+"light background, then your text should be dark."
+msgstr ""
+"Здесь вы можете настроить ваш текст. Если вы работаете с тёмным фоном, то "
+"ваш текст должен быть светлым. Если вы работаете со светлым, то текст должен "
+"быть тёмным."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2165
+#: ../et-pagebuilder/et-pagebuilder.php:3732
+#: ../et-pagebuilder/et-pagebuilder.php:4105
+#: ../et-pagebuilder/et-pagebuilder.php:4781
+#: ../et-pagebuilder/et-pagebuilder.php:5163
+#: ../et-pagebuilder/et-pagebuilder.php:5431
+#: ../et-pagebuilder/et-pagebuilder.php:9159
+#: ../et-pagebuilder/et-pagebuilder.php:9370
+msgid "Text Orientation"
+msgstr "Ориентация текста"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2177
+#: ../et-pagebuilder/et-pagebuilder.php:3645
+#: ../et-pagebuilder/et-pagebuilder.php:3744
+#: ../et-pagebuilder/et-pagebuilder.php:4116
+#: ../et-pagebuilder/et-pagebuilder.php:4792
+#: ../et-pagebuilder/et-pagebuilder.php:5174
+#: ../et-pagebuilder/et-pagebuilder.php:5442
+#: ../et-pagebuilder/et-pagebuilder.php:8958
+#: ../et-pagebuilder/et-pagebuilder.php:9170
+#: ../et-pagebuilder/et-pagebuilder.php:9381
+msgid "Left"
+msgstr "Слева"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2187
+#: ../et-pagebuilder/et-pagebuilder.php:2208
+#: ../et-pagebuilder/et-pagebuilder.php:3754
+#: ../et-pagebuilder/et-pagebuilder.php:3775
+#: ../et-pagebuilder/et-pagebuilder.php:4126
+#: ../et-pagebuilder/et-pagebuilder.php:4146
+#: ../et-pagebuilder/et-pagebuilder.php:4802
+#: ../et-pagebuilder/et-pagebuilder.php:4823
+#: ../et-pagebuilder/et-pagebuilder.php:5184
+#: ../et-pagebuilder/et-pagebuilder.php:5205
+#: ../et-pagebuilder/et-pagebuilder.php:5452
+#: ../et-pagebuilder/et-pagebuilder.php:5473
+#: ../et-pagebuilder/et-pagebuilder.php:8963
+#: ../et-pagebuilder/et-pagebuilder.php:9180
+#: ../et-pagebuilder/et-pagebuilder.php:9201
+#: ../et-pagebuilder/et-pagebuilder.php:9391
+#: ../et-pagebuilder/et-pagebuilder.php:9412
+msgid "Right"
+msgstr "Справа"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2197
+#: ../et-pagebuilder/et-pagebuilder.php:3117
+#: ../et-pagebuilder/et-pagebuilder.php:3764
+#: ../et-pagebuilder/et-pagebuilder.php:4136
+#: ../et-pagebuilder/et-pagebuilder.php:4812
+#: ../et-pagebuilder/et-pagebuilder.php:5194
+#: ../et-pagebuilder/et-pagebuilder.php:5462
+#: ../et-pagebuilder/et-pagebuilder.php:9190
+#: ../et-pagebuilder/et-pagebuilder.php:9401
+msgid "Center"
+msgstr "По Центру"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2221
+#: ../et-pagebuilder/et-pagebuilder.php:9213
+#: ../et-pagebuilder/et-pagebuilder.php:9424
+msgid "This controls the how your text is aligned within the module."
+msgstr "Позволяет задать выравнивание текста в пределах модуля."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2238
+msgid "Here you can create the content that will be used within the module."
+msgstr ""
+"Здесь вы можете создать контент, который будет использоваться в модуле."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2330
+msgid "New Tab"
+msgstr "Новая вкладка"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2338
+msgid "Tab Settings"
+msgstr "Параметры вкладки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2346
+#: ../et-pagebuilder/et-pagebuilder.php:3349
+#: ../et-pagebuilder/et-pagebuilder.php:4530
+#: ../et-pagebuilder/et-pagebuilder.php:4653
+#: ../et-pagebuilder/et-pagebuilder.php:5048
+#: ../et-pagebuilder/et-pagebuilder.php:5305
+#: ../et-pagebuilder/et-pagebuilder.php:5603
+#: ../et-pagebuilder/et-pagebuilder.php:5843
+#: ../et-pagebuilder/et-pagebuilder.php:6513
+#: ../et-pagebuilder/et-pagebuilder.php:6759
+#: ../et-pagebuilder/et-pagebuilder.php:7021
+#: ../et-pagebuilder/et-pagebuilder.php:7526
+#: ../et-pagebuilder/et-pagebuilder.php:7859
+#: ../et-pagebuilder/et-pagebuilder.php:7999
+#: ../et-pagebuilder/et-pagebuilder.php:8232
+#: ../et-pagebuilder/et-pagebuilder.php:8594
+#: ../et-pagebuilder/et-pagebuilder.php:8773
+#: ../et-pagebuilder/et-pagebuilder.php:9097
+#: ../includes/widgets/widget-about.php:48
+#: ../includes/widgets/widget-ads.php:172
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-adsense.php:46
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2354
+#: ../et-pagebuilder/et-pagebuilder.php:8240
+msgid "The title will be used within the tab button for this tab."
+msgstr "Заголовок будет использоваться внутри кнопки для этой вкладки."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2371
+#: ../et-pagebuilder/et-pagebuilder.php:2408
+#: ../et-pagebuilder/et-pagebuilder.php:7921
+#: ../et-pagebuilder/et-pagebuilder.php:8024
+msgid ""
+"Here you can define the content that will be placed within the current tab."
+msgstr ""
+"Здесь вы можете определить содержание, которое будет помещено в текущую "
+"вкладку."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2382
+msgid "Tabs Module Settings"
+msgstr "Настройки модуля вкладок"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2392
+msgid "Add New Tab"
+msgstr "Добавить новую вкладку"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2470
+msgid "Slider Module Settings"
+msgstr "Настройки модуля слайдер"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2480
+#: ../et-pagebuilder/et-pagebuilder.php:2725
+msgid "Add New Slide"
+msgstr "Добавить новый слайд"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2516
+#: ../et-pagebuilder/et-pagebuilder.php:2761
+msgid "Controls"
+msgstr "Элементы управления"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2523
+#: ../et-pagebuilder/et-pagebuilder.php:2768
+msgid "Show Slider Controls"
+msgstr "Показывать элементы управления слайдером"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2528
+#: ../et-pagebuilder/et-pagebuilder.php:2773
+msgid "Hide Slider Controls"
+msgstr "Скрыть элементы управления слайдером"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2535
+msgid ""
+"This setting will turn on and off the circle buttons at the bottom of the "
+"slider."
+msgstr "Позволяет включить и выключить круглые кнопки в нижней части слайдера."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2544
+#: ../et-pagebuilder/et-pagebuilder.php:2789
+msgid "Automatic Animation"
+msgstr "Автоматическая анимация"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2551
+#: ../et-pagebuilder/et-pagebuilder.php:2796
+#: ../et-pagebuilder/et-pagebuilder.php:7112
+msgid "Disabled"
+msgstr "Отключено"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2556
+#: ../et-pagebuilder/et-pagebuilder.php:2801
+#: ../et-pagebuilder/et-pagebuilder.php:7117
+msgid "Enabled"
+msgstr "Включено"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2563
+#: ../et-pagebuilder/et-pagebuilder.php:2808
+msgid ""
+"If you would like the slider to slide automatically, without the visitor "
+"having to click the next button, enable this option and then adjust the "
+"rotation speed below if desired."
+msgstr ""
+"Если вы хотите, чтобы слайдер прокручивался автоматически, без нажатия "
+"кнопки посетителем, включите эту опцию, а затем отрегулируйте скорость "
+"вращения, если это необходимо."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2572
+#: ../et-pagebuilder/et-pagebuilder.php:2817
+msgid "Automatic Animation Speed (in ms)"
+msgstr "Скорость автоматической анимации (в мс)"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2580
+#: ../et-pagebuilder/et-pagebuilder.php:2825
+msgid ""
+"Here you can designate how fast the slider fades between each slide, if "
+"'Automatic Animation' option is enabled above. The higher the number the "
+"longer the pause between each rotation."
+msgstr ""
+"Здесь вы можете назначить, как быстро слайд исчезает между каждым "
+"прокруткой, если включена опция 'Автоматической анимации'. Чем выше число, "
+"тем больше пауза между каждым прокруткой."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2608
+msgid ""
+"Enabling this option will give your background images a fixed position as "
+"you scroll."
+msgstr ""
+"Включение этой опции задаст вашим фоновым изображениям фиксированное "
+"положение при прокрутке."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2715
+msgid "Fullwidth Slider Module Settings"
+msgstr "Настройки модуля Fullwidth Slider"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2752
+msgid "This setting allows you to turn the navigation arrows on or off."
+msgstr "Этот параметр позволяет включить или выключить навигационные стрелки."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2780
+msgid ""
+"Disabling this option will remove the circle button at the bottom of the "
+"slider."
+msgstr ""
+"Отключение этой опции приведёт к удалению круглой кнопки в нижней части "
+"слайдера."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2853
+msgid ""
+"If enabled, your background images will have a fixed position as your "
+"scroll, creating a fun parallax-like effect."
+msgstr ""
+"Если включено, ваши фоновые изображения будут оставаться фиксированными при "
+"прокрутке, создавая интересный параллакс эффект."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2898
+msgid "Here you can define the text content that will be used in this slide."
+msgstr ""
+"Здесь вы можете определить содержание текста, который будет использоваться в "
+"этом слайде."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2960
+msgid "New Slide"
+msgstr "Новый слайд"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2968
+msgid "Slide Settings"
+msgstr "Настройки слайда"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2976
+msgid "Heading"
+msgstr "Заголовок"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2984
+msgid "Define the title text for your slide."
+msgstr "Определить текст заголовка для вашего слайда."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2993
+#: ../et-pagebuilder/et-pagebuilder.php:4687
+#: ../et-pagebuilder/et-pagebuilder.php:5065
+#: ../et-pagebuilder/et-pagebuilder.php:7628
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3001
+msgid "Define the text for the slide button"
+msgstr "Определить текст для кнопки слайдера"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3010
+#: ../et-pagebuilder/et-pagebuilder.php:4670
+#: ../et-pagebuilder/et-pagebuilder.php:7611
+msgid "Button URL"
+msgstr "URL кнопки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3018
+msgid "Input a destination URL for the slide button."
+msgstr "Ввести URL-адрес для кнопки слайда."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3070
+#: ../et-pagebuilder/et-pagebuilder.php:9332
+msgid "Use the color picker to choose a background color for this module."
+msgstr ""
+"Использовать палитру цветов, чтобы выбрать цвет фона для данного модуля."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3080
+msgid "Slide Image"
+msgstr "Изображение слайда"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3087
+#: ../et-pagebuilder/et-pagebuilder.php:3593
+msgid "Upload an Image"
+msgstr "Загрузить изображение"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3091
+msgid "Choose a Slide Image"
+msgstr "Выберите изображение слайда"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3095
+msgid "Set As Slide Image"
+msgstr "Установить как изображение слайда"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3101
+msgid ""
+"If defined, this slide image will appear to the left of your slide text. "
+"Upload an image, or leave blank for a text-only slide."
+msgstr ""
+"Если определено, это изображение будет отображаться слева от текста слайда. "
+"Загрузите изображение или оставьте поле пустым для слайда с одним текстом."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3110
+msgid "Slide Image Vertical Alignment"
+msgstr "Выравнивание по вертикали изображения слайда"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3122
+msgid "Bottom"
+msgstr "Низ"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3129
+msgid ""
+"This setting determines the vertical alignment of your slide image. Your "
+"image can either be vertically centered, or aligned to the bottom of your "
+"slide."
+msgstr ""
+"Этот параметр определяет вертикальное выравнивание изображения слайда. Ваше "
+"изображение может быть либо отцентровано по вертикали или выровнено по "
+"нижней части слайда."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3138
+msgid "Slide Video"
+msgstr "Видео слайда"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3146
+msgid ""
+"If defined, this video will appear to the left of your slide text. Enter "
+"youtube or vimeo page url, or leave blank for a text-only slide."
+msgstr ""
+"Если определено, это видео будет отображаться слева от текста слайда. "
+"Введите YouTube или Vimeo URL страницы или оставьте поле пустым для слайда с "
+"одним текстом."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3163
+msgid ""
+"If you have a slide image defined, input your HTML ALT text for the image "
+"here."
+msgstr ""
+"Если у вас определено изображение для слайда, вставьте ваш HTML ALT текст "
+"для картинки здесь."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3191
+msgid ""
+"Here you can choose whether your text is light or dark. If you have a slide "
+"with a dark background, then choose light text. If you have a light "
+"background, then use dark text."
+msgstr ""
+"Здесь вы можете выбрать, будет ли ваш текст светлый или тёмный. Если у вас "
+"слайдер с тёмным фоном, то выберите светлый текст. Если ваш фон светлый, то "
+"используйте тёмный текст."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3330
+msgid "Input your main slide text content here."
+msgstr "Введите основной текстовый контент для вашего слайдера здесь."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3341
+msgid "Blurb Module Settings"
+msgstr "Настройки модуля \"Краткого описания\""
+
+#: ../et-pagebuilder/et-pagebuilder.php:3357
+msgid "The title of your blurb will appear in bold below your blurb image."
+msgstr ""
+"Заголовок модуля \"Краткое описание\" будет выделен жирным шрифтом и "
+"появится ниже изображения."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3366
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:238
+msgid "Url"
+msgstr "Url"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3374
+msgid ""
+"If you would like to make your blurb a link, input your destination URL here."
+msgstr ""
+"Если вы хотите, чтобы в Кратком описании была ссылка, введите URL здесь."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3411
+msgid "Use Icon"
+msgstr "Использовать иконку"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3430
+msgid "Here you can choose whether icon set below should be used."
+msgstr "Здесь вы можете выбрать, следует ли использовать набор иконок ниже."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3450
+msgid "Choose an icon to display with your blurb."
+msgstr "Выберите иконку для отображения в модуле"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3459
+#: ../et-pagebuilder/et-pagebuilder.php:9845
+msgid "Icon Color"
+msgstr "Цвет иконки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3475
+msgid "Here you can define a custom color for your icon."
+msgstr "Здесь вы можете определить произвольный цвет для иконки."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3484
+msgid "Circle Icon"
+msgstr "Иконка в круге"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3503
+msgid ""
+"Here you can choose whether icon set above should display within a circle."
+msgstr ""
+"Здесь вы можете выбрать, будет ли набор иконок отображаться в пределах круга."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3512
+msgid "Circle Color"
+msgstr "Цвет круга"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3528
+msgid "Here you can define a custom color for the icon circle."
+msgstr "Здесь вы можете определить произвольный цвет круга иконки."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3537
+msgid "Show Circle Border"
+msgstr "Показать границу круга"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3556
+msgid "Here you can choose whether if the icon circle border should display."
+msgstr "Здесь вы можете выбрать, будет ли отображаться граница круга иконки."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3565
+msgid "Circle Border Color"
+msgstr "Цвет границы круга"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3577
+msgid "Here you can define a custom color for the icon circle border."
+msgstr "Здесь вы можете определить произвольный цвет для границы круга иконки."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3607
+msgid "Upload an image to display at the top of your blurb."
+msgstr "Загрузите изображение для показа в верхней части."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3616
+msgid "Image Alt Text"
+msgstr "Описание изображения"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3624
+msgid "Define the HTML ALT text for your image here."
+msgstr "Определить описание для вашего изображения здесь."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3633
+msgid "Image/Icon Placement"
+msgstr "Размещение изображения/иконки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3640
+msgid "Top"
+msgstr "Вверху"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3652
+msgid "Here you can choose where to place the icon."
+msgstr "Здесь вы можете выбрать, где разместить иконку."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3661
+msgid "Image/Icon Animation"
+msgstr "Анимация изображения/иконки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3787
+msgid "This will control how your blurb text is aligned."
+msgstr "Позволяет контролировать выравнивание текста."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3804
+#: ../et-pagebuilder/et-pagebuilder.php:4174
+#: ../et-pagebuilder/et-pagebuilder.php:4460
+#: ../et-pagebuilder/et-pagebuilder.php:4583
+#: ../et-pagebuilder/et-pagebuilder.php:4852
+#: ../et-pagebuilder/et-pagebuilder.php:5235
+#: ../et-pagebuilder/et-pagebuilder.php:5502
+#: ../et-pagebuilder/et-pagebuilder.php:7420
+#: ../et-pagebuilder/et-pagebuilder.php:7781
+#: ../et-pagebuilder/et-pagebuilder.php:9596
+msgid "Input the main text content for your module here."
+msgstr "Введите основной текстовый контент для вашего модуля здесь."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3866
+msgid "Testimonial Module Settings"
+msgstr "Настройки модуля отзывов"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3874
+msgid "Author Name"
+msgstr "Имя автора"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3882
+msgid "Input the name of the testimonial author."
+msgstr "Ввести имя автора отзыва."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3891
+msgid "Job Title"
+msgstr "Должность"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3899
+msgid "Input the job title."
+msgstr "Ввести должность."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3908
+msgid "Company Name"
+msgstr "Название компании"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3916
+msgid "Input the name of the company."
+msgstr "Ввести название компании."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3925
+msgid "Author/Company URL"
+msgstr "URL-адрес автора/компании"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3933
+msgid "Input the website of the author or leave blank for no link."
+msgstr "Введите вебсайт автора или оставьте поле пустым."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3942
+msgid "URLs Open"
+msgstr "URL-адреса открываются"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3961
+msgid "Choose whether or not the URL should open in a new window."
+msgstr "Выберите, должны ли ссылки открываться в новом окне."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3970
+msgid "Portrait Image URL"
+msgstr "URL-адрес изображения портретной ориентации"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4000
+msgid "Quote Icon"
+msgstr "Значок цитаты"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4007
+msgid "Visible"
+msgstr "Видимый"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4012
+msgid "Hidden"
+msgstr "Скрытый"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4019
+msgid "Choose whether or not the quote icon should be visible."
+msgstr "Выбрать, должен ли значок цитаты быть виден или нет."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4047
+#: ../et-pagebuilder/et-pagebuilder.php:4723
+#: ../et-pagebuilder/et-pagebuilder.php:5101
+#: ../et-pagebuilder/et-pagebuilder.php:5369
+#: ../et-pagebuilder/et-pagebuilder.php:8126
+msgid ""
+"Here you can choose whether background color setting below should be used or "
+"not."
+msgstr ""
+"Здесь вы можете выбрать, будет ли использована настройка цвета фона или нет."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4068
+#: ../et-pagebuilder/et-pagebuilder.php:4744
+msgid "Here you can define a custom background color for your CTA."
+msgstr "Здесь вы можете определить произвольный цвет фона для модуля."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4157
+#: ../et-pagebuilder/et-pagebuilder.php:4835
+msgid "This will adjust the alignment of the module text."
+msgstr "Настройте выравнивание текста модуля."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4236
+msgid "Person Module Settings"
+msgstr "Настройки модуля личных данных"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4252
+msgid "Input the name of the person"
+msgstr "Введите имя человека"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4261
+msgid "Position"
+msgstr "Должность"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4269
+msgid "Input the person's position."
+msgstr "Ввести должность."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4392
+msgid "Input Facebook Profile Url."
+msgstr "Ввести Url профиля Facebook"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4409
+msgid "Input Twitter Profile Url"
+msgstr "Ввести Url профиля Twitter"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4426
+msgid "Input Google+ Profile Url"
+msgstr "Ввести Url профиля Google+"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4435
+msgid "LinkedIn Profile Url"
+msgstr "Url профиля LinkedIn"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4443
+msgid "Input LinkedIn Profile Url"
+msgstr "Ввести Url профиля LinkedIn"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4452
+msgid "Description"
+msgstr "Описание"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4522
+msgid "Toggle Module Settings"
+msgstr "Опции модуля Toggle"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4538
+#: ../et-pagebuilder/et-pagebuilder.php:8007
+msgid ""
+"The toggle title will appear above the content and when the toggle is closed."
+msgstr ""
+"Название переключателя покажется над контентом в том числе, когда "
+"переключатель в скрытом виде."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4554
+msgid "Close"
+msgstr "Закрыть"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4559
+msgid "Open"
+msgstr "Открыть"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4566
+msgid ""
+"Choose whether or not this toggle should start in an open or closed state."
+msgstr "Выберите, чтобы toggle показывался в открытом или закрытом виде."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4645
+msgid "Call To Action Module Settings"
+msgstr "Настройки модуля Call To Action"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4661
+msgid "Input your value to action title here."
+msgstr "Добавьте ваше значение к названию здесь"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4678
+msgid "Input the destination URL for your CTA button."
+msgstr "Введите URL-адрес для кнопки."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4695
+msgid "Input your desired button text, or leave blank for no button."
+msgstr ""
+"Введите нужный текст для кнопки или оставьте поле пустым, чтобы не "
+"отображать кнопку."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4914
+msgid "Signup Module Settings"
+msgstr "Настройки модуля регистрации"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4922
+msgid "Service Provider"
+msgstr "Поставщик услуг"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4929
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4934
+msgid "FeedBurner"
+msgstr "FeedBurner"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4939
+msgid "Aweber"
+msgstr "Aweber"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4946
+msgid "Here you can choose a service provider."
+msgstr "Здесь вы можете выбрать поставщика услуг."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4955
+msgid "Feed Title"
+msgstr "Название Ленты"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4972
+msgid "MailChimp lists"
+msgstr "Списки MailChimp "
+
+#: ../et-pagebuilder/et-pagebuilder.php:4979
+#: ../et-pagebuilder/et-pagebuilder.php:5017
+msgid "Select the list"
+msgstr "Выберите список"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5001
+msgid ""
+"Here you can choose MailChimp list to add customers to. If you don't see any "
+"lists here, you need to make sure MailChimp API key is set in ePanel and you "
+"have at least one list on a MailChimp account. If you added new list, but it "
+"doesn't appear here, activate 'Regenerate MailChimp Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Здесь вы можете выбрать список MailChimp, в который нужно добавлять "
+"посетителей сайта. Если вы не видете списков, то убедитесь, что ключ "
+"MailChimp API установлен в ePanel и существует хотя бы один список в "
+"аккаунте MailChimp. Если вы добавили новый список, но ничего не "
+"показывается, активируйте опцию \"Перегенерировать списки MailChimp\" в "
+"ePanel. Выключите эту опцию, когда списки появятся."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5010
+msgid "Aweber lists"
+msgstr "Списки Aweber"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5039
+msgid ""
+"Here you can choose Aweber list to add customers to. If you don't see any "
+"lists here, you need to make sure Aweber is set up properly in ePanel and "
+"you have at least one list on a Aweber account. If you added new list, but "
+"it doesn't appear here, activate 'Regenerate Aweber Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Здесь вы можете выбрать список Aweber, в который нужно добавлять посетителей "
+"сайта. Если вы не видете списков, то убедитесь, что ключ Aweber API "
+"установлен в ePanel и существует хотя бы один список в аккаунте Aweber. Если "
+"вы добавили новый список, но ничего не показывается, активируйте опцию "
+"\"Перегенерировать списки Aweber\" в ePanel. Выключите эту опцию, когда "
+"списки появятся."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5056
+msgid "Choose a title of your signup box."
+msgstr "Выберите заголовок"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5073
+msgid "Here you can change the text used for the signup button."
+msgstr "Здесь вы можете изменить текст, используемый для кнопки регистрации."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5218
+#: ../et-pagebuilder/et-pagebuilder.php:5485
+msgid "Here you can adjust the alignment of your text."
+msgstr "Здесь вы можете настроить выравнивание текста."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5297
+msgid "Login Module Settings"
+msgstr "Настройки модуля авторизации"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5313
+msgid "Choose a title of your login box."
+msgstr "Выберите заголовок для модуля."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5322
+msgid "Redirect To The Current Page"
+msgstr "Перенаправить на текущую страницу"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5341
+msgid ""
+"Here you can choose whether the user should be redirected to the current "
+"page."
+msgstr ""
+"Здесь вы можете выбрать, будет ли пользователь перенаправлен на текущую "
+"страницу."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5564
+msgid "Audio Module Settings"
+msgstr "Настройки аудио модуля"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5580
+msgid "Upload an audio file"
+msgstr "Загрузить аудио файл"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5584
+msgid "Choose an Audio file"
+msgstr "Выбрать аудио файл"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5588
+msgid "Set As Audio for the module"
+msgstr "Установить как аудио для модуля"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5594
+msgid ""
+"Define the audio file for use in the module. To remove an audio file from "
+"the module, simply delete the URL from the settings field."
+msgstr ""
+"Задайте звуковой файл для использования в модуле. Чтобы удалить звуковой "
+"файл из модуля, просто удалите URL из поля настроек."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5611
+msgid "Define a title."
+msgstr "Определить название."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5620
+msgid "Artist Name"
+msgstr "Имя исполнителя"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5628
+msgid "Define an artist name."
+msgstr "Определить имя исполнителя."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5637
+msgid "Album name"
+msgstr "Название альбома"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5645
+msgid "Define an album name."
+msgstr "Определить название альбома."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5654
+msgid "Cover Art Image URL"
+msgstr "URL изображения обложки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5790
+msgid "Contact Form Module Settings"
+msgstr "Настройки модуля контактной формы"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5805
+msgid "Display Captcha"
+msgstr "Показать кэпчу"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5810
+msgid "Don't Display Captcha"
+msgstr "Не показывать кэпчу"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5817
+msgid "Turn the captcha on or off using this option."
+msgstr "Включите или выключите кэпчу с помощью этой опции."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5834
+msgid "Input the email address where messages should be sent."
+msgstr ""
+"Введите адрес электронной почты, куда сообщения должны быть отправлены."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5851
+msgid "Define a title for your contact form."
+msgstr "Определить заголовок для контактной формы."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5913
+msgid "Divider Module Settings"
+msgstr "Настройки модуля Разделитель"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5933
+msgid "This will adjust the color of the 1px divider line."
+msgstr "Позволяет отрегулировать цвет однопиксельной линии разделителя."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5942
+msgid "Visibility"
+msgstr "Видимость"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5949
+msgid "Don't Show Divider"
+msgstr "Не показывать разделитель"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5954
+msgid "Show Divider"
+msgstr "Показывать разделитель"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5961
+msgid ""
+"This settings turns on and off the 1px divider line, but does not affect the "
+"divider height."
+msgstr ""
+"Эти настройки включают и выключают однопиксельную линию разделителя, но не "
+"влияют на высоту разделителя."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5970
+msgid "Height"
+msgstr "Высота"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5978
+msgid "Define how much space should be added below the divider (in pixels)."
+msgstr ""
+"Определите сколько места должно быть добавлено снизу разделителя ( в "
+"пикселях )."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6040
+msgid "Blog Module Settings"
+msgstr "Настройки модуля Блог"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6055
+#: ../et-pagebuilder/et-pagebuilder.php:6447
+#: ../et-pagebuilder/et-pagebuilder.php:6693
+msgid "Fullwidth"
+msgstr "Полная ширина"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6076
+#: ../et-pagebuilder/et-pagebuilder.php:6468
+#: ../et-pagebuilder/et-pagebuilder.php:6714
+#: ../et-pagebuilder/et-pagebuilder.php:7004
+#: ../et-pagebuilder/et-pagebuilder.php:7254
+msgid "Posts Number"
+msgstr "Количество постов"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6084
+msgid "Choose how much posts you would like to display per page."
+msgstr "Выберите, сколько постов вы хотели бы отобразить на странице."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6093
+#: ../et-pagebuilder/et-pagebuilder.php:6485
+#: ../et-pagebuilder/et-pagebuilder.php:6731
+#: ../et-pagebuilder/et-pagebuilder.php:6976
+msgid "Include Categories"
+msgstr "Включить категории"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6112
+msgid "Choose which categories you would like to include in the feed."
+msgstr "Выберите категории, которые вы хотели бы показывать в модуле"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6121
+msgid "Meta Date Format"
+msgstr "Формат даты метаданных"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6129
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr ""
+"Если вы хотите поменять формат даты, введите соответствующий PHP формат даты "
+"здесь."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6138
+msgid "Featured Image"
+msgstr "Избранное изображение"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6145
+msgid "Show Featured Image"
+msgstr "Показать избранное изображение"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6150
+msgid "Don't Show Featured Image"
+msgstr "Не показывать избранное изображение"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6157
+msgid "This will turn thumbnails on and off."
+msgstr "Определяет включен или выключен показ изображений."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6173
+msgid "Show Excerpt"
+msgstr "Показывать выдержки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6178
+msgid "Show Content"
+msgstr "Показывать контент"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6185
+msgid ""
+"Showing the full content will not truncate your posts on the index page. "
+"Showing the excerpt will only display your excerpt text."
+msgstr ""
+"Если выбран показ всего контента, посты не будут обрезаны на страницах "
+"сайта. Можно установить показ выдержек постов для отображения части контента "
+"поста."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6194
+msgid "Read More Button"
+msgstr "Кнопка Читать далее"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6213
+msgid ""
+"Here you can define whether to show \"read more\" link after the excerpts or "
+"not."
+msgstr ""
+"Здесь вы можете определить, требуется ли показывать ссылку \"читать далее\" "
+"после выдержек или нет."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6222
+msgid "Author"
+msgstr "Автор"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6229
+msgid "Show Author"
+msgstr "Показать автора"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6234
+msgid "Don't Show Author"
+msgstr "Не показывать автора"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6241
+msgid "Turn on or off the author link."
+msgstr "Включить или выключить ссылку автора."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6250
+#: ../et-pagebuilder/et-pagebuilder.php:7049
+msgid "Date"
+msgstr "Дата"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6257
+#: ../et-pagebuilder/et-pagebuilder.php:7056
+msgid "Show Date"
+msgstr "Показать дату"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6262
+#: ../et-pagebuilder/et-pagebuilder.php:7061
+msgid "Don't Show Date"
+msgstr "Не показывать дату"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6269
+msgid "Turn the date on or off."
+msgstr "Включить или выключить отображение даты."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6285
+#: ../et-pagebuilder/et-pagebuilder.php:6548
+#: ../et-pagebuilder/et-pagebuilder.php:6794
+msgid "Show Categories"
+msgstr "Показывать категории"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6290
+#: ../et-pagebuilder/et-pagebuilder.php:6553
+#: ../et-pagebuilder/et-pagebuilder.php:6799
+msgid "Don't Show Categories"
+msgstr "Не показывать категории"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6297
+#: ../et-pagebuilder/et-pagebuilder.php:6560
+#: ../et-pagebuilder/et-pagebuilder.php:6806
+msgid "Turn the category links on or off."
+msgstr "Включить или выключить ссылки на категории."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6325
+msgid "Turn pagination on and off."
+msgstr "Включить и выключить разбиение на страницы."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6334
+msgid "Offset Number"
+msgstr "Начать показ со следующего поста по порядку"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6342
+msgid "Choose how many posts you would like to offset by"
+msgstr "Выберите, с какого по порядку поста нужно начать"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6432
+msgid "Portfolio Module Settings"
+msgstr "Настройки модуля портфолио"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6459
+#: ../et-pagebuilder/et-pagebuilder.php:6705
+#: ../et-pagebuilder/et-pagebuilder.php:6967
+msgid "Choose your desired portfolio layout style."
+msgstr "Выберите нужный стиль макета портфолио."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6476
+#: ../et-pagebuilder/et-pagebuilder.php:6722
+msgid "Define the number of projects that should be displayed per page."
+msgstr ""
+"Определить количество проектов, которые должны быть отображены на каждой "
+"странице."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6504
+#: ../et-pagebuilder/et-pagebuilder.php:6750
+#: ../et-pagebuilder/et-pagebuilder.php:6995
+msgid "Select the categories that you would like to include in the feed."
+msgstr "Выберите категории, которые вы хотели бы включить для показа в модуле."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6520
+#: ../et-pagebuilder/et-pagebuilder.php:6766
+#: ../et-pagebuilder/et-pagebuilder.php:7028
+msgid "Show Title"
+msgstr "Показать заголовок"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6525
+#: ../et-pagebuilder/et-pagebuilder.php:6771
+#: ../et-pagebuilder/et-pagebuilder.php:7033
+msgid "Don't Show Title"
+msgstr "Не показывать заголовок"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6532
+#: ../et-pagebuilder/et-pagebuilder.php:6778
+#: ../et-pagebuilder/et-pagebuilder.php:7040
+msgid "Turn project titles on or off."
+msgstr "Включить или выключить названия проектов."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6678
+msgid "Filterable Portfolio Module Settings"
+msgstr "Настройки модуля “Портфолио С Фильтрами”"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6924
+msgid "Fullwidth Portfolio Module Settings"
+msgstr "Настройки модуля “Портфолио На Всю Ширину”"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6932
+msgid "Portfolio Title"
+msgstr "Заголовок портфолио"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6939
+msgid "Title displayed above the portfolio."
+msgstr "Заголовок, отображаемый над портфолио."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6955
+msgid "Carousel"
+msgstr "Карусель"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7012
+msgid ""
+"Control how many projects are displayed. Leave blank or use 0 to not limit "
+"the amount."
+msgstr ""
+"Определяет количество отображаемых проектов. Оставьте поле пустым или "
+"используйте 0, чтобы не ограничивать количество."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7068
+msgid "Turn the date display on or off."
+msgstr "Включить или выключить отображение даты."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7105
+msgid "Automatic Carousel Rotation"
+msgstr "Автоматическое вращение карусели"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7124
+msgid ""
+"If you the carousel layout option is chosen and you would like the carousel "
+"to slide automatically, without the visitor having to click the next button, "
+"enable this option and then adjust the rotation speed below if desired."
+msgstr ""
+"Если вы выбрали опцию карусели и хотели бы, чтобы карусель прокручивалась "
+"автоматически, без нажатия кнопки посетителями, включите эту опцию, а затем "
+"отрегулируйте скорость вращения ниже, если необходимо."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7133
+msgid "Automatic Carousel Rotation Speed (in ms)"
+msgstr "Скорость автоматического вращения карусели (в мс)"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7141
+msgid ""
+"Here you can designate how fast the carousel rotates, if 'Automatic Carousel "
+"Rotation' option is enabled above. The higher the number the longer the "
+"pause between each rotation. (Ex. 1000 = 1 sec)"
+msgstr ""
+"Здесь вы можете назначить, как быстро будет вращаться карусель, если "
+"включена опция 'Автоматическое вращение карусели'. Чем выше число, тем "
+"больше пауза между каждым вращением. (Исх. 1000 = 1 сек)"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7203
+msgid "Shop Module Settings"
+msgstr "Настройки модуля Магазин"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7218
+msgid "Recent Products"
+msgstr "Недавние товары"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7223
+msgid "Featured Products"
+msgstr "Популярные товары"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7228
+msgid "Sale Products"
+msgstr "Товары на распродаже"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7233
+msgid "Best Selling Products"
+msgstr "Самые продаваемые товары"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7238
+msgid "Top Rated Products"
+msgstr "Лучшие по рейтингу товары"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7245
+msgid "Choose which type of products you would like to display."
+msgstr "Выберите, какой тип товаров вы хотели бы отобразить."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7262
+msgid "Control how many products are displayed."
+msgstr "Определяет количество отображаемых товаров."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7271
+msgid "Columns Number"
+msgstr "Число колонок"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7284
+msgid ""
+"Choose how many columns to display. 4 columns should be used for a 1 column "
+"row. 2 columns should be used for a 1/2 row column. 1 column should be used "
+"for a 1/4 row column."
+msgstr ""
+"Выберите, сколько колонок отобразить. 4 колонки должны быть использованы для "
+"1-й строки. 2 колонки должны использоваться для 1/2 строки. 1 колонка должна "
+"быть использована для 1/4 строки."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7293
+msgid "Order By"
+msgstr "Сортировать по"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7300
+msgid "Default Sorting"
+msgstr "Сортировка по умолчанию"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7305
+msgid "Sort By Popularity"
+msgstr "Сортировать по популярности"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7310
+msgid "Sort By Rating"
+msgstr "Сортировать по рейтингу"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7315
+msgid "Sort By Date"
+msgstr "Сортировать по дате"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7320
+msgid "Sort By Price: Low To High"
+msgstr "Сортировать по цене: от низкой к высокой"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7325
+msgid "Sort By Price: High To Low"
+msgstr "Сортировать по цене: от высокой к низкой"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7332
+msgid "Choose how your products should be ordered."
+msgstr "Выберите, как ваши продукты должны быть расположены."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7394
+msgid "Pricing Tables Settings"
+msgstr "Настройки таблиц цен"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7404
+msgid "Add New Pricing Table"
+msgstr "Добавить новую таблицу цен"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7482
+msgid "New Pricing Table"
+msgstr "Новая таблица цен"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7490
+msgid "Pricing Table Settings"
+msgstr "Настройки таблицы цен"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7498
+msgid "Featured"
+msgstr "Выделенный"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7505
+msgid "Don't Make This Table Featured"
+msgstr "Не делать эту таблицу выделенной"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7510
+msgid "Make This Table Featured"
+msgstr "Сделать эту таблицу выделенной"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7517
+msgid "Featuring a table will make it stand out from the rest."
+msgstr ""
+"Вы можете сделать таблицу выделенной, тогда она будет выделяться специальным "
+"образом на странице"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7534
+msgid "Define a title for the pricing table."
+msgstr "Определить заголовок для таблицы цен."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7543
+msgid "Subtitle"
+msgstr "Подзаголовок "
+
+#: ../et-pagebuilder/et-pagebuilder.php:7551
+msgid "Define a sub title for the table if desired."
+msgstr "Определить подзаголовок для таблицы, если это необходимо."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7560
+msgid "Currency"
+msgstr "Валюта"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7568
+msgid "Input your desired currency symbol here."
+msgstr "Введите желаемый символ валюты здесь."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7577
+msgid "Per"
+msgstr "Период времени"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7585
+msgid ""
+"If your pricing is subscription based, input the subscription payment cycle "
+"here."
+msgstr ""
+"Если вы используете подписку, введите период времени платежного цикла здесь."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7594
+msgid "Price"
+msgstr "Цена"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7602
+msgid "Input the value of the product here."
+msgstr "Введите значение товара."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7619
+msgid "Input the destination URL for the signup button."
+msgstr "Введите URL-адрес для кнопки регистрации."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7636
+msgid "Adjust the text used from the signup button."
+msgstr "Установите текст кнопки регистрации."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7653
+msgid ""
+"Input a list of features that are/are not included in the product. Separate "
+"items on a new line, and begin with either a + or - symbol: "
+msgstr ""
+"Введите список особенностей, которые относятся/не относятся к продукту. "
+"Каждый элемент должен распологаться на новой строке и начинаться с символа + "
+"или - :"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7659
+msgid "Included option"
+msgstr "Включенная опция"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7665
+msgid "Excluded option"
+msgstr "Исключённая опция"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7677
+msgid "Bar Counters Settings"
+msgstr "Параметры полосных счётчиков"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7687
+msgid "Add New Bar Counter"
+msgstr "Добавить новый полосный счётчик"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7736
+msgid ""
+"This will adjust the color of the empty space in the bar (currently gray)."
+msgstr ""
+"Позволяет отрегулировать цвет пустого пространства в полосном счётчике (в "
+"настоящее время серый)."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7746
+#: ../et-pagebuilder/et-pagebuilder.php:8684
+msgid "Bar Background Color"
+msgstr "Цвет фона полосного счётчика"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7763
+#: ../et-pagebuilder/et-pagebuilder.php:8701
+#: ../et-pagebuilder/et-pagebuilder.php:8852
+msgid "This will change the fill color for the bar."
+msgstr "Позволяет изменить цвет полоски счётчика."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7843
+msgid "New Bar Counter"
+msgstr "Новый полосный счётчик"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7851
+msgid "Bar Counter Settings"
+msgstr "Параметры полосного счётчика"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7867
+msgid "Input a title for your bar."
+msgstr "Введите заголовок."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7876
+msgid "Percent"
+msgstr "Процент"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7884
+msgid "Define a percentage for this bar."
+msgstr "Определить процентное значение для этого счетчика."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7895
+msgid "Accordion Settings"
+msgstr "Опции модуля Аккордеон"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7905
+#: ../et-pagebuilder/et-pagebuilder.php:7983
+msgid "Add New Item"
+msgstr "Добавить новый элемент"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7991
+msgid "Accordion Item Settings"
+msgstr "Установки элемента модуля Аккордеон"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8035
+msgid "Countdown Timer Settings"
+msgstr "Настройки таймера обратного отсчёта."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8044
+msgid "Countdown Timer Title"
+msgstr "Заголовок таймера обратного отсчёта."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8052
+msgid "This is the title displayed for the countdown timer."
+msgstr "Этот заголовок отображается для таймера обратного отсчёта."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8061
+msgid "Countdown To"
+msgstr "Обратный отсчёт к"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8069
+msgid "This is the date the countdown timer is counting down to."
+msgstr "Это дата, до которой идет таймер обратного отсчета."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8153
+msgid "Here you can define a custom background color for your countdown timer."
+msgstr ""
+"Здесь вы можете задать произвольный цвет фона для таймера обратного отсчёта."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8216
+msgid "New Pin"
+msgstr "Новый пункт"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8224
+msgid "Pin Settings"
+msgstr "Настройки пункта"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8249
+msgid "Map Pin Address"
+msgstr "Адрес пункта на карте"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8256
+#: ../et-pagebuilder/et-pagebuilder.php:8339
+#: ../et-pagebuilder/et-pagebuilder.php:8483
+msgid "Find"
+msgstr "Найти"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8261
+msgid ""
+"Enter an address for this map pin, and the address will be geocoded and "
+"displayed on the map below."
+msgstr ""
+"Введите адрес для этого пункта на карте, и он будет привязан к местности и "
+"отображен на карте ниже."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8285
+#: ../et-pagebuilder/et-pagebuilder.php:8323
+#: ../et-pagebuilder/et-pagebuilder.php:8467
+msgid ""
+"Here you can define the content that will be placed within the infobox for "
+"the pin."
+msgstr ""
+"Здесь вы можете определить содержание, которое будет помещено в "
+"информационную панель для данного пункта."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8297
+#: ../et-pagebuilder/et-pagebuilder.php:8441
+msgid "Map Settings"
+msgstr "Настройки карты"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8307
+#: ../et-pagebuilder/et-pagebuilder.php:8451
+msgid "Add New Pin"
+msgstr "Добавить новый пункт"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8332
+#: ../et-pagebuilder/et-pagebuilder.php:8476
+msgid "Map Center Address"
+msgstr "Центральная точка на карте"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8344
+#: ../et-pagebuilder/et-pagebuilder.php:8488
+msgid ""
+"Enter an address for the map center point, and the address will be geocoded "
+"and displayed on the map below."
+msgstr ""
+"Введите адрес для центральной точки на карте, и адрес будет привязан к "
+"местности и отображен на карте ниже."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8360
+#: ../et-pagebuilder/et-pagebuilder.php:8504
+msgid "Mouse Wheel Zoom"
+msgstr "Увеличение колёсиком мыши"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8379
+#: ../et-pagebuilder/et-pagebuilder.php:8523
+msgid ""
+"Here you can choose whether the zoom level will be controlled by mouse wheel "
+"or not."
+msgstr ""
+"Здесь вы можете выбрать, будет ли уровень масштабирования контролироваться "
+"колёсиком мыши или нет."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8585
+msgid "Circle Counter Settings"
+msgstr "Настройки кругового счётчика"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8602
+msgid "Input a title for the circle counter."
+msgstr "Введите заголовок для кругового счётчика."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8611
+#: ../et-pagebuilder/et-pagebuilder.php:8790
+msgid "Number"
+msgstr "Число"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8619
+msgid ""
+"Define a number for the circle counter. (Don't include the percentage sign, "
+"use the option below.). <strong>Note: You can use only natural numbers from "
+"0 to 100</strong>"
+msgstr ""
+"Определите число для кругового счётчика. ( Не включайте знак процента, "
+"воспользуйтесь опцией ниже. ) <strong>Примечание: Вы можете использовать "
+"только натуральные числа от 0 до 100</strong>"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8628
+#: ../et-pagebuilder/et-pagebuilder.php:8807
+msgid "Percent Sign"
+msgstr "Знак процента"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8647
+#: ../et-pagebuilder/et-pagebuilder.php:8826
+msgid ""
+"Here you can choose whether the percent sign should be added after the "
+"number set above."
+msgstr ""
+"Здесь вы можете выбрать, следует ли добавлять знак процента после числа, "
+"устанавливаемого выше."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8764
+msgid "Number Counter Settings"
+msgstr "Настройки числового счётчика"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8781
+msgid "Input a title for the counter."
+msgstr "Введите заголовок для счётчика."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8798
+msgid ""
+"Define a number for the counter. (Don't include the percentage sign, use the "
+"option below.)"
+msgstr ""
+"Определите число для счётчика. ( Не включайте знак процента, воспользуйтесь "
+"опцией ниже. )"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8835
+msgid "Counter Text Color"
+msgstr "Цвет текста счётчика "
+
+#: ../et-pagebuilder/et-pagebuilder.php:8881
+msgid ""
+"Here you can choose whether your title text should be light or dark. If you "
+"are working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Здесь вы можете выбрать, будет ли текст вашего заголовка светлым или темным. "
+"Если вы работаете с темным фоном, то текст должен быть светлым. Если ваш фон "
+"светлый, то текст должен быть темным."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8943
+msgid "Sidebar Module Settings"
+msgstr "Настройки модуля боковой панели"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8951
+msgid "Orientation"
+msgstr "Ориентация"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8970
+msgid ""
+"Choose which side of the page your sidebar will be on. This setting controls "
+"text orientation and border position."
+msgstr ""
+"Выберите с какой стороны страницы будет расположена ваша боковая панель. Эта "
+"настройка управляет ориентацией текста и положением границы."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8979
+msgid "Widget Area"
+msgstr "Область виджета"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9000
+msgid ""
+"Select a widget-area that you would like to display. You can create new "
+"widget areas within the Appearances > Widgets tab."
+msgstr ""
+"Выберите виджет-область, которую вы хотели бы отобразить. Вы можете создать "
+"новые виджет-области на странице Виджеты."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9089
+msgid "Fullwidth Header Module Settings"
+msgstr "Настройки модуля “Хэдер на полную ширину”"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9105
+msgid "Enter your page title here."
+msgstr "Введите заголовок страницы здесь."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9114
+msgid "Subheading Text"
+msgstr "Текст подзаголовка"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9122
+msgid ""
+"If you would like to use a subhead, add it here. Your subhead will appear "
+"below your title in a small font."
+msgstr ""
+"Если вы хотели бы использовать подзаголовок, добавьте его здесь. Ваш "
+"подзаголовок появится внизу заголовка, мелким шрифтом."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9275
+msgid "Fullwidth Menu Module Settings"
+msgstr "Настройки модуля \"Меню На Весь Экран\""
+
+#: ../et-pagebuilder/et-pagebuilder.php:9283
+msgid "Menu"
+msgstr "Меню"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9291
+msgid "Select a menu"
+msgstr "Выберите меню"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9308
+msgid "Select a menu that should be used in the module"
+msgstr "Выберите меню, которое должно использоваться в модуле"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9309
+msgid "Click here to create new menu"
+msgstr "Нажмите здесь, чтобы создать новое меню"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9433
+msgid "Sub-Menus Open"
+msgstr "Подменю открываются"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9440
+msgid "Downwards"
+msgstr "Вниз"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9445
+msgid "Upwards"
+msgstr "Вверх"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9452
+msgid ""
+"Here you can choose the direction that your sub-menus will open. You can "
+"choose to have them open downwards or upwards."
+msgstr ""
+"Здесь вы можете изменить направление, в котором открываются подменю. Можно "
+"выбрать, чтобы они открывались вниз или вверх."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9515
+msgid "Social Media Follow Settings"
+msgstr "Параметры модуля подписок в социальных сетях"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9525
+msgid "Add Social Network"
+msgstr "Добавить социальную сеть"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9533
+msgid "Link Shape"
+msgstr "Форма ссылки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9540
+msgid "Rounded Rectangle"
+msgstr "Прямоугольник с закругленными углами"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9545
+msgid "Circle"
+msgstr "Круг"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9551
+msgid "Here you can choose the shape of your social network icons."
+msgstr "Здесь вы можете выбрать форму ваших иконок социальных сетей."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9632
+msgid "Follow Button"
+msgstr "Кнопка подписки"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9650
+msgid ""
+"Here you can choose whether or not to include the follow button next to the "
+"icon."
+msgstr ""
+"Здесь вы можете выбрать, следует ли включать кнопку \"Подписаться\" рядом со "
+"значком."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9712
+msgid "New Social Network"
+msgstr "Новая социальная сеть"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9720
+msgid "Social Network Settings"
+msgstr "Параметры социальной сети"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9729
+msgid "Social Network"
+msgstr "Социальная сеть"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9736
+msgid "Select a Network"
+msgstr "Выберите сеть"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9741
+msgid "facebook"
+msgstr "facebook"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9756
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9766
+msgid "tumblr"
+msgstr "tumblr"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9771
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9776
+msgid "skype"
+msgstr "skype"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9781
+msgid "flikr"
+msgstr "flikr"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9786
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9791
+msgid "dribbble"
+msgstr "dribbble"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9796
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9801
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9806 ../includes/social_icons.php:32
+msgid "RSS"
+msgstr "RSS"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9813
+msgid "Choose the social network"
+msgstr "Выберите социальную сеть"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9828
+msgid "Account URL"
+msgstr "URL-адрес учетной записи"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9836
+msgid "The URL for this social network link."
+msgstr "URL-адрес для этой ссылки социальной сети."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9862
+msgid "Reset Color"
+msgstr "Сбросить цвет"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9867
+msgid "This will change the icon color."
+msgstr "Это изменит цвет иконки."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9883
+msgid "Insert Module(s)"
+msgstr "Вставить модуль (модули)"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9891
+msgid ""
+"All content created in the Page Builder will be lost. Previous content will "
+"be restored."
+msgstr ""
+"Все содержимое, созданное в Конструкторе Страниц, будет потеряно. Предыдущий "
+"контент будет восстановлен."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9896
+#: ../et-pagebuilder/et-pagebuilder.php:9909
+msgid "Do you want to proceed?"
+msgstr "Вы хотите продолжить?"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9904
+msgid "All content created in the Page Builder will be lost."
+msgstr "Все содержимое, созданное в Конструкторе Страниц, будет потеряно."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9917
+msgid "You can save the Page Builder Layout for later use here."
+msgstr ""
+"Вы можете сохранить макет Конструктора Страниц здесь для последующего "
+"использования."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9922
+msgid "Layout Name"
+msgstr "Имя Макета"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9938
+msgid "Close Modal Window"
+msgstr "Закрыть модальное окно"
+
+#: ../et-pagebuilder/layouts/layouts.php:58
+msgid "Homepage Basic"
+msgstr "Домашняя страница"
+
+#: ../et-pagebuilder/layouts/layouts.php:66
+msgid "Homepage Shop"
+msgstr "Домашняя страница: Магазин"
+
+#: ../et-pagebuilder/layouts/layouts.php:76
+msgid "Homepage Portfolio"
+msgstr "Домашняя страница: Портфолио"
+
+#: ../et-pagebuilder/layouts/layouts.php:84
+msgid "Homepage Company"
+msgstr "Домашняя страница: Компания"
+
+#: ../et-pagebuilder/layouts/layouts.php:92
+msgid "Homepage Corporate"
+msgstr "Корпоративная домашняя страница"
+
+#: ../et-pagebuilder/layouts/layouts.php:103
+msgid "Homepage Extended"
+msgstr "Расширенная домашняя страница"
+
+#: ../et-pagebuilder/layouts/layouts.php:112
+msgid "Page Fullwidth"
+msgstr "Полноформатная страница"
+
+#: ../et-pagebuilder/layouts/layouts.php:146
+msgid "Page Right Sidebar"
+msgstr "Страница с правым сайдбаром"
+
+#: ../et-pagebuilder/layouts/layouts.php:180
+msgid "Page Left Sidebar"
+msgstr "Страница с левым сайдбаром"
+
+#: ../et-pagebuilder/layouts/layouts.php:214
+msgid "Page Dual Sidebars"
+msgstr "Страница с двумя сайдбарами"
+
+#: ../et-pagebuilder/layouts/layouts.php:236
+msgid "Portfolio Grid"
+msgstr "Портфолио в сетку"
+
+#: ../et-pagebuilder/layouts/layouts.php:244
+msgid "Portfolio 1 Column"
+msgstr "Портфолио с одной колонкой"
+
+#: ../et-pagebuilder/layouts/layouts.php:252
+msgid "Portfolio Fullwidth Carousel"
+msgstr "Полноформатное портфолио с прокруткой"
+
+#: ../et-pagebuilder/layouts/layouts.php:260
+msgid "Portfolio Fullwidth Grid"
+msgstr "Полноформатное портфолио с сеткой"
+
+#: ../et-pagebuilder/layouts/layouts.php:268
+msgid "Project Extended"
+msgstr "Расширенный проект"
+
+#: ../et-pagebuilder/layouts/layouts.php:278
+msgid "Project Extended 2"
+msgstr "Расширенный проект 2"
+
+#: ../et-pagebuilder/layouts/layouts.php:291
+msgid "Blog Masonry"
+msgstr "Блог Masonry"
+
+#: ../et-pagebuilder/layouts/layouts.php:299
+msgid "Blog Standard"
+msgstr "Стандартный блог"
+
+#: ../et-pagebuilder/layouts/layouts.php:307
+msgid "Shop Basic"
+msgstr "Страница магазина"
+
+#: ../et-pagebuilder/layouts/layouts.php:315
+msgid "Shop Extended"
+msgstr "Расширенный магазин"
+
+#: ../et-pagebuilder/layouts/layouts.php:323
+msgid "Splash Page"
+msgstr "Главная страница"
+
+#: ../et-pagebuilder/layouts/layouts.php:334
+msgid "Maintenance Mode"
+msgstr "Режим технического обслуживания"
+
+#: ../et-pagebuilder/layouts/layouts.php:343
+msgid "Coming Soon"
+msgstr "Страница: сайт скоро откроется"
+
+#: ../et-pagebuilder/layouts/layouts.php:351
+msgid "Landing Page"
+msgstr "Домашняя страница"
+
+#: ../et-pagebuilder/layouts/layouts.php:360
+#: ../includes/widgets/widget-about.php:12
+#: ../includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "Обо мне"
+
+#: ../et-pagebuilder/layouts/layouts.php:369
+msgid "About Us"
+msgstr "О нас"
+
+#: ../et-pagebuilder/layouts/layouts.php:378
+msgid "Contact Us"
+msgstr "Связаться с нами"
+
+#: ../et-pagebuilder/layouts/layouts.php:394
+msgid "Our Team"
+msgstr "Наша команда"
+
+#: ../et-pagebuilder/layouts/layouts.php:507
+msgid "Creative Agency"
+msgstr "Креативное бюро"
+
+#: ../et-pagebuilder/layouts/layouts.php:516
+msgid "Sales Page"
+msgstr "Страница продаж"
+
+#: ../et-pagebuilder/layouts/layouts.php:552
+msgid "Case Study"
+msgstr "Пример"
+
+#: ../et-pagebuilder/layouts/layouts.php:562
+msgid "Product Features"
+msgstr "Особенности продукта"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Предыдущие Записи"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Следующие Записи &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Ничего не найдено"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"Запрашиваемая страница не найдена. Попробуйте уточнить параметры поиска или "
+"используйте меню для нахождения страницы."
+
+#: ../includes/social_icons.php:20
+msgid "Google"
+msgstr "Google"
+
+#: ../includes/functions/comments.php:15
+#, php-format
+msgid "on %1$s at %2$s"
+msgstr " %1$s в %2$s"
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(Ред.)"
+
+#: ../includes/functions/comments.php:21
+msgid "Reply"
+msgstr "Ответить"
+
+#: ../includes/functions/comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../includes/functions/installation.php:1
+msgid "Read Divi Documentation"
+msgstr "Читать Divi документацию"
+
+#: ../includes/functions/sidebars.php:13 ../includes/functions/sidebars.php:22
+#: ../includes/functions/sidebars.php:31 ../includes/functions/sidebars.php:40
+msgid "Footer Area"
+msgstr "Зона футера"
+
+#: ../includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "Посмотрите обучающие видео"
+
+#: ../includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr "Отображает информацию \"Обо мне\""
+
+#: ../includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr "Виджет с информацией \"Обо мне\""
+
+#: ../includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr "Отображает рекламу"
+
+#: ../includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr "ET Реклама"
+
+#: ../includes/widgets/widget-ads.php:12
+#: ../includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr "Реклама"
+
+#: ../includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr "Использовать относительные пути к изображениям"
+
+#: ../includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr "Открывать ссылки в новом окне"
+
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:236
+#: ../includes/widgets/widget-ads.php:238
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-ads.php:242
+msgid "Banner"
+msgstr "Баннер"
+
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:242
+msgid "Alt"
+msgstr "Описание картинки"
+
+#: ../includes/widgets/widget-ads.php:243
+msgid ""
+"If you don't want to display some banners - leave approptiate fields blank"
+msgstr ""
+"Если вы не хотите показывать некоторые баннеры - оставьте соответствующие "
+"поля пустыми"
+
+#: ../includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr "Показывать рекламу Adsense"
+
+#: ../includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr "ET Adsense виджет"
+
+#: ../includes/widgets/widget-adsense.php:12
+#: ../includes/widgets/widget-adsense.php:40
+msgid "Adsense"
+msgstr "Adsense"
+
+#: ../includes/widgets/widget-adsense.php:48
+msgid "Adsense Code"
+msgstr "Adsense код"
+
+#~ msgid ""
+#~ "Canonicalization helps to prevent the indexing of duplicate content by "
+#~ "search engines, and as a result, may help avoid duplicate content "
+#~ "penalties and pagerank degradation. Some pages may have different URL's "
+#~ "all leading to the same place. For example domain.com, domain.com/index."
+#~ "html, and www.domain.com are all different URLs leading to your homepage. "
+#~ "From a search engine's perspective these duplicate URLs, which also occur "
+#~ "often due to custom permalinks, may be treaded individually instead of as "
+#~ "a single destination. Defining a canonical URL tells the search engine "
+#~ "which URL you would like to use officially. The theme bases its canonical "
+#~ "URLs off your permalinks and the domain name defined in the settings tab "
+#~ "of wp-admin."
+#~ msgstr ""
+#~ "Канонизация помогает избежать индексирования одинакового контента "
+#~ "поисковыми сервисами, и как результат, может помочь предотвратить "
+#~ "блокирование сайта из-за дублирующегося контента и ухудшение ранга сайта "
+#~ "в поисковой системе. Существуют страницы с разными ссылками, ведущими на "
+#~ "одно и тоже место на сайте, например domain.com, domain.com/index.html, и "
+#~ "www.domain.com, все эти ссылки ведут на главную страницу сайта. С точки "
+#~ "зрения поисковых систем, эти дублирующиеся ссылки, которые также часто "
+#~ "возникают вследствие использования произвольных ссылок ( custom "
+#~ "permalinks ), могут восприниматься как уникальные ссылки. Определяя "
+#~ "канонический URL, вы указываете поисковой системе какой URL вы хотите "
+#~ "использовать. Тема создает канонический URL из ваших ссылок и имени "
+#~ "домена, определенных в установках в wp-admin."
+
+#~ msgid "Background Image:"
+#~ msgstr "Фоновое изображение:"

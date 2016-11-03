@@ -1,0 +1,5820 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-02-09 03:05+0300\n"
+"PO-Revision-Date: 2015-02-09 03:07+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Postingan ini terlindungi kata sandi. Masukkan kata sandi untuk melihat "
+"komentar."
+
+#: ../comments.php:13
+msgid "0 Comments"
+msgstr "0 Komentar"
+
+#: ../comments.php:13 ../functions.php:239
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: ../comments.php:13
+msgid "Comments"
+msgstr "Komentar"
+
+#: ../comments.php:18 ../comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Komentar Lama"
+
+#: ../comments.php:19 ../comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Komentar Baru <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackback"
+
+#: ../comments.php:56
+msgid "Submit Comment"
+msgstr "Kirim Komentar"
+
+#: ../comments.php:56
+msgid "Submit a Comment"
+msgstr "Kirim Komentar"
+
+#: ../comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Beri Balasan pada %s"
+
+#: ../footer.php:40
+#, php-format
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "Didesain oleh %1$s | Didukung oleh %2$s"
+
+#: ../functions.php:30
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: ../functions.php:31
+msgid "Secondary Menu"
+msgstr "Menu Sekunder"
+
+#: ../functions.php:32
+msgid "Footer Menu"
+msgstr "Menu Footer"
+
+#: ../functions.php:71
+msgid "on"
+msgstr "on"
+
+#: ../functions.php:128
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"Harap periksa kolom input di bawah guna memastikan Anda memasukkan informasi "
+"dengan benar."
+
+#: ../functions.php:129
+msgid "Fill"
+msgstr "Isi"
+
+#: ../functions.php:130
+msgid "field"
+msgstr "kolom"
+
+#: ../functions.php:131
+msgid "Invalid email"
+msgstr "Surel salah"
+
+#: ../functions.php:132 ../et-pagebuilder/et-pagebuilder.php:5798
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../functions.php:133
+msgid "Prev"
+msgstr "Sebelum"
+
+#: ../functions.php:134 ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:518
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: ../functions.php:135 ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:519
+msgid "Next"
+msgstr "Lanjut"
+
+#: ../functions.php:174
+msgid "Select Page"
+msgstr "Pilih Laman"
+
+#: ../functions.php:218
+#, php-format
+msgid "Posts by %s"
+msgstr "Postingan oleh %s"
+
+#: ../functions.php:235
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: ../functions.php:237
+msgid "No Comments"
+msgstr "Tak Ada Komentar"
+
+#: ../functions.php:252
+msgid "by"
+msgstr "oleh"
+
+#: ../functions.php:274 ../functions.php:275 ../functions.php:276
+#: ../functions.php:277
+msgid "ET Settings"
+msgstr "Pengaturan ET"
+
+#: ../functions.php:283
+msgid "Projects"
+msgstr "Proyek"
+
+#: ../functions.php:284
+msgid "Project"
+msgstr "Proyek"
+
+#: ../functions.php:285 ../functions.php:367
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: ../functions.php:286
+msgid "Add New Project"
+msgstr "Tambah Proyek Baru"
+
+#: ../functions.php:287
+msgid "Edit Project"
+msgstr "Sunting Proyek"
+
+#: ../functions.php:288
+msgid "New Project"
+msgstr "Proyek Baru"
+
+#: ../functions.php:289
+msgid "All Projects"
+msgstr "Semua Proyek"
+
+#: ../functions.php:290
+msgid "View Project"
+msgstr "Lihat Proyek"
+
+#: ../functions.php:291
+msgid "Search Projects"
+msgstr "Cari Proyek"
+
+#: ../functions.php:292 ../functions.php:374
+msgid "Nothing found"
+msgstr "Tak Ditemukan apapun"
+
+#: ../functions.php:293 ../functions.php:375
+msgid "Nothing found in Trash"
+msgstr "Tak ditemukan apapun dalam Sampah"
+
+#: ../functions.php:320 ../functions.php:330 ../epanel/options_divi.php:292
+#: ../et-pagebuilder/et-pagebuilder.php:6278
+#: ../et-pagebuilder/et-pagebuilder.php:6541
+#: ../et-pagebuilder/et-pagebuilder.php:6787
+msgid "Categories"
+msgstr "Kategori"
+
+#: ../functions.php:321
+msgid "Category"
+msgstr "Kategori"
+
+#: ../functions.php:322
+msgid "Search Categories"
+msgstr "Cari Kategori"
+
+#: ../functions.php:323
+msgid "All Categories"
+msgstr "Semua Kategori"
+
+#: ../functions.php:324
+msgid "Parent Category"
+msgstr "Kategori Induk"
+
+#: ../functions.php:325
+msgid "Parent Category:"
+msgstr "Kategori Induk:"
+
+#: ../functions.php:326
+msgid "Edit Category"
+msgstr "Sunting Kategori"
+
+#: ../functions.php:327
+msgid "Update Category"
+msgstr "Perbarui Kategori"
+
+#: ../functions.php:328
+msgid "Add New Category"
+msgstr "Tambah Kategori Baru"
+
+#: ../functions.php:329
+msgid "New Category Name"
+msgstr "Nama Kategori Baru"
+
+#: ../functions.php:342 ../functions.php:352
+msgid "Tags"
+msgstr "Tag"
+
+#: ../functions.php:343
+msgid "Tag"
+msgstr "Tag"
+
+#: ../functions.php:344
+msgid "Search Tags"
+msgstr "Cari Tag"
+
+#: ../functions.php:345
+msgid "All Tags"
+msgstr "Semua Tag"
+
+#: ../functions.php:346
+msgid "Parent Tag"
+msgstr "Tag Induk"
+
+#: ../functions.php:347
+msgid "Parent Tag:"
+msgstr "Tag Induk:"
+
+#: ../functions.php:348
+msgid "Edit Tag"
+msgstr "Sunting Tag"
+
+#: ../functions.php:349
+msgid "Update Tag"
+msgstr "Perbarui Tag"
+
+#: ../functions.php:350
+msgid "Add New Tag"
+msgstr "Tambah Tag Baru"
+
+#: ../functions.php:351
+msgid "New Tag Name"
+msgstr "Nama Tag Baru"
+
+#: ../functions.php:365
+msgid "Layouts"
+msgstr "Tata Letak"
+
+#: ../functions.php:366 ../et-pagebuilder/et-pagebuilder.php:1439
+#: ../et-pagebuilder/et-pagebuilder.php:6048
+#: ../et-pagebuilder/et-pagebuilder.php:6440
+#: ../et-pagebuilder/et-pagebuilder.php:6686
+#: ../et-pagebuilder/et-pagebuilder.php:6948
+msgid "Layout"
+msgstr "Tata Letak"
+
+#: ../functions.php:368
+msgid "Add New Layout"
+msgstr "Tambah Tata Letak baru"
+
+#: ../functions.php:369
+msgid "Edit Layout"
+msgstr "Sunting Tata Letak"
+
+#: ../functions.php:370
+msgid "New Layout"
+msgstr "Tata Letak Baru"
+
+#: ../functions.php:371
+msgid "All Layouts"
+msgstr "Semua Tata Letak"
+
+#: ../functions.php:372
+msgid "View Layout"
+msgstr "Lihat Tata Letak"
+
+#: ../functions.php:373
+msgid "Search Layouts"
+msgstr "Cari Tata Letak"
+
+#: ../functions.php:397
+msgid "Skills"
+msgstr "Keahlian"
+
+#: ../functions.php:400
+msgid "Posted on"
+msgstr "Diposting pada"
+
+#: ../functions.php:417 ../epanel/options_divi.php:90
+msgid "Right Sidebar"
+msgstr "Bilah samping Kanan"
+
+#: ../functions.php:418 ../epanel/options_divi.php:91
+msgid "Left Sidebar"
+msgstr "Bilah Samping Kiri"
+
+#: ../functions.php:419 ../epanel/options_divi.php:92
+msgid "Full Width"
+msgstr "Lebar Penuh"
+
+#: ../functions.php:423 ../functions.php:865 ../functions.php:897
+#: ../et-pagebuilder/et-pagebuilder.php:1552
+#: ../et-pagebuilder/et-pagebuilder.php:1885
+#: ../et-pagebuilder/et-pagebuilder.php:2106
+#: ../et-pagebuilder/et-pagebuilder.php:2149
+#: ../et-pagebuilder/et-pagebuilder.php:3179
+#: ../et-pagebuilder/et-pagebuilder.php:3716
+#: ../et-pagebuilder/et-pagebuilder.php:4089
+#: ../et-pagebuilder/et-pagebuilder.php:4368
+#: ../et-pagebuilder/et-pagebuilder.php:4760
+#: ../et-pagebuilder/et-pagebuilder.php:5142
+#: ../et-pagebuilder/et-pagebuilder.php:5410
+#: ../et-pagebuilder/et-pagebuilder.php:5716
+#: ../et-pagebuilder/et-pagebuilder.php:6363
+#: ../et-pagebuilder/et-pagebuilder.php:6609
+#: ../et-pagebuilder/et-pagebuilder.php:6855
+#: ../et-pagebuilder/et-pagebuilder.php:7089
+#: ../et-pagebuilder/et-pagebuilder.php:7707
+#: ../et-pagebuilder/et-pagebuilder.php:8090
+#: ../et-pagebuilder/et-pagebuilder.php:8668
+#: ../et-pagebuilder/et-pagebuilder.php:8874
+#: ../et-pagebuilder/et-pagebuilder.php:9020
+#: ../et-pagebuilder/et-pagebuilder.php:9143
+#: ../et-pagebuilder/et-pagebuilder.php:9354
+#: ../et-pagebuilder/et-pagebuilder.php:9572
+msgid "Light"
+msgstr "Terang"
+
+#: ../functions.php:424 ../functions.php:864 ../functions.php:896
+#: ../et-pagebuilder/et-pagebuilder.php:1547
+#: ../et-pagebuilder/et-pagebuilder.php:1890
+#: ../et-pagebuilder/et-pagebuilder.php:2111
+#: ../et-pagebuilder/et-pagebuilder.php:2144
+#: ../et-pagebuilder/et-pagebuilder.php:3184
+#: ../et-pagebuilder/et-pagebuilder.php:3711
+#: ../et-pagebuilder/et-pagebuilder.php:4084
+#: ../et-pagebuilder/et-pagebuilder.php:4363
+#: ../et-pagebuilder/et-pagebuilder.php:4765
+#: ../et-pagebuilder/et-pagebuilder.php:5147
+#: ../et-pagebuilder/et-pagebuilder.php:5415
+#: ../et-pagebuilder/et-pagebuilder.php:5721
+#: ../et-pagebuilder/et-pagebuilder.php:6358
+#: ../et-pagebuilder/et-pagebuilder.php:6604
+#: ../et-pagebuilder/et-pagebuilder.php:6850
+#: ../et-pagebuilder/et-pagebuilder.php:7084
+#: ../et-pagebuilder/et-pagebuilder.php:7702
+#: ../et-pagebuilder/et-pagebuilder.php:8085
+#: ../et-pagebuilder/et-pagebuilder.php:8663
+#: ../et-pagebuilder/et-pagebuilder.php:8869
+#: ../et-pagebuilder/et-pagebuilder.php:9015
+#: ../et-pagebuilder/et-pagebuilder.php:9138
+#: ../et-pagebuilder/et-pagebuilder.php:9349
+#: ../et-pagebuilder/et-pagebuilder.php:9567
+msgid "Dark"
+msgstr "Gelap"
+
+#: ../functions.php:437
+msgid "Page Layout"
+msgstr "Tata Letak Laman"
+
+#: ../functions.php:451
+msgid "Side Navigation"
+msgstr "Navigasi Samping"
+
+#: ../functions.php:454 ../et-pagebuilder/et-pagebuilder.php:857
+#: ../et-pagebuilder/et-pagebuilder.php:6201
+#: ../et-pagebuilder/et-pagebuilder.php:8372
+#: ../et-pagebuilder/et-pagebuilder.php:8516
+#: ../et-pagebuilder/et-pagebuilder.php:8640
+#: ../et-pagebuilder/et-pagebuilder.php:8819
+#: ../et-pagebuilder/et-pagebuilder.php:9639
+msgid "Off"
+msgstr "Mati"
+
+#: ../functions.php:455 ../et-pagebuilder/et-pagebuilder.php:862
+#: ../et-pagebuilder/et-pagebuilder.php:6206
+#: ../et-pagebuilder/et-pagebuilder.php:8367
+#: ../et-pagebuilder/et-pagebuilder.php:8511
+#: ../et-pagebuilder/et-pagebuilder.php:8635
+#: ../et-pagebuilder/et-pagebuilder.php:8814
+#: ../et-pagebuilder/et-pagebuilder.php:9644
+msgid "On"
+msgstr "Nyala"
+
+#: ../functions.php:469 ../et-pagebuilder/et-pagebuilder.php:4028
+#: ../et-pagebuilder/et-pagebuilder.php:4704
+#: ../et-pagebuilder/et-pagebuilder.php:5082
+#: ../et-pagebuilder/et-pagebuilder.php:5350
+#: ../et-pagebuilder/et-pagebuilder.php:8106
+msgid "Use Background Color"
+msgstr "Gunakan Warna Latar"
+
+#: ../functions.php:473 ../et-pagebuilder/et-pagebuilder.php:877
+#: ../et-pagebuilder/et-pagebuilder.php:3057
+#: ../et-pagebuilder/et-pagebuilder.php:4056
+#: ../et-pagebuilder/et-pagebuilder.php:4732
+#: ../et-pagebuilder/et-pagebuilder.php:5110
+#: ../et-pagebuilder/et-pagebuilder.php:5378
+#: ../et-pagebuilder/et-pagebuilder.php:5684
+#: ../et-pagebuilder/et-pagebuilder.php:7723
+#: ../et-pagebuilder/et-pagebuilder.php:8136
+#: ../et-pagebuilder/et-pagebuilder.php:9319
+msgid "Background Color"
+msgstr "Warna Latar"
+
+#: ../functions.php:474 ../et-pagebuilder/et-pagebuilder.php:885
+#: ../et-pagebuilder/et-pagebuilder.php:3065
+#: ../et-pagebuilder/et-pagebuilder.php:3465
+#: ../et-pagebuilder/et-pagebuilder.php:3518
+#: ../et-pagebuilder/et-pagebuilder.php:4062
+#: ../et-pagebuilder/et-pagebuilder.php:5116
+#: ../et-pagebuilder/et-pagebuilder.php:5384
+#: ../et-pagebuilder/et-pagebuilder.php:5690
+#: ../et-pagebuilder/et-pagebuilder.php:5927
+#: ../et-pagebuilder/et-pagebuilder.php:7731
+#: ../et-pagebuilder/et-pagebuilder.php:7754
+#: ../et-pagebuilder/et-pagebuilder.php:8144
+#: ../et-pagebuilder/et-pagebuilder.php:8692
+#: ../et-pagebuilder/et-pagebuilder.php:8843
+#: ../et-pagebuilder/et-pagebuilder.php:9327
+#: ../et-pagebuilder/et-pagebuilder.php:9853
+msgid "Hex Value"
+msgstr "Nilai Warna"
+
+#: ../functions.php:478 ../et-pagebuilder/et-pagebuilder.php:1540
+#: ../et-pagebuilder/et-pagebuilder.php:2137
+#: ../et-pagebuilder/et-pagebuilder.php:3172
+#: ../et-pagebuilder/et-pagebuilder.php:3704
+#: ../et-pagebuilder/et-pagebuilder.php:4077
+#: ../et-pagebuilder/et-pagebuilder.php:4356
+#: ../et-pagebuilder/et-pagebuilder.php:4753
+#: ../et-pagebuilder/et-pagebuilder.php:5135
+#: ../et-pagebuilder/et-pagebuilder.php:5403
+#: ../et-pagebuilder/et-pagebuilder.php:5709
+#: ../et-pagebuilder/et-pagebuilder.php:6351
+#: ../et-pagebuilder/et-pagebuilder.php:6597
+#: ../et-pagebuilder/et-pagebuilder.php:6843
+#: ../et-pagebuilder/et-pagebuilder.php:7077
+#: ../et-pagebuilder/et-pagebuilder.php:7695
+#: ../et-pagebuilder/et-pagebuilder.php:8078
+#: ../et-pagebuilder/et-pagebuilder.php:8656
+#: ../et-pagebuilder/et-pagebuilder.php:8862
+#: ../et-pagebuilder/et-pagebuilder.php:9008
+#: ../et-pagebuilder/et-pagebuilder.php:9131
+#: ../et-pagebuilder/et-pagebuilder.php:9342
+#: ../et-pagebuilder/et-pagebuilder.php:9560
+msgid "Text Color"
+msgstr "Warna Teks"
+
+#: ../functions.php:620
+msgid "Theme Settings"
+msgstr "Pengaturan Tema"
+
+#: ../functions.php:625
+msgid "Fonts"
+msgstr "Font"
+
+#: ../functions.php:630
+msgid "Schemes"
+msgstr "Skema"
+
+#: ../functions.php:632
+msgid ""
+"Note: Color settings set above should be applied to the Default color scheme."
+msgstr ""
+"Catatan: Pengaturan warna yang diset di atas harus diaplikasikan ke skema "
+"warna Default."
+
+#: ../functions.php:643
+msgid "Link Color"
+msgstr "Warna Tautan"
+
+#: ../functions.php:656
+msgid "Main Font Color"
+msgstr "Warna Font Utama"
+
+#: ../functions.php:669
+msgid "Accent Color"
+msgstr "Warna Aksen"
+
+#: ../functions.php:682
+msgid "Footer Background Color"
+msgstr "Warna Latar Footer"
+
+#: ../functions.php:695
+msgid "Menu Links Color"
+msgstr "Warna Tautan Menu"
+
+#: ../functions.php:708
+msgid "Active Menu Link Color"
+msgstr "Warna Tautan Menu Aktif"
+
+#: ../functions.php:720
+msgid "Boxed Layout"
+msgstr "Tata Letak Kotak"
+
+#: ../functions.php:734
+msgid "Stretch Background Image"
+msgstr "Tarik Gambar Latar"
+
+#: ../functions.php:747
+msgid "Vertical Navigation"
+msgstr "Navigasi Vertikal"
+
+#: ../functions.php:760
+msgid "Show Social Icons in Header"
+msgstr "Tampilkan Ikon Sosial di Header Situs Web"
+
+#: ../functions.php:774
+msgid "Show Social Icons in Footer"
+msgstr "Tampilkan Ikon Sosial di Footer Situs Web"
+
+#: ../functions.php:788
+msgid "Show Search Icon"
+msgstr "Tampilkan Ikon Pencarian"
+
+#: ../functions.php:802
+msgid "Header Style"
+msgstr "Gaya Header"
+
+#: ../functions.php:806 ../functions.php:947
+msgid "Default"
+msgstr "Default"
+
+#: ../functions.php:807
+msgid "Centered"
+msgstr "Tengah"
+
+#: ../functions.php:819
+msgid "Phone Number"
+msgstr "Nomor Telepon"
+
+#: ../functions.php:832 ../et-pagebuilder/et-pagebuilder.php:5826
+msgid "Email"
+msgstr "Surel"
+
+#: ../functions.php:846
+msgid "Primary Navigation Background"
+msgstr "Warna Latar Navigasi Utama"
+
+#: ../functions.php:860
+msgid "Primary Navigation Text Color"
+msgstr "Warna Teks Navigasi Utama"
+
+#: ../functions.php:878
+msgid "Secondary Navigation Background"
+msgstr "Warna Latar Navigasi Sekunder"
+
+#: ../functions.php:892
+msgid "Secondary Navigation Text Color"
+msgstr "Warna Teks Navigasi Sekunder"
+
+#: ../functions.php:911
+msgid "Header Font"
+msgstr "Font Header"
+
+#: ../functions.php:926
+msgid "Body Font"
+msgstr "Font Body"
+
+#: ../functions.php:942
+msgid "Color Schemes"
+msgstr "Skema Warna"
+
+#: ../functions.php:948
+msgid "Green"
+msgstr "Hijau"
+
+#: ../functions.php:949
+msgid "Orange"
+msgstr "Jingga"
+
+#: ../functions.php:950
+msgid "Pink"
+msgstr "Pink"
+
+#: ../functions.php:951
+msgid "Red"
+msgstr "Merah"
+
+#: ../functions.php:1045
+msgid "0 comments"
+msgstr "0 Komentar"
+
+#: ../functions.php:1045
+msgid "1 comment"
+msgstr "1 Komentar"
+
+#: ../functions.php:1045
+msgid "comments"
+msgstr "Komentar"
+
+#: ../functions.php:1268
+msgid "Password Protected"
+msgstr "Diamankan dengan Kata Sandi"
+
+#: ../functions.php:1269
+msgid "To view this protected post, enter the password below"
+msgstr "Untuk menampilkan postingan ini, masukkan kata sandi bawah"
+
+#: ../functions.php:1272 ../functions.php:3607
+msgid "Password"
+msgstr "Kata Sandi"
+
+#: ../functions.php:1273 ../functions.php:4668
+msgid "Submit"
+msgstr "Kirim"
+
+#: ../functions.php:1378
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../functions.php:1380
+msgid "Item"
+msgstr "Item"
+
+#: ../functions.php:1380
+msgid "Items"
+msgstr "Item"
+
+#: ../functions.php:1553
+msgid "Connecting..."
+msgstr "Menyambung..."
+
+#: ../functions.php:1554
+msgid "Connection failed"
+msgstr "Gagal menyambung"
+
+#: ../functions.php:1555
+msgid "Removing connection..."
+msgstr "Menghapus koneksi..."
+
+#: ../functions.php:1556
+msgid "Done"
+msgstr "Selesai"
+
+#: ../functions.php:1585
+#, php-format
+msgid ""
+"Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a>"
+msgstr ""
+"Langkah 1: <a href=\"%1$s\" target=\"_blank\">Hasilkan kode otorisasi</a>"
+
+#: ../functions.php:1586
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr "Langkah 2: Tempel kode otorisasi dan klik tombol \"Buat koneksi\": "
+
+#: ../functions.php:1587
+msgid "Make a connection"
+msgstr "Buat koneksi"
+
+#: ../functions.php:1590
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Aweber diset dengan benar. Anda dapat menghapus koneksi di sini jika mau."
+
+#: ../functions.php:1591
+msgid "Remove the connection"
+msgstr "Hapus koneksi"
+
+#: ../functions.php:1599
+msgid "Nonce failed."
+msgstr "Nonce gagal."
+
+#: ../functions.php:1605
+msgid "Authorization code is empty."
+msgstr "Kode otorisasi kosong."
+
+#: ../functions.php:1616
+msgid ""
+"Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr "Kode otorisasi salah. Cobalah menghasilkan kode baru lalu tempelkan."
+
+#: ../functions.php:1638
+msgid "Aweber API Exception"
+msgstr "Exception API Aweber"
+
+#: ../functions.php:1639 ../epanel/shortcodes/shortcodes.php:999
+#: ../epanel/shortcodes/shortcodes.php:1021
+#: ../et-pagebuilder/et-pagebuilder.php:7211
+msgid "Type"
+msgstr "Jenis"
+
+#: ../functions.php:1640 ../functions.php:4615
+msgid "Message"
+msgstr "Pesan"
+
+#: ../functions.php:1641 ../epanel/options_divi.php:844
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: ../functions.php:1651
+msgid "Nonce failed"
+msgstr "Nonce gagal"
+
+#: ../functions.php:1746
+msgid "Read more"
+msgstr "Baca lainnya"
+
+#: ../functions.php:2499 ../includes/social_icons.php:6
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../functions.php:2507 ../et-pagebuilder/et-pagebuilder.php:9746
+#: ../includes/social_icons.php:13
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../functions.php:2515 ../et-pagebuilder/et-pagebuilder.php:9751
+msgid "Google+"
+msgstr "Google+"
+
+#: ../functions.php:2523 ../et-pagebuilder/et-pagebuilder.php:9761
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../functions.php:2750
+msgid "Tab"
+msgstr "Tab"
+
+#: ../functions.php:2949
+msgid "Follow"
+msgstr "Ikuti"
+
+#: ../functions.php:3033
+msgid "Days"
+msgstr "Hari"
+
+#: ../functions.php:3034
+msgid "Hours"
+msgstr "Jam"
+
+#: ../functions.php:3035
+msgid "Hrs"
+msgstr "Jam"
+
+#: ../functions.php:3036
+msgid "Minutes"
+msgstr "Menit"
+
+#: ../functions.php:3037
+msgid "Min"
+msgstr "Mnt"
+
+#: ../functions.php:3038
+msgid "Seconds"
+msgstr "Detik"
+
+#: ../functions.php:3039
+msgid "Sec"
+msgstr "Dtk"
+
+#: ../functions.php:3195
+#, php-format
+msgid "by <strong>%1$s</strong>"
+msgstr "oleh <strong>%1$s</strong>"
+
+#: ../functions.php:3337
+msgid "Configuration error"
+msgstr "Kesalahan konfigurasi"
+
+#: ../functions.php:3347
+msgid "Please enter first name"
+msgstr "Harap masukkan nama depan"
+
+#: ../functions.php:3349
+msgid "Incorrect email"
+msgstr "Surel salah"
+
+#: ../functions.php:3351
+msgid "Configuration error: List is not defined"
+msgstr "Kesalahan konfigurasi: Daftar tidak ditentukan"
+
+#: ../functions.php:3353
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!"
+"</h2>"
+msgstr ""
+"<h2 class=\"et_pb_subscribed\">Berlangganan - carilah surel konfirmasi!</h2>"
+
+#: ../functions.php:3365
+msgid "Configuration error: api key is not defined"
+msgstr "Kesalahan konfirgurasi: kunci API tidak ditentukan"
+
+#: ../functions.php:3402
+msgid "Aweber: Wrong configuration data"
+msgstr "Aweber: Data konfigurasi salah"
+
+#: ../functions.php:3435 ../et-pagebuilder/et-pagebuilder.php:409
+msgid "Subscribe"
+msgstr "Langgan"
+
+#: ../functions.php:3455
+msgid "First Name"
+msgstr "Nama Depan"
+
+#: ../functions.php:3456
+msgid "Last Name"
+msgstr "Nama Belakang"
+
+#: ../functions.php:3457 ../functions.php:4614
+msgid "Email Address"
+msgstr "Alamat Surel"
+
+#: ../functions.php:3514 ../functions.php:4613
+#: ../et-pagebuilder/et-pagebuilder.php:4244
+msgid "Name"
+msgstr "Nama"
+
+#: ../functions.php:3595
+#, php-format
+msgid "Logged in as %1$s"
+msgstr "Masuk sebagai %1$s"
+
+#: ../functions.php:3597
+msgid "Log out"
+msgstr "Keluar"
+
+#: ../functions.php:3606
+msgid "Username"
+msgstr "Nama Pengguna"
+
+#: ../functions.php:3627
+msgid "Forgot your password?"
+msgstr "Lupa kata sandi?"
+
+#: ../functions.php:3634 ../epanel/shortcodes/shortcodes.php:294
+#: ../et-pagebuilder/et-pagebuilder.php:410
+msgid "Login"
+msgstr "Masuk"
+
+#: ../functions.php:3814
+#, php-format
+msgid "by %s"
+msgstr "oleh %s"
+
+#: ../functions.php:3824
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../functions.php:3844
+msgid "read more..."
+msgstr "baca lainnya..."
+
+#: ../functions.php:3851
+msgid "read more"
+msgstr "baca lainnya"
+
+#: ../functions.php:4274
+msgid "All"
+msgstr "Semua"
+
+#: ../functions.php:4553
+msgid "Make sure you entered the captcha."
+msgstr "Pastikan Anda memasukkan captcha."
+
+#: ../functions.php:4556
+msgid "You entered the wrong number in captcha."
+msgstr "Anda memasukkan angka yang salah pada captcha."
+
+#: ../functions.php:4563
+msgid "Make sure you fill all fields."
+msgstr "Pastikan Anda mengisi semua kolom."
+
+#: ../functions.php:4568
+msgid "Invalid Email."
+msgstr "Surel salah"
+
+#: ../functions.php:4603
+#, php-format
+msgid "New Message From %1$s%2$s"
+msgstr "Pesan Baru Dari %1$s%2$s"
+
+#: ../functions.php:4605
+#, php-format
+msgid " - %s"
+msgstr " - %s"
+
+#: ../functions.php:4608
+msgid "Thanks for contacting us"
+msgstr "Terima kasih telah menghubungi kami"
+
+#: ../functions.php:4864 ../header.php:143 ../epanel/custom_functions.php:465
+msgid "Home"
+msgstr "Beranda"
+
+#: ../header.php:170
+msgid "Search &hellip;"
+msgstr "Cari &hellip;"
+
+#: ../header.php:172
+msgid "Search for:"
+msgstr "Mencari:"
+
+#: ../page-template-blank.php:49 ../page.php:48 ../single-project.php:53
+#: ../single.php:93
+msgid "Pages:"
+msgstr "Laman:"
+
+#: ../single-project.php:62
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../single-project.php:63
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:401
+msgid "Saving..."
+msgstr "Menyimpan..."
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Opsi Tersimpan."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "Opsi"
+
+#: ../epanel/core_functions.php:73
+msgid "Theme Options"
+msgstr "Opsi Tema"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "pengaturan tersimpan."
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "pengaturan diatur ulang."
+
+#: ../epanel/core_functions.php:111 ../epanel/options_divi.php:297
+#: ../epanel/options_divi.php:448
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Navigasi"
+
+#: ../epanel/core_functions.php:117
+msgid "Layout Settings"
+msgstr "Pengaturan Tata Letak"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Manajemen Iklan"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "Warna"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Integrasi"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Dokumen Bantuan"
+
+#: ../epanel/core_functions.php:209 ../epanel/core_functions.php:389
+msgid "Reset"
+msgstr "Atur Ulang"
+
+#: ../epanel/core_functions.php:210
+msgid "Upload Image"
+msgstr "Unggah Gambar"
+
+#: ../epanel/core_functions.php:237
+msgid "You don't have pages"
+msgstr "Anda tak memiliki laman"
+
+#: ../epanel/core_functions.php:374
+msgid "Save changes"
+msgstr "Simpan perubahan"
+
+#: ../epanel/core_functions.php:385
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?</strong>"
+msgstr ""
+"Ini akan mengembalikan semua pengaturan di laman opsi ke nilai default-nya. "
+"<strong>Yakin ingin melakukan ini?</strong>"
+
+#: ../epanel/core_functions.php:559 ../et-pagebuilder/et-pagebuilder.php:1159
+#: ../et-pagebuilder/et-pagebuilder.php:1700
+#: ../et-pagebuilder/et-pagebuilder.php:2076
+#: ../et-pagebuilder/et-pagebuilder.php:3597
+#: ../et-pagebuilder/et-pagebuilder.php:3982
+#: ../et-pagebuilder/et-pagebuilder.php:4290
+#: ../et-pagebuilder/et-pagebuilder.php:5666
+msgid "Choose an Image"
+msgstr "Pilih gambar"
+
+#: ../epanel/custom_functions.php:192
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: ../epanel/custom_functions.php:706
+msgid "Archives"
+msgstr "Arsip"
+
+#: ../epanel/custom_functions.php:708
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "Cari hasil untuk \"%s\""
+
+#: ../epanel/custom_functions.php:710
+msgid "404 Not Found"
+msgstr "404 Tak Ditemukan"
+
+#: ../epanel/custom_functions.php:781
+#, php-format
+msgid "Currently viewing archives from %1$s"
+msgstr "Sedang melihat arsip dari %1$s"
+
+#: ../epanel/custom_functions.php:1014
+msgid "Image doesn't exist"
+msgstr "Gambar tidak ada"
+
+#: ../epanel/custom_functions.php:1210
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p>Ini adalah pemasangan baru untuk tema %1$s. Jangan "
+"lupa menuju <a href=\"%2$s\">Panel-e</a> untuk mengaturnya. Pesan ini akan "
+"hilang setelah Anda mengklik tombol Simpan pada laman opsi tema <a href="
+"\"%2$s\"></a>.</p></div>"
+
+#: ../epanel/custom_functions.php:1222
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
+"your Elegant Themes, you must first install the <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
+msgstr ""
+"Terdapat versi baru untuk %1$s. <a href=\"%2$s\" class=\"thickbox\" title="
+"\"%1$s\">Lihat rincian versi %3$s</a>. <em>Sebelum Anda dapat memperbarui "
+"Tema Elegant Anda, Anda harus terlebih dulu memasang <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Plugin Pembaru Elegant</a> guna mengotentikasi langganan Anda.</em>"
+
+#: ../epanel/custom_functions.php:1226
+msgid ""
+"Before you can update your Elegant Themes, you must first install the <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
+"subscription."
+msgstr ""
+"Sebelum Anda dapat memperbarui Tema Elegant Anda, Anda harus terlebih dulu "
+"memasang <a href=\"https://www.elegantthemes.com/members-area/documentation."
+"html#updater\" target=\"_blank\">Plugin Pembaru Elegant</a> guna "
+"mengotentikasi langganan Anda."
+
+#: ../epanel/options_divi.php:38
+msgid "General"
+msgstr "Umum"
+
+#: ../epanel/options_divi.php:45
+msgid "Logo"
+msgstr "Logo"
+
+#: ../epanel/options_divi.php:48
+msgid "Set As Logo"
+msgstr "Atur sebagai Logo"
+
+#: ../epanel/options_divi.php:50
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+"Jika Anda ingin menggunakan gambar logo kustom Anda sendiri kliklah tombol "
+"\"Unggah gambar\"."
+
+#: ../epanel/options_divi.php:53
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../epanel/options_divi.php:56
+msgid "Set As Favicon"
+msgstr "Atur sebagai Favicon"
+
+#: ../epanel/options_divi.php:58
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr ""
+"Jika Anda ingin menggunakan gambar favicon Anda sendiri kliklah tombol "
+"Unggah Gambar."
+
+#: ../epanel/options_divi.php:61
+msgid "Fixed Navigation Bar"
+msgstr "Perbaikan Bilah Navigasi"
+
+#: ../epanel/options_divi.php:65
+msgid ""
+"By default the navigation bar stays on top of the screen at all times. We "
+"suggest to disable this option, if you need to use a logo taller than the "
+"default one."
+msgstr ""
+"Secara default, bilah navigasi selalu berada di bagian atas layar. Kami "
+"sarankan untuk mematikan opsi ini jika Anda perlu menggunakan gambar logo "
+"berukuran besar."
+
+#: ../epanel/options_divi.php:70
+msgid "Grab the first post image"
+msgstr "Ambil gambar postingan pertama"
+
+#: ../epanel/options_divi.php:74
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+"Secara default, gambar mini dihasilkan menggunakan kolom kustom. Namun jika "
+"Anda memilih menggunakan gambar yang sudah ada di postingan Anda untuk "
+"gambar mini (dan melewatkan penggunaan kolom kustom) Anda dapat mengaktifkan "
+"opsi ini. Setelah aktif, gambar mini akan dihasilkan secara otomatis "
+"menggunakan gambar pertama dalam postingan Anda. Gambar harus ditampung di "
+"server Anda."
+
+#: ../epanel/options_divi.php:77
+msgid "Blog Style Mode"
+msgstr "Modus Gaya Blog"
+
+#: ../epanel/options_divi.php:81
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+"Secara default, tema akan otomatis memangkas kutipan postingan Anda untuk "
+"membuat pratinjau postingan. Jika Anda memilih menampilkan postingan Anda "
+"secara penuh ala blog tradisional, maka Anda dapat mengaktifkan fitur ini."
+
+#: ../epanel/options_divi.php:86
+msgid "Shop Page & Category Page Layout for WooCommerce"
+msgstr "Tata Letak Laman Gerai & Laman Kategori untuk WooCommerce"
+
+#: ../epanel/options_divi.php:95
+msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
+msgstr ""
+"Di sini Anda dapat memilih Tata Letak Laman Gerai & Laman Kategori untuk "
+"WooCommerce."
+
+#: ../epanel/options_divi.php:99
+msgid "MailChimp API Key"
+msgstr "Kunci API MailChimp"
+
+#: ../epanel/options_divi.php:104
+#, php-format
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"Masukkan kunci API MailChimp Anda. Anda dapat membuat kunci api <a target="
+"\"_blank\" href=\"%1$s\">di sini</a>"
+
+#: ../epanel/options_divi.php:107
+msgid "Aweber Authorization"
+msgstr "Otorisasi Aweber"
+
+#: ../epanel/options_divi.php:109
+msgid "Authorize your Aweber account here."
+msgstr "Otorisasikan akun Aweber Anda di sini."
+
+#: ../epanel/options_divi.php:113
+msgid "Regenerate MailChimp Lists"
+msgstr "Hasilkan ulang Daftar MailChimp"
+
+#: ../epanel/options_divi.php:117
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, "
+"but it doesn't appear within the SignUp module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Secara default, daftar MailChimp disimpan selama satu hari. Jika Anda "
+"menambahkan daftar baru, namun tidak muncul dalam pengaturan modul SignUp, "
+"aktifkan opsi ini. Jangan lupa untuk mematikannya jika daftar sudah "
+"dihasilkan ulang."
+
+#: ../epanel/options_divi.php:119
+msgid "Regenerate Aweber Lists"
+msgstr "Hasilkan ulang Daftar Aweber"
+
+#: ../epanel/options_divi.php:123
+msgid ""
+"By default, Aweber lists are cached for one day. If you added new list, but "
+"it doesn't appear within the SignUp module settings, activate this option. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Secara default, daftar Aweber disimpan selama satu hari. Jika Anda "
+"menambahkan daftar baru, namun tidak muncul dalam pengaturan modul SignUp, "
+"aktifkan opsi ini. Jangan lupa untuk mematikannya jika daftar sudah "
+"dihasilkan ulang."
+
+#: ../epanel/options_divi.php:127
+msgid "Show Facebook Icon"
+msgstr "Tampilkan Ikon Facebook"
+
+#: ../epanel/options_divi.php:131
+msgid "Here you can choose to display the Facebook Icon on your homepage. "
+msgstr ""
+"Di sini Anda dapat memilih untuk menampilkan Ikon Facebook di beranda Anda."
+
+#: ../epanel/options_divi.php:133
+msgid "Show Twitter Icon"
+msgstr "Tampilkan Ikon Twitter"
+
+#: ../epanel/options_divi.php:137
+msgid "Here you can choose to display the Twitter Icon. "
+msgstr "Di sini Anda dapat memilih untuk menampilkan Ikon Twitter. "
+
+#: ../epanel/options_divi.php:141
+msgid "Show Google+ Icon"
+msgstr "Tampilkan Ikon Google+"
+
+#: ../epanel/options_divi.php:145
+msgid "Here you can choose to display the Google+ Icon on your homepage. "
+msgstr ""
+"Di sini Anda dapat memilih untuk menampilkan Ikon Google+ di beranda Anda. "
+
+#: ../epanel/options_divi.php:147
+msgid "Show RSS Icon"
+msgstr "Tampilkan Ikon RSS"
+
+#: ../epanel/options_divi.php:151
+msgid "Here you can choose to display the RSS Icon. "
+msgstr "Di sini Anda dapat memilih untuk menampilkan Ikon RSS. "
+
+#: ../epanel/options_divi.php:155 ../et-pagebuilder/et-pagebuilder.php:4384
+msgid "Facebook Profile Url"
+msgstr "URL Profil Facebook"
+
+#: ../epanel/options_divi.php:160
+msgid "Enter the URL of your Facebook Profile. "
+msgstr "Masukkan URL dari Profil Facebook Anda. "
+
+#: ../epanel/options_divi.php:162 ../et-pagebuilder/et-pagebuilder.php:4401
+msgid "Twitter Profile Url"
+msgstr "URL Profil Twitter"
+
+#: ../epanel/options_divi.php:167
+msgid "Enter the URL of your Twitter Profile."
+msgstr "Masukkan URL dari Profil Twitter Anda."
+
+#: ../epanel/options_divi.php:169 ../et-pagebuilder/et-pagebuilder.php:4418
+msgid "Google+ Profile Url"
+msgstr "URL Profil Google+"
+
+#: ../epanel/options_divi.php:174
+msgid "Enter the URL of your Google+ Profile. "
+msgstr "Masukkan URL dari Profil Google+ Anda. "
+
+#: ../epanel/options_divi.php:176
+msgid "RSS Icon Url"
+msgstr "URL Ikon RSS"
+
+#: ../epanel/options_divi.php:181
+msgid "Enter the URL of your RSS feed. "
+msgstr "Masukkan URL dari umpan RSS Anda. "
+
+#: ../epanel/options_divi.php:183
+msgid "Number of Posts displayed on Category page"
+msgstr "Jumlah postingan yang ditampilkan di laman Kategori"
+
+#: ../epanel/options_divi.php:187
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Di sini Anda dapat mengatur berapa banyak artikel terkini yang ditampilkan "
+"di laman Kategori. Opsi ini bekerja terpisah dari opsi Membaca di wp-admin."
+
+#: ../epanel/options_divi.php:191
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Jumlah Postingan yang ditampilkan di laman Arsip"
+
+#: ../epanel/options_divi.php:195
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Di sini Anda dapat mengatur berapa banyak artikel terkini yang ditampilkan "
+"di laman Arsip. Opsi ini bekerja terpisah dari opsi Membaca di wp-admin."
+
+#: ../epanel/options_divi.php:199
+msgid "Number of Posts displayed on Search pages"
+msgstr "Jumlah Postingan yang ditampilkan di laman Pencarian"
+
+#: ../epanel/options_divi.php:203
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Di sini Anda dapat mengatur berapa banyak artikel terkini yang ditampilkan "
+"di laman hasil Pencarian. Opsi ini bekerja terpisah dari opsi Membaca di wp-"
+"admin."
+
+#: ../epanel/options_divi.php:207
+msgid "Number of Posts displayed on Tag pages"
+msgstr "Jumlah Postingan yang ditampilkan di laman Tag"
+
+#: ../epanel/options_divi.php:211
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Di sini Anda dapat mengatur berapa banyak artikel terkini yang ditampilkan "
+"di laman hasil Tag. Opsi ini bekerja terpisah dari opsi Membaca di wp-admin."
+
+#: ../epanel/options_divi.php:215
+msgid "Date format"
+msgstr "Format tanggal"
+
+#: ../epanel/options_divi.php:219
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"Opsi ini mengizinkan Anda mengubah bagaimana tanggal ditampilkan. Untuk info "
+"lebih lanjut silakan merujuk pada naskah WordPress di sini:<a href='http://"
+"codex.wordpress.org/Formatting_Date_and_Time' target='_blank'>Memformat "
+"Tanggal dan Waktu</a>"
+
+#: ../epanel/options_divi.php:225
+msgid "Use excerpts when defined"
+msgstr "Gunakan naskah jika ditentukan"
+
+#: ../epanel/options_divi.php:229
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "Ini akan mengizinkan penggunaan naskah dalam postingan atau laman."
+
+#: ../epanel/options_divi.php:232
+msgid "Responsive shortcodes"
+msgstr "Shortcodes responsif"
+
+#: ../epanel/options_divi.php:236
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+"Aktifkan opsi ini guna membuat shortcodes merespon terhadap berbagai ukuran "
+"layar"
+
+#: ../epanel/options_divi.php:241
+msgid "Google Fonts subsets"
+msgstr "Himpunan bagian Google Fonts"
+
+#: ../epanel/options_divi.php:245
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr "Ini akan mengaktifkan Google Fonts untuk bahasa Non-Inggris."
+
+#: ../epanel/options_divi.php:248
+msgid "Back To Top Button"
+msgstr "Tombol Kembali Ke Atas"
+
+#: ../epanel/options_divi.php:252
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr ""
+"Aktifkan opsi ini untuk menampilkan Tombol Kembali Ke Atas selagi menggulir"
+
+#: ../epanel/options_divi.php:255
+msgid "Smooth Scrolling"
+msgstr "Guliran Halus"
+
+#: ../epanel/options_divi.php:259
+msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
+msgstr ""
+"Aktifkan opsi ini untuk mendapatkan efek guliran halus dengan roda tetikus"
+
+#: ../epanel/options_divi.php:264
+msgid "Custom CSS"
+msgstr "CSS Kustom"
+
+#: ../epanel/options_divi.php:268
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+"Di sini Anda dapat menambahkan CSS kustom untuk menimpa atau menambah gaya "
+"default."
+
+#: ../epanel/options_divi.php:287
+msgid "Pages"
+msgstr "Laman"
+
+#: ../epanel/options_divi.php:305
+msgid "Exclude pages from the navigation bar"
+msgstr "Kecualikan laman dari bilah navigasi"
+
+#: ../epanel/options_divi.php:309
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Di sini Anda dapat memilih untuk menghapus laman tertentu dari menu "
+"navigasi. Semua laman yang ditandai dengan X tidak akan muncul pada bilah "
+"navigasi Anda. "
+
+#: ../epanel/options_divi.php:313 ../epanel/options_divi.php:368
+msgid "Show dropdown menus"
+msgstr "Tampilkan menu dropdown"
+
+#: ../epanel/options_divi.php:317
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"Jika Anda ingin menghapus menu dropdown dari bilah navigasi laman, matikan "
+"fitur ini."
+
+#: ../epanel/options_divi.php:320
+msgid "Display Home link"
+msgstr "Tampilkan tautan Beranda"
+
+#: ../epanel/options_divi.php:324
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+"Secara default, tema membuat tautan Beranda yang, jika diklik, akan membawa "
+"kembali ke laman beranda blog Anda. Namun jika Anda menggunakan laman "
+"beranda statis dan sudah membuat laman bernama Beranda untuk digunakan, ini "
+"akan menghasilkan tautan duplikat. Dalam kasus ini Anda harus mematikan "
+"fitur ini guna menghapus tautan."
+
+#: ../epanel/options_divi.php:329
+msgid "Sort Pages Links"
+msgstr "Sortir Tautan Laman"
+
+#: ../epanel/options_divi.php:333
+msgid "Here you can choose to sort your pages links."
+msgstr "Di sini Anda dapat memilih metode sortir tautan laman Anda."
+
+#: ../epanel/options_divi.php:336
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Urutkan Tautan Laman dengan Menaik/Menurun"
+
+#: ../epanel/options_divi.php:340
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Di sini Anda dapat memilih untuk membalikkan urutan tampilan tautan laman "
+"Anda. Anda dapat memilih antara menaik dan menurun."
+
+#: ../epanel/options_divi.php:343 ../epanel/options_divi.php:384
+msgid "Number of dropdown tiers shown"
+msgstr "Jumlah tampilan tingkatan dropdown"
+
+#: ../epanel/options_divi.php:347 ../epanel/options_divi.php:388
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"Opsi ini mengizinkan Anda mengatur jumlah tingkatan yang dimiliki menu "
+"dropdown laman Anda. Menaikkan angka akan memunculkan item menu tambahan."
+
+#: ../epanel/options_divi.php:360
+msgid "Exclude categories from the navigation bar"
+msgstr "Kecualikan kategori dari bilah navigasi"
+
+#: ../epanel/options_divi.php:364
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Di sini Anda dapat memilih untuk menghapus kategori tertentu dari menu "
+"navigasi. Semua kategori bertanda X tidak akan muncul dalam bilah navigasi "
+"Anda. "
+
+#: ../epanel/options_divi.php:372
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+"Matikan fitur ini jika Anda ingin menghapus menu dropdown dari bilah "
+"navigasi kategori."
+
+#: ../epanel/options_divi.php:375
+msgid "Hide empty categories"
+msgstr "Sembunyikan kategori kosong"
+
+#: ../epanel/options_divi.php:379
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+"Matikan opsi ini jika Anda ingin kategori ditampilkan dalam bilah navigasi "
+"yang tak memiliki postingan apapun. Kategori kosong disembunyikan secara "
+"default."
+
+#: ../epanel/options_divi.php:394
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "Sortir Tautan Kategori berdasarkan Grup Name/ID/Slug/Count/Term"
+
+#: ../epanel/options_divi.php:398
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"Laman disortir berdasarkan nama secara default. Namun jika Anda ingin mereka "
+"disortir berdasrkan ID Anda dapat menyesuaikan pengaturan ini."
+
+#: ../epanel/options_divi.php:401
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Urutkan Tautan Kategori dengan Menaik atau Menurun"
+
+#: ../epanel/options_divi.php:405
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Di sini Anda dapat memilih untuk membalikkan urutan tampilan tautan kategori "
+"Anda. Anda dapat memilih antara menaik dan menurun."
+
+#: ../epanel/options_divi.php:414
+msgid "Disable top tier dropdown menu links"
+msgstr "Matikan tautan tingkatan atas menu dropdown"
+
+#: ../epanel/options_divi.php:418
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+"Di beberapa kasus pengguna akan ingin membuat kategori induk atau tautan "
+"sebagai pengganti guna menampung daftar tautan atau kategori anak. Dalam "
+"kasus ini tidak diharapkan memiliki tautan induk yang mengarahkan ke lain "
+"tempat, namun hanya berfungsi sebagai pengorganisir. Mengaktifkan opsi ini "
+"akan menghapus tautan dari semua laman/kategori induk agar mereka tidak "
+"mengarahkan ke tempat lain sewaktu diklik."
+
+#: ../epanel/options_divi.php:438
+msgid "Single Post Layout"
+msgstr "Tata Letak Postingan Tunggal"
+
+#: ../epanel/options_divi.php:443
+msgid "Single Page Layout"
+msgstr "Tata Letak Laman Tunggal"
+
+#: ../epanel/options_divi.php:456
+msgid "Choose which items to display in the postinfo section"
+msgstr "Pilih item mana yang akan ditampilkan dalam bagian info postingan"
+
+#: ../epanel/options_divi.php:460
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+"Di sini Anda dapat memilih item mana yang muncul dalam bagian info postingan "
+"pada laman postingan tunggal. Ini adalah area yang umumnya berada di bawah "
+"judul postingan, yang menampilkan informasi dasar tentang postingan Anda. "
+"Item-item tersorot yang ditampilkan di bawah akan muncul. "
+
+#: ../epanel/options_divi.php:464
+msgid "Show comments on posts"
+msgstr "Tampilkan komentar pada postingan"
+
+#: ../epanel/options_divi.php:468
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+"Anda dapat mematikan opsi ini jika ingin menghapus komentar dan kolom "
+"komentar dari postingan. "
+
+#: ../epanel/options_divi.php:471
+msgid "Place Thumbs on Posts"
+msgstr "Tempatkan Gambar Mini pada Postingan"
+
+#: ../epanel/options_divi.php:475
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+"Secara default gambar mini ditempatkan pada awal postingan Anda di laman "
+"postingan tunggal. Jika ingin menghapus gambar mini awal ini guna "
+"menghindari repetisi, cukup matikan opsi ini. "
+
+#: ../epanel/options_divi.php:486
+msgid "Place Thumbs on Pages"
+msgstr "Tempatkan Gambar Mini pada Laman"
+
+#: ../epanel/options_divi.php:490
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option. "
+msgstr ""
+"Secara default, thumbnail tidak ditampilkan pada laman (hanya digunakan "
+"untuk postingan). Meski begitu, Anda dapat menggunakan thumbnail untuk laman "
+"jika Anda menginginkannya! Cukup aktifkan opsi ini."
+
+#: ../epanel/options_divi.php:493
+msgid "Show comments on pages"
+msgstr "Tampilkan komentar pada laman"
+
+#: ../epanel/options_divi.php:497
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"Secara default komentar tidak ditempatkan pada laman, namun jika Anda ingin "
+"mengizinkan publik untuk berkomentar di laman Anda maka cukup nyalakan opsi "
+"ini. "
+
+#: ../epanel/options_divi.php:508
+msgid "Post info section"
+msgstr "Bagian info postingan"
+
+#: ../epanel/options_divi.php:512
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"Di sini Anda dapat memilih item mana yang muncul di bagian info artikel pada "
+"laman. Ini adalah area yang umumnya berada di bawah judul postingan, yang "
+"menampilkan informasi dasar tentang postingan Anda. Item-item tersorot di "
+"bawah akan dimunculkan. "
+
+#: ../epanel/options_divi.php:517
+msgid "Show Thumbs on Index pages"
+msgstr "Tampilkan Gambar Mini pada laman Indeks"
+
+#: ../epanel/options_divi.php:521
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "Nyalakan opsi ini untuk menampilkan gamabr mini pada Laman Indeks."
+
+#: ../epanel/options_divi.php:540
+msgid "Homepage SEO"
+msgstr "SEO Beranda"
+
+#: ../epanel/options_divi.php:545
+msgid "Single Post Page SEO"
+msgstr "SEO Laman Postingan Tunggal"
+
+#: ../epanel/options_divi.php:550
+msgid "Index Page SEO"
+msgstr "SEO Laman Indeks"
+
+#: ../epanel/options_divi.php:558
+msgid " Enable custom title "
+msgstr "Aktifkan judul kustom "
+
+#: ../epanel/options_divi.php:562
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"Secara default tema menggunakan kombinasi dari nama blog dan deskripsi blog "
+"Anda, sebagaimana ditentukan saat Anda menciptakan blog Anda, dalam membuat "
+"judul beranda Anda. Namun jika Anda ingin membuat judul kustom maka cukup "
+"aktifkan opsi ini dan isi kolom judul kustom di bawah ini. "
+
+#: ../epanel/options_divi.php:565
+msgid " Enable meta description"
+msgstr "Aktfikan deskripsi label meta"
+
+#: ../epanel/options_divi.php:569
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"Secara default tema menggunakan deskripsi blog Anda, sebagaimana ditentukan "
+"saat Anda menciptakan blog Anda, dalam mengisi kolom deskripsi meta. Namun "
+"jika Anda ingin menggunakan deskripsi berbeda maka cukup aktifkan opsi ini "
+"dan isi kolom judul kustom di bawah ini. "
+
+#: ../epanel/options_divi.php:572
+msgid " Enable meta keywords"
+msgstr "Aktifkan kata kunci meta"
+
+#: ../epanel/options_divi.php:576
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+"Secara default, tema tidak menambahkan kata kunci pada header Anda. Sebagian "
+"besar mesin pencari tidak lagi menggunakan kata kunci untuk menilai situs "
+"Anda, namun sebagian orang tetap menentukannya untuk berjaga-jaga. Jika Anda "
+"ingin menambahkan kata kunci meta ke bagian header Anda maka aktifkan opsi "
+"ini dan isilah kolom kata kunci kustom di bawah ini. "
+
+#: ../epanel/options_divi.php:579 ../epanel/options_divi.php:712
+msgid " Enable canonical URL's"
+msgstr "Aktifkan URL resmi"
+
+#: ../epanel/options_divi.php:583 ../epanel/options_divi.php:661
+#: ../epanel/options_divi.php:716
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treated individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"Kanonikalisasi membantu untuk mencegah pengindeksan konten duplikat oleh "
+"mesin telusur, dan sebagai hasilnya, dapat membantu menghindari penalti "
+"konten duplikat dan penurunan peringkat laman. Beberapa laman mungkin "
+"memiliki URL yang berbeda yang mengarah ke tempat yang sama. Sebagai contoh "
+"domain.com, domain.com/index.html, dan www.domain.com semuanya adalah URL "
+"yang berbeda yang mengarah ke halaman utama Anda. Dari sudut pandang mesin "
+"telusur, URL duplikat ini, yang juga sering ditimbulkan oleh tautan kustom, "
+"mungkin diperlakukan secara individu dan bukannya sebagai destinasi tunggal. "
+"Menentukan URL kanonis memberi tahu mesin telusur URL yang ingin Anda "
+"gunakan secara resmi. Tema ini mendasarkan URL kanonisnya dari tautan Anda "
+"dan nama domain yang ditentukan pada tab pengaturan di wp-admin."
+
+#: ../epanel/options_divi.php:588
+msgid "Homepage custom title (if enabled)"
+msgstr "Judul kustom beranda (jika diaktifkan)"
+
+#: ../epanel/options_divi.php:592
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+"Jika Anda mengaktifkan judul kustom Anda dapat menambahkan judul kustom Anda "
+"di sini. Apapun yang Anda ketikkan di sini akan ditempatkan antara label < "
+"title >< /title > di header.php"
+
+#: ../epanel/options_divi.php:596
+msgid "Homepage meta description (if enabled)"
+msgstr "Deskripsi meta beranda (jika diaktfikan)"
+
+#: ../epanel/options_divi.php:600
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr ""
+"Jika Anda mengaktifkan deskripsi meta Anda dapat menambahkan deskripsi meta "
+"di sini."
+
+#: ../epanel/options_divi.php:604
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Kata kunci meta beranda (jika diaktifkan)"
+
+#: ../epanel/options_divi.php:608
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+"Jika Anda mengaktifkan kata kunci meta Anda dapat menambahkan kata kunci "
+"kustom di sini. Kata kunci harus dipisahkan oleh koma. Contoh: wordpress,"
+"themes,templates,elegant"
+
+#: ../epanel/options_divi.php:612 ../epanel/options_divi.php:690
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr "Jika judul kustom dimatikan, pilihlah metode penghasilan otomatis"
+
+#: ../epanel/options_divi.php:617
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Jika Anda tidak menggunakan judul postingan kustom Anda dapat tetap mengatur "
+"bagaimana judul Anda dihasilkan. Di sini Anda dapat memilih urutan tampilan "
+"judul postingan dan nama blog Anda, atau Anda dapat sepenuhnya menghapus "
+"nama blog dari judul."
+
+#: ../epanel/options_divi.php:620 ../epanel/options_divi.php:698
+#: ../epanel/options_divi.php:736
+msgid "Define a character to separate BlogName and Post title"
+msgstr "Tentukan karakter untuk memisahkan Nama Situs Web dan Judul Postingan"
+
+#: ../epanel/options_divi.php:624 ../epanel/options_divi.php:702
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Di sini Anda dapat mengubah karakter mana yang memisahkan judul blog dan "
+"nama postingan Anda jika menggunakan judul postingan yang dihasilkan secara "
+"otomatis. Nilai umum adalah | atau -"
+
+#: ../epanel/options_divi.php:634
+msgid "Enable custom titles"
+msgstr "Aktifkan judul kustom"
+
+#: ../epanel/options_divi.php:638
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+"Secara default, tema menciptakan judul postingan berdasarkan judul postingan "
+"dan nama blog Anda. Jika Anda ingin membuat judul meta Anda berbeda dari "
+"judul postingan asli Anda dapat menentukan judul kustom untuk setiap "
+"postingan menggunakan kolom kustom. Opsi ini harus diaktifkan agar judul "
+"kustom dapat berfungsi, dan Anda harus memilih nama kolom kustom untuk judul "
+"Anda di bawah."
+
+#: ../epanel/options_divi.php:641
+msgid "Enable custom description"
+msgstr "Aktifkan deskripsi kustom"
+
+#: ../epanel/options_divi.php:645
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+"Jika Anda ingin menambahkan deskripsi meta pada postingan, Anda dapat "
+"melakukannya menggunakan kolom kustom. Opsi ini harus diaktifkan agar "
+"deskripsi ditampilkan pada laman postingan. Anda dapat menambahkan deskripsi "
+"meta menggunakan kolom kustom berdasarkan nama kolom kustom yang Anda "
+"tentukan di bawah ini."
+
+#: ../epanel/options_divi.php:650
+msgid "Enable custom keywords"
+msgstr "Aktifkan kata kunci kustom"
+
+#: ../epanel/options_divi.php:654
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"Jika Anda ingin menambahkan kata kunci meta pada postingan, Anda dapat "
+"melakukannya menggunakan kolom kustom. Opsi ini harus diaktifkan agar kata "
+"kunci ditampilkan pada laman postingan. Anda dapat menambahkan kata kunci "
+"meta menggunakan kolom kustom berdasarkan nama kolom kustom yang Anda "
+"tentukan di bawah ini."
+
+#: ../epanel/options_divi.php:657
+msgid "Enable canonical URL's"
+msgstr "Aktifkan URL resmi"
+
+#: ../epanel/options_divi.php:666
+msgid "Custom field Name to be used for title"
+msgstr "Nama kolom kustom untuk digunakan sebagai judul"
+
+#: ../epanel/options_divi.php:670
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"Jika Anda menentukan judul Anda menggunakan kolom kustom Anda harus "
+"menggunakan nilai ini untuk Nama kolom kustom. Nilai kolom kustom Anda "
+"adalah judul kustom yang ingin Anda gunakan."
+
+#: ../epanel/options_divi.php:674
+msgid "Custom field Name to be used for description"
+msgstr "Nama kolom kustom untuk digunakan sebagai deskripsi"
+
+#: ../epanel/options_divi.php:678
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+"Saat  Anda menentukan deskripsi meta Anda menggunakan kolom kustom, Anda "
+"harus menggunakan nilai ini untuk Nama kolom kustom. Nilai kolom kustom Anda "
+"adalah deskripsi kustom yang ingin Anda gunakan."
+
+#: ../epanel/options_divi.php:682
+msgid "Custom field Name to be used for keywords"
+msgstr "nama kolom kustom untuk digunakan sebagai kata kunci"
+
+#: ../epanel/options_divi.php:686
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"Saat Anda menentukan kata kunci Anda menggunakan kolom kustom, Anda harus "
+"menggunakan nilai ini untuk Nama kolom kustom. Nilai kolom kustom Anda "
+"adalah kata kunci meta yang ingin Anda gunakan, dipisahkan oleh koma."
+
+#: ../epanel/options_divi.php:695
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Jika Anda tidak menggunakan judul postingan kustom Anda dapat tetap mengatur "
+"bagaimana judul Anda dihasilkan. Di sini Anda dapat memilih urutan tampilan "
+"judul postingan dan nama blog Anda, atau Anda dapat sepenuhnya menghapus "
+"nama blog dari judul."
+
+#: ../epanel/options_divi.php:719
+msgid "Enable meta descriptions"
+msgstr "Aktifkan deskripsi meta"
+
+#: ../epanel/options_divi.php:723
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"Centangi kotak ini jika Anda ingin menampilkan deskripsi meta pada laman "
+"kategori/arsip. Deskripsi berdasarkan deskripsi kategori yang Anda pilih "
+"saat membuat/menyunting kategori Anda di wp-admin."
+
+#: ../epanel/options_divi.php:728
+msgid "Choose title autogeneration method"
+msgstr "Pilih metode penghasil judul"
+
+#: ../epanel/options_divi.php:733
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"Di sini Anda dapat memilih metode penghasilan judul pada laman indeks. Anda "
+"dapat mengubah urutan tampilan nama blog dan judul indeks, atau Anda dapat "
+"sepenuhnya menghapus nama blog dari judul."
+
+#: ../epanel/options_divi.php:740
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Di sini Anda dapat mengubah karakter mana yang memisahkan judul blog dan "
+"nama laman indeks jika menggunakan judul postingan yang dihasilkan otomatis. "
+"Nilai umum adalah | atau -"
+
+#: ../epanel/options_divi.php:761
+msgid "Code Integration"
+msgstr "Integrasi Kode"
+
+#: ../epanel/options_divi.php:769
+msgid "Enable header code"
+msgstr "Aktifkan kode header"
+
+#: ../epanel/options_divi.php:773
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Mematikan opsi ini akan menghapus kode header di bawah ini dari blog Anda. "
+"Ini mengizinkan Anda untuk menghapus kode sambil menyimpannya untuk "
+"digunakan nanti."
+
+#: ../epanel/options_divi.php:776
+msgid "Enable body code"
+msgstr "Aktifkan kode <body>"
+
+#: ../epanel/options_divi.php:780
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Mematikan opsi ini akan menghapus kode body di bawah ini dari blog Anda. Ini "
+"mengizinkan Anda untuk menghapus kode sambil menyimpannya untuk digunakan "
+"nanti."
+
+#: ../epanel/options_divi.php:785
+msgid "Enable single top code"
+msgstr "Aktifkan kode teratas tunggal"
+
+#: ../epanel/options_divi.php:789
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"Mematikan opsi ini akan menghapus kode teratas tunggal di bawah ini dari "
+"blog Anda. Ini mengizinkan Anda untuk menghapus kode sambil menyimpannya "
+"untuk digunakan nanti."
+
+#: ../epanel/options_divi.php:792
+msgid "Enable single bottom code"
+msgstr "Aktifkan kode terbawah tunggal"
+
+#: ../epanel/options_divi.php:796
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+"Mematikan opsi ini akan menghapus kode terbawah tunggal di bawah ini dari "
+"blog Anda. Ini mengizinkan Anda untuk menghapus kode sambil menyimpannya "
+"untuk digunakan nanti."
+
+#: ../epanel/options_divi.php:801
+msgid "Add code to the < head > of your blog"
+msgstr "Tambahkan kode ke < head > blog Anda"
+
+#: ../epanel/options_divi.php:805
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Kode apapun yang Anda letakkan di sini akan muncul di bagian kepala semua "
+"laman blog Anda. Ini berguna jika Anda perlu menambahkan Javascript atau CSS "
+"ke semua laman."
+
+#: ../epanel/options_divi.php:808
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+"Tambahkan kode ke < body > (baik untuk melacak kode seperti Google Analytics)"
+
+#: ../epanel/options_divi.php:812
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+"Kode apapun yang Anda letakkan di sini akan muncul di bagian body semua "
+"laman blog Anda. Ini berguna jika Anda perlu memasukkan piksel pelacak untuk "
+"konter status seperti Google Analytics."
+
+#: ../epanel/options_divi.php:815
+msgid "Add code to the top of your posts"
+msgstr "Tambahkan kode ke puncak postingan Anda"
+
+#: ../epanel/options_divi.php:819 ../epanel/options_divi.php:826
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Kode apapun yang Anda letakkan di sini akan muncul di bagian puncak semua "
+"postingan. Ini berguna jika Anda ingin mengintegrasikan item seperti tautan "
+"markah sosial."
+
+#: ../epanel/options_divi.php:822
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "Tambahkan kode ke bawah postingan Anda, sebelum komentar"
+
+#: ../epanel/options_divi.php:870
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Kelola Iklan"
+
+#: ../epanel/options_divi.php:878
+msgid "Enable Single Post 468x60 banner"
+msgstr "Aktifkan banner 468x60 Postingan Tunggal"
+
+#: ../epanel/options_divi.php:882
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"Mengaktifkan opsi ini akan menampilkan banner iklan 468x60 di bagian bawah "
+"laman postingan Anda di bawah konten postingan tunggal. Jika diaktifkan, "
+"Anda harus mengisi gambar banner dan URL tujuan di bawah ini."
+
+#: ../epanel/options_divi.php:887
+msgid "Input 468x60 advertisement banner image"
+msgstr "Input gambar banner iklan 468x60"
+
+#: ../epanel/options_divi.php:891
+msgid "Here you can provide 468x60 banner image url"
+msgstr "Di sini Anda dapat memasukkan URL gambar banner 468x60"
+
+#: ../epanel/options_divi.php:895
+msgid "Input 468x60 advertisement destination url"
+msgstr "Input URL tujuan iklan 468x60"
+
+#: ../epanel/options_divi.php:899
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "Di sini Anda dapat memasukkan URL tujuan banner 468x60"
+
+#: ../epanel/options_divi.php:903
+msgid "Input 468x60 adsense code"
+msgstr "Input kode Google Adsense 468x60"
+
+#: ../epanel/options_divi.php:907
+msgid "Place your adsense code here."
+msgstr "Letakkan kode Google Adsense Anda di sini."
+
+#: ../epanel/shortcodes/shortcodes.php:273
+msgid "Tweet"
+msgstr "Tweet"
+
+#: ../epanel/shortcodes/shortcodes.php:289
+msgid "Member Login"
+msgstr "Masuk bagi Member"
+
+#: ../epanel/shortcodes/shortcodes.php:292
+msgid "Username: "
+msgstr "Nama Pengguna: "
+
+#: ../epanel/shortcodes/shortcodes.php:293
+msgid "Password: "
+msgstr "Kata Sandi: "
+
+#: ../epanel/shortcodes/shortcodes.php:330
+msgid "Add a Tooltip Text"
+msgstr "Tambahkan Teks Petunjuk"
+
+#: ../epanel/shortcodes/shortcodes.php:352
+msgid "Click here to learn more"
+msgstr "Klik di sini untuk mempelajari lebih jauh"
+
+#: ../epanel/shortcodes/shortcodes.php:732
+msgid "Join Now"
+msgstr "Bergabung Sekarang"
+
+#: ../epanel/shortcodes/shortcodes.php:967
+msgid "Add ET Learn more block"
+msgstr "Tambahkan Blok Toggle"
+
+#: ../epanel/shortcodes/shortcodes.php:968
+msgid "Add ET Box"
+msgstr "Tambahkan Kotak"
+
+#: ../epanel/shortcodes/shortcodes.php:969
+msgid "Add ET Button"
+msgstr "Tambah Tombol"
+
+#: ../epanel/shortcodes/shortcodes.php:970
+msgid "Add ET Tabs"
+msgstr "Tambah Tab"
+
+#: ../epanel/shortcodes/shortcodes.php:971
+msgid "Add Author Bio"
+msgstr "Tambah Bio Penulis"
+
+#: ../epanel/shortcodes/shortcodes.php:972
+msgid "Shortcodes"
+msgstr "Shortcode"
+
+#: ../epanel/shortcodes/shortcodes.php:977
+msgid "Caption"
+msgstr "Keterangan"
+
+#: ../epanel/shortcodes/shortcodes.php:978
+msgid "Caption goes here"
+msgstr "Masukkan keterangan di sini"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "Caption title goes here"
+msgstr "Masukkan judul keterangan di sini"
+
+#: ../epanel/shortcodes/shortcodes.php:983
+#: ../et-pagebuilder/et-pagebuilder.php:4547
+msgid "State"
+msgstr "Status"
+
+#: ../epanel/shortcodes/shortcodes.php:985
+msgid "Select between expanded and closed state"
+msgstr "Pilih antara status terbuka dan tertutup"
+
+#: ../epanel/shortcodes/shortcodes.php:990
+#: ../epanel/shortcodes/shortcodes.php:1006
+#: ../epanel/shortcodes/shortcodes.php:1035
+#: ../epanel/shortcodes/shortcodes.php:1115
+#: ../et-pagebuilder/et-pagebuilder.php:1906
+#: ../et-pagebuilder/et-pagebuilder.php:2230
+#: ../et-pagebuilder/et-pagebuilder.php:2363
+#: ../et-pagebuilder/et-pagebuilder.php:2400
+#: ../et-pagebuilder/et-pagebuilder.php:2645
+#: ../et-pagebuilder/et-pagebuilder.php:2890
+#: ../et-pagebuilder/et-pagebuilder.php:3322
+#: ../et-pagebuilder/et-pagebuilder.php:3796
+#: ../et-pagebuilder/et-pagebuilder.php:4166
+#: ../et-pagebuilder/et-pagebuilder.php:4575
+#: ../et-pagebuilder/et-pagebuilder.php:4844
+#: ../et-pagebuilder/et-pagebuilder.php:5227
+#: ../et-pagebuilder/et-pagebuilder.php:5494
+#: ../et-pagebuilder/et-pagebuilder.php:6166
+#: ../et-pagebuilder/et-pagebuilder.php:7412
+#: ../et-pagebuilder/et-pagebuilder.php:7645
+#: ../et-pagebuilder/et-pagebuilder.php:7773
+#: ../et-pagebuilder/et-pagebuilder.php:7913
+#: ../et-pagebuilder/et-pagebuilder.php:8016
+#: ../et-pagebuilder/et-pagebuilder.php:8277
+#: ../et-pagebuilder/et-pagebuilder.php:8315
+#: ../et-pagebuilder/et-pagebuilder.php:8459
+#: ../et-pagebuilder/et-pagebuilder.php:9588
+msgid "Content"
+msgstr "Konten"
+
+#: ../epanel/shortcodes/shortcodes.php:991
+#: ../epanel/shortcodes/shortcodes.php:1007
+#: ../epanel/shortcodes/shortcodes.php:1093
+#: ../epanel/shortcodes/shortcodes.php:1116
+msgid "Content goes here"
+msgstr "Masukkan konten di sini"
+
+#: ../epanel/shortcodes/shortcodes.php:992
+#: ../epanel/shortcodes/shortcodes.php:1008
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Content text or html"
+msgstr "Teks konten atau HTML"
+
+#: ../epanel/shortcodes/shortcodes.php:1001
+msgid "Type of the box"
+msgstr "Jenis kotak"
+
+#: ../epanel/shortcodes/shortcodes.php:1015
+msgid "Link"
+msgstr "Tautan"
+
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "URL"
+msgstr "URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1023
+msgid "Choose button type"
+msgstr "Pilih jenis tombol"
+
+#: ../epanel/shortcodes/shortcodes.php:1028
+#: ../et-pagebuilder/et-pagebuilder.php:5921
+msgid "Color"
+msgstr "Warna"
+
+#: ../epanel/shortcodes/shortcodes.php:1030
+msgid "Choose button color"
+msgstr "Pilih warna tombol"
+
+#: ../epanel/shortcodes/shortcodes.php:1036
+msgid "Link text"
+msgstr "Teks tautan"
+
+#: ../epanel/shortcodes/shortcodes.php:1041
+#: ../et-pagebuilder/et-pagebuilder.php:3439
+msgid "Icon"
+msgstr "Ikon"
+
+#: ../epanel/shortcodes/shortcodes.php:1043
+msgid "Used for icon button type"
+msgstr "Digunakan untuk jenis tombol ikon"
+
+#: ../epanel/shortcodes/shortcodes.php:1048
+msgid "Open link in new window"
+msgstr "Buka tautan dalam jendela baru"
+
+#: ../epanel/shortcodes/shortcodes.php:1050
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Pilih ya jika ingin tautan dibuka dalam jendela baru"
+
+#: ../epanel/shortcodes/shortcodes.php:1058
+msgid "Slider Type"
+msgstr "Jenis Slider"
+
+#: ../epanel/shortcodes/shortcodes.php:1060
+msgid "Select Slider Type here"
+msgstr "Pilih Jenis Slider di sini"
+
+#: ../epanel/shortcodes/shortcodes.php:1065
+msgid "Effect"
+msgstr "Efek"
+
+#: ../epanel/shortcodes/shortcodes.php:1067
+msgid "Select Animation Effect"
+msgstr "Pilih Efek Animasi"
+
+#: ../epanel/shortcodes/shortcodes.php:1072
+msgid "Auto"
+msgstr "Otomatis"
+
+#: ../epanel/shortcodes/shortcodes.php:1074
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Pilih ya jika Anda ingin mengaktifkan animasi slider otomatis"
+
+#: ../epanel/shortcodes/shortcodes.php:1079
+msgid "Auto Speed"
+msgstr "Kecepatan Otomatis"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "Kecepatan slider otomatis (hanya bekerja jika Otomatis diset ke ya)"
+
+#: ../epanel/shortcodes/shortcodes.php:1085
+msgid "Tab Text"
+msgstr "Teks Tab"
+
+#: ../epanel/shortcodes/shortcodes.php:1092
+msgid "Tab Content"
+msgstr "Konten Tab"
+
+#: ../epanel/shortcodes/shortcodes.php:1094
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr "Tempel URL gambar di sini, jika Anda memilih jenis slider \"images\""
+
+#: ../epanel/shortcodes/shortcodes.php:1102
+msgid "Image Url"
+msgstr "URL gambar"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Author Image URL"
+msgstr "URL Gambar Penulis"
+
+#: ../epanel/shortcodes/shortcodes.php:1108
+msgid "Use resizing"
+msgstr "Gunakan pembesaran ulang"
+
+#: ../epanel/shortcodes/shortcodes.php:1185
+msgid "+ Add One More Tab"
+msgstr "+ Tambahkan Satu Tab Lagi"
+
+#: ../epanel/shortcodes/shortcodes.php:1335
+msgid "Image Height"
+msgstr "Tinggi Gambar"
+
+#: ../epanel/shortcodes/shortcodes.php:1336
+msgid "Image Width"
+msgstr "Lebar Gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:33
+#: ../et-pagebuilder/et-pagebuilder.php:72
+msgid "Export Page Builder Layouts"
+msgstr "Ekspor Tata Letak Pembangun Laman"
+
+#: ../et-pagebuilder/et-pagebuilder.php:67
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr "Anda tak memiliki cukup izin untuk mengekspor konten dari situs ini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:73
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+"Saat Anda mengklik tombol di bawah WordPress akan menciptakan berkas XML "
+"untuk Anda simpan ke komputer Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:74
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain all "
+"layouts you created using the Page Builder."
+msgstr ""
+"Format ini, yang kami sebut dengan WordPress eXtended RSS or WXR, akan "
+"mengandung semua tata letak yang Anda ciptakan menggunakan Pembangun Laman."
+
+#: ../et-pagebuilder/et-pagebuilder.php:75
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import all layouts from this site."
+msgstr ""
+"Setelah Anda menyimpan berkas unduhan, Anda dapat menggunakan fungsi Impor "
+"di pemasangan WordPress lainnya untuk mengimpor semua tata letak dari situs "
+"ini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:81
+msgid "Download Export File"
+msgstr "Unduh Berkas Ekspor"
+
+#: ../et-pagebuilder/et-pagebuilder.php:97
+#: ../et-pagebuilder/et-pagebuilder.php:99
+msgid "Use Default Editor"
+msgstr "Gunakan Editor Default"
+
+#: ../et-pagebuilder/et-pagebuilder.php:97
+#: ../et-pagebuilder/et-pagebuilder.php:98
+msgid "Use Page Builder"
+msgstr "Gunakan Pembangun Laman"
+
+#: ../et-pagebuilder/et-pagebuilder.php:122
+msgid "Here you can create new widget areas for use in the Sidebar module"
+msgstr ""
+"Di sini Anda dapat membuat area widget baru untuk digunakan dalam modul Bar "
+"Sisi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:123
+msgid ""
+"Note: Naming your widget area \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" or \"sidebar 5\" will cause conflicts with this theme"
+msgstr ""
+"Catatan: Menamai area widget Anda dengan \"sidebar 1\", \"sidebar 2\", "
+"\"sidebar 3\", \"sidebar 4\" atau \"sidebar 5\" akan mengakibatkan konflik "
+"dengan tema ini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:124
+msgid "Widget Name"
+msgstr "Nama Widget"
+
+#: ../et-pagebuilder/et-pagebuilder.php:125
+msgid "Create"
+msgstr "Buat"
+
+#: ../et-pagebuilder/et-pagebuilder.php:127
+#: ../et-pagebuilder/et-pagebuilder.php:267
+#: ../et-pagebuilder/et-pagebuilder.php:2300
+msgid "Delete"
+msgstr "Hapus"
+
+#: ../et-pagebuilder/et-pagebuilder.php:209
+#, php-format
+msgid ""
+"<strong>%1$s</strong> widget area has been created. You can create more "
+"areas, once you finish update the page to see all the areas."
+msgstr ""
+"Area widget <strong>%1$s</strong>  telah dibuat. Anda dapat membuat lebih "
+"banyak area setelah Anda selesai memperbarui halaman untuk melihat semua "
+"area."
+
+#: ../et-pagebuilder/et-pagebuilder.php:238
+msgid "Replace the existing content with loaded layout"
+msgstr "Ganti konten yang ada dengan tata letak baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:256
+msgid "Saved Layouts:"
+msgstr "Tata Letak Tersimpan:"
+
+#: ../et-pagebuilder/et-pagebuilder.php:266
+#: ../et-pagebuilder/et-pagebuilder.php:298
+msgid "Load"
+msgstr "Muat"
+
+#: ../et-pagebuilder/et-pagebuilder.php:288
+msgid "Predefined Layouts:"
+msgstr "Tata Letak Standar:"
+
+#: ../et-pagebuilder/et-pagebuilder.php:388
+msgid "The section should have at least one row."
+msgstr "Bagian ini harus memiliki setidaknya satu baris."
+
+#: ../et-pagebuilder/et-pagebuilder.php:389
+msgid "Fullwidth module can't be used outside of the Fullwidth Section."
+msgstr "Modul lebar penuh tak dapat digunakan di luar Bagian Lebar Penuh."
+
+#: ../et-pagebuilder/et-pagebuilder.php:390
+msgid "3 column row can't be used in this column."
+msgstr "3 kolom baris tak dapat digunakan di kolom ini"
+
+#: ../et-pagebuilder/et-pagebuilder.php:391
+msgid "Preview"
+msgstr "Pratinjau"
+
+#: ../et-pagebuilder/et-pagebuilder.php:392
+msgid "Module"
+msgstr "Modul"
+
+#: ../et-pagebuilder/et-pagebuilder.php:393
+msgid ""
+"Still images cannot be generated from this video service and/or this video "
+"format"
+msgstr ""
+"Gambar diam tak dapat dihasilkan dari layanan video ini dan/atau format "
+"video ini"
+
+#: ../et-pagebuilder/et-pagebuilder.php:394
+msgid "Geocode was not successful for the following reason"
+msgstr "Geocode tidak berhasil disebabkan oleh hal-hal berikut ini"
+
+#: ../et-pagebuilder/et-pagebuilder.php:395
+msgid "Geocoder failed due to"
+msgstr "Geocoder gagal disebabkan oleh"
+
+#: ../et-pagebuilder/et-pagebuilder.php:396
+msgid "No results found"
+msgstr "Tak Ditemukan HasilHasil tidak ditemukan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:397
+#: ../et-pagebuilder/et-pagebuilder.php:3586
+#: ../includes/widgets/widget-about.php:50
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:236
+msgid "Image"
+msgstr "Gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:398
+msgid "Gallery"
+msgstr "Galeri"
+
+#: ../et-pagebuilder/et-pagebuilder.php:399
+msgid "Video"
+msgstr "Video"
+
+#: ../et-pagebuilder/et-pagebuilder.php:400
+msgid "Video Slider"
+msgstr "Slider Video"
+
+#: ../et-pagebuilder/et-pagebuilder.php:401
+#: ../includes/widgets/widget-about.php:52
+msgid "Text"
+msgstr "Teks"
+
+#: ../et-pagebuilder/et-pagebuilder.php:402
+msgid "Blurb"
+msgstr "Blurb"
+
+#: ../et-pagebuilder/et-pagebuilder.php:403
+msgid "Tabs"
+msgstr "Tab"
+
+#: ../et-pagebuilder/et-pagebuilder.php:404
+#: ../et-pagebuilder/et-pagebuilder.php:1446
+msgid "Slider"
+msgstr "Slider"
+
+#: ../et-pagebuilder/et-pagebuilder.php:405
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: ../et-pagebuilder/et-pagebuilder.php:406
+msgid "Pricing Table"
+msgstr "Tabel Harga"
+
+#: ../et-pagebuilder/et-pagebuilder.php:407
+msgid "Call To Action"
+msgstr "Tombol Aksi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:408
+#: ../et-pagebuilder/et-pagebuilder.php:5572
+msgid "Audio"
+msgstr "Audio"
+
+#: ../et-pagebuilder/et-pagebuilder.php:411
+msgid "Portfolio"
+msgstr "Portofolio"
+
+#: ../et-pagebuilder/et-pagebuilder.php:412
+msgid "Filterable Portfolio"
+msgstr "Portofolio Filterable"
+
+#: ../et-pagebuilder/et-pagebuilder.php:413
+msgid "Bar Counters"
+msgstr "Bar Counter"
+
+#: ../et-pagebuilder/et-pagebuilder.php:414
+msgid "Circle Counter"
+msgstr "Circle Counter"
+
+#: ../et-pagebuilder/et-pagebuilder.php:415
+msgid "Number Counter"
+msgstr "Number Counter"
+
+#: ../et-pagebuilder/et-pagebuilder.php:416
+msgid "Accordion"
+msgstr "Accordion"
+
+#: ../et-pagebuilder/et-pagebuilder.php:417
+msgid "Fullwidth Header"
+msgstr "Header Lebar Penuh"
+
+#: ../et-pagebuilder/et-pagebuilder.php:418
+msgid "Fullwidth Menu"
+msgstr "Menu Lebar Penuh"
+
+#: ../et-pagebuilder/et-pagebuilder.php:419
+msgid "Fullwidth Slider"
+msgstr "Slider Lebar Penuh"
+
+#: ../et-pagebuilder/et-pagebuilder.php:420
+msgid "Fullwidth Portfolio"
+msgstr "Portofolio Lebar Penuh"
+
+#: ../et-pagebuilder/et-pagebuilder.php:421
+msgid "Toggle"
+msgstr "Toggle"
+
+#: ../et-pagebuilder/et-pagebuilder.php:422
+msgid "Contact Form"
+msgstr "Formulir Kontak"
+
+#: ../et-pagebuilder/et-pagebuilder.php:423
+#: ../includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "Bar Sisi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:424
+msgid "Divider"
+msgstr "Garis Pemisah"
+
+#: ../et-pagebuilder/et-pagebuilder.php:425
+msgid "Person"
+msgstr "Perorangan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:426
+msgid "Blog"
+msgstr "Blog"
+
+#: ../et-pagebuilder/et-pagebuilder.php:427
+msgid "Shop"
+msgstr "Toko"
+
+#: ../et-pagebuilder/et-pagebuilder.php:428
+msgid "Countdown Timer"
+msgstr "Penghitung Waktu Mundur"
+
+#: ../et-pagebuilder/et-pagebuilder.php:429
+msgid "Map"
+msgstr "Peta"
+
+#: ../et-pagebuilder/et-pagebuilder.php:430
+msgid "Fullwidth Map"
+msgstr "Peta Lebar Penuh"
+
+#: ../et-pagebuilder/et-pagebuilder.php:431
+msgid "Social Media Follow"
+msgstr "Media Sosial"
+
+#: ../et-pagebuilder/et-pagebuilder.php:445
+msgid "Page Builder"
+msgstr "Pembangun Laman"
+
+#: ../et-pagebuilder/et-pagebuilder.php:462
+msgid "Save Layout"
+msgstr "Simpan Layout"
+
+#: ../et-pagebuilder/et-pagebuilder.php:467
+#: ../et-pagebuilder/et-pagebuilder.php:798
+msgid "Load Layout"
+msgstr "Muat Layout"
+
+#: ../et-pagebuilder/et-pagebuilder.php:472
+msgid "Clear Layout"
+msgstr "Hapus Layout"
+
+#: ../et-pagebuilder/et-pagebuilder.php:482
+#: ../et-pagebuilder/et-pagebuilder.php:2305
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:487
+msgid "Clone Section"
+msgstr "Duplikasikan Section"
+
+#: ../et-pagebuilder/et-pagebuilder.php:492
+msgid "Delete Section"
+msgstr "Hapus Section"
+
+#: ../et-pagebuilder/et-pagebuilder.php:502
+msgid "Add Section"
+msgstr "Tambah Section"
+
+#: ../et-pagebuilder/et-pagebuilder.php:506
+msgid "Add Fullwidth Section"
+msgstr "Tambah Section Lebar Penuh"
+
+#: ../et-pagebuilder/et-pagebuilder.php:510
+msgid "Add Specialty Section"
+msgstr "Tambah Section Khusus"
+
+#: ../et-pagebuilder/et-pagebuilder.php:519
+msgid "Clone Row"
+msgstr "Duplikasikan Baris"
+
+#: ../et-pagebuilder/et-pagebuilder.php:524
+msgid "Delete Row"
+msgstr " Hapus Baris"
+
+#: ../et-pagebuilder/et-pagebuilder.php:533
+msgid "Insert Column(s)"
+msgstr "Sisipkan Kolom"
+
+#: ../et-pagebuilder/et-pagebuilder.php:540
+msgid "Add Row"
+msgstr "Tambah Baris"
+
+#: ../et-pagebuilder/et-pagebuilder.php:548
+msgid "Module Settings"
+msgstr "Pengaturan Modul"
+
+#: ../et-pagebuilder/et-pagebuilder.php:553
+msgid "Clone Module"
+msgstr "Duplikasikan Modul"
+
+#: ../et-pagebuilder/et-pagebuilder.php:558
+msgid "Delete Module"
+msgstr "Hapus Modul"
+
+#: ../et-pagebuilder/et-pagebuilder.php:568
+#: ../et-pagebuilder/et-pagebuilder.php:2314
+msgid "Close modal window"
+msgstr "Tutup jendela modal"
+
+#: ../et-pagebuilder/et-pagebuilder.php:576
+#: ../et-pagebuilder/et-pagebuilder.php:2320
+#: ../et-pagebuilder/et-pagebuilder.php:9933
+msgid "Save"
+msgstr "Simpan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:587
+msgid "Insert Columns"
+msgstr "Sisipkan Kolom"
+
+#: ../et-pagebuilder/et-pagebuilder.php:779
+msgid "Insert Module"
+msgstr "Sisipkan Modul"
+
+#: ../et-pagebuilder/et-pagebuilder.php:810
+msgid "Section Module Settings"
+msgstr "Pengaturan Section"
+
+#: ../et-pagebuilder/et-pagebuilder.php:818
+#: ../et-pagebuilder/et-pagebuilder.php:3027
+msgid "Background Image"
+msgstr "Gambar Latar Belakang:"
+
+#: ../et-pagebuilder/et-pagebuilder.php:826
+#: ../et-pagebuilder/et-pagebuilder.php:1155
+#: ../et-pagebuilder/et-pagebuilder.php:1696
+#: ../et-pagebuilder/et-pagebuilder.php:2072
+#: ../et-pagebuilder/et-pagebuilder.php:3035
+#: ../et-pagebuilder/et-pagebuilder.php:3978
+#: ../et-pagebuilder/et-pagebuilder.php:4286
+#: ../et-pagebuilder/et-pagebuilder.php:5662
+msgid "Upload an image"
+msgstr "Unggah gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:830
+#: ../et-pagebuilder/et-pagebuilder.php:3039
+msgid "Choose a Background Image"
+msgstr "Pilih Gambar Latar Belakang"
+
+#: ../et-pagebuilder/et-pagebuilder.php:834
+#: ../et-pagebuilder/et-pagebuilder.php:3043
+msgid "Set As Background"
+msgstr "Atur sebagai Latar Belakang"
+
+#: ../et-pagebuilder/et-pagebuilder.php:840
+#: ../et-pagebuilder/et-pagebuilder.php:3048
+msgid ""
+"If defined, this image will be used as the background for this module. To "
+"remove a background image, simply delete the URL from the settings field."
+msgstr ""
+"Jika dipilih, maka gambar ini akan digunakan sebagai latar belakang untuk "
+"modul ini. Untuk menghapus gambar latar belakang, hapus URL dari bidang "
+"pengaturan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:849
+msgid "Transparent Background Color"
+msgstr "Warna Latar Belakang Transparan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:868
+msgid ""
+"Switch on this option if you need transparent background color for the "
+"section."
+msgstr ""
+"Ganti ke opsi ini jika Anda membutuhkan warna latar belakang transparan "
+"untuk section."
+
+#: ../et-pagebuilder/et-pagebuilder.php:890
+#: ../et-pagebuilder/et-pagebuilder.php:5126
+#: ../et-pagebuilder/et-pagebuilder.php:5394
+#: ../et-pagebuilder/et-pagebuilder.php:5700
+msgid ""
+"Define a custom background color for your module, or leave blank to use the "
+"default color."
+msgstr ""
+"Pilih warna latar belakang kustom untuk modul Anda, atau biarkan kosong "
+"untuk menggunakan warna default."
+
+#: ../et-pagebuilder/et-pagebuilder.php:900
+#: ../et-pagebuilder/et-pagebuilder.php:3200
+msgid "Background Video MP4"
+msgstr "Video Latar Belakang .MP4"
+
+#: ../et-pagebuilder/et-pagebuilder.php:908
+#: ../et-pagebuilder/et-pagebuilder.php:1637
+#: ../et-pagebuilder/et-pagebuilder.php:1666
+#: ../et-pagebuilder/et-pagebuilder.php:2017
+#: ../et-pagebuilder/et-pagebuilder.php:2042
+#: ../et-pagebuilder/et-pagebuilder.php:3208
+#: ../et-pagebuilder/et-pagebuilder.php:3238
+msgid "Upload a video"
+msgstr "Unggah video"
+
+#: ../et-pagebuilder/et-pagebuilder.php:912
+#: ../et-pagebuilder/et-pagebuilder.php:3212
+msgid "Choose a Background Video MP4 File"
+msgstr "Atur sebagai Video Latar Belakang"
+
+#: ../et-pagebuilder/et-pagebuilder.php:916
+#: ../et-pagebuilder/et-pagebuilder.php:943
+#: ../et-pagebuilder/et-pagebuilder.php:3216
+#: ../et-pagebuilder/et-pagebuilder.php:3246
+msgid "Set As Background Video"
+msgstr "Atur sebagai Video Latar Belakang"
+
+#: ../et-pagebuilder/et-pagebuilder.php:922
+#: ../et-pagebuilder/et-pagebuilder.php:3221
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .MP4 version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Semua video harus diunggah dalam format .MP4 dan .WEBM untuk memastikan "
+"kompatibilitas maksimum di semua browser. Unggah versi .MP4 di sini. Catatan "
+"Penting: Latar belakang video dinonaktifkan untuk perangkat seluler. Gambar "
+"latar belakang Anda akan digunakan. Untuk alasan ini, Anda harus memilih "
+"gambar latar belakang dan video latar belakang untuk memastikan hasil yang "
+"terbaik."
+
+#: ../et-pagebuilder/et-pagebuilder.php:931
+#: ../et-pagebuilder/et-pagebuilder.php:3230
+msgid "Background Video Webm"
+msgstr "Video Latar Belakang .WEBM"
+
+#: ../et-pagebuilder/et-pagebuilder.php:939
+#: ../et-pagebuilder/et-pagebuilder.php:3242
+msgid "Choose a Background Video WEBM File"
+msgstr "Pilih Berkas Video  .WEBM untuk Latar Belakang"
+
+#: ../et-pagebuilder/et-pagebuilder.php:948
+#: ../et-pagebuilder/et-pagebuilder.php:3251
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .WEBM version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Semua video harus diunggah dalam format .MP4 dan .WEBM untuk memastikan "
+"kompatibilitas maksimum di semua browser. Unggah versi .WEBM di sini. "
+"Catatan Penting: Latar belakang video dinonaktifkan untuk perangkat seluler. "
+"Gambar latar belakang Anda akan digunakan. Untuk alasan ini, Anda harus "
+"memilih gambar latar belakang dan video latar belakang untuk memastikan "
+"hasil yang terbaik."
+
+#: ../et-pagebuilder/et-pagebuilder.php:957
+#: ../et-pagebuilder/et-pagebuilder.php:3260
+msgid "Background Video Width"
+msgstr "Lebar Video Latar Belakang"
+
+#: ../et-pagebuilder/et-pagebuilder.php:965
+#: ../et-pagebuilder/et-pagebuilder.php:3268
+msgid ""
+"In order for videos to be sized correctly, you must input the exact width "
+"(in pixels) of your video here."
+msgstr ""
+"Agar ukuran video benar, Anda harus memasukkan lebar video yang tepat (dalam "
+"pixel) di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:974
+#: ../et-pagebuilder/et-pagebuilder.php:3277
+msgid "Background Video Height"
+msgstr "Tinggi Video Latar Belakang"
+
+#: ../et-pagebuilder/et-pagebuilder.php:982
+#: ../et-pagebuilder/et-pagebuilder.php:3285
+msgid ""
+"In order for videos to be sized correctly, you must input the exact height "
+"(in pixels) of your video here."
+msgstr ""
+"Agar ukuran video benar, Anda harus memasukkan tinggi video yang tepat "
+"(dalam pixel) di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:991
+#: ../et-pagebuilder/et-pagebuilder.php:3294
+msgid "Pause Video"
+msgstr "Tunda Video"
+
+#: ../et-pagebuilder/et-pagebuilder.php:998
+#: ../et-pagebuilder/et-pagebuilder.php:1339
+#: ../et-pagebuilder/et-pagebuilder.php:1496
+#: ../et-pagebuilder/et-pagebuilder.php:3301
+#: ../et-pagebuilder/et-pagebuilder.php:3418
+#: ../et-pagebuilder/et-pagebuilder.php:3491
+#: ../et-pagebuilder/et-pagebuilder.php:3544
+#: ../et-pagebuilder/et-pagebuilder.php:4040
+#: ../et-pagebuilder/et-pagebuilder.php:4716
+#: ../et-pagebuilder/et-pagebuilder.php:5094
+#: ../et-pagebuilder/et-pagebuilder.php:5329
+#: ../et-pagebuilder/et-pagebuilder.php:5362
+#: ../et-pagebuilder/et-pagebuilder.php:8120
+#: ../et-pagebuilder/et-pagebuilder.php:9955
+msgid "No"
+msgstr "Tidak"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1003
+#: ../et-pagebuilder/et-pagebuilder.php:1344
+#: ../et-pagebuilder/et-pagebuilder.php:1491
+#: ../et-pagebuilder/et-pagebuilder.php:3306
+#: ../et-pagebuilder/et-pagebuilder.php:3423
+#: ../et-pagebuilder/et-pagebuilder.php:3496
+#: ../et-pagebuilder/et-pagebuilder.php:3549
+#: ../et-pagebuilder/et-pagebuilder.php:4035
+#: ../et-pagebuilder/et-pagebuilder.php:4711
+#: ../et-pagebuilder/et-pagebuilder.php:5089
+#: ../et-pagebuilder/et-pagebuilder.php:5334
+#: ../et-pagebuilder/et-pagebuilder.php:5357
+#: ../et-pagebuilder/et-pagebuilder.php:8115
+#: ../et-pagebuilder/et-pagebuilder.php:9950
+msgid "Yes"
+msgstr "Ya"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1010
+#: ../et-pagebuilder/et-pagebuilder.php:3313
+msgid "Allow video to be paused by other players when they begin playing"
+msgstr "Izinkan video ditunda saat pemutar lain mulai berjalan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1019
+msgid "Inner Shadow"
+msgstr "Inner Shadow"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1026
+msgid "Don't Show Inner Shadow"
+msgstr "Jangan Tampilkan Inner Shadow"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1031
+msgid "Show Inner Shadow"
+msgstr "Tampilkan Inner Shadow"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1038
+msgid ""
+"Here you can select whether or not your section has an inner shadow. This "
+"can look great when you have colored backgrounds or background images."
+msgstr ""
+"Di sini Anda dapat menentukan apakah section Anda memiliki inner shadow. "
+"Tampilan ini bagus untuk latar belakang berwarna atau gambar latar belakang."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1047
+#: ../et-pagebuilder/et-pagebuilder.php:2589
+#: ../et-pagebuilder/et-pagebuilder.php:2834
+msgid "Parallax effect"
+msgstr "Efek paralaks"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1054
+#: ../et-pagebuilder/et-pagebuilder.php:2596
+#: ../et-pagebuilder/et-pagebuilder.php:2841
+msgid "Don't Use Parallax Effect"
+msgstr "Jangan Gunakan Efek Paralaks"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1059
+#: ../et-pagebuilder/et-pagebuilder.php:2601
+#: ../et-pagebuilder/et-pagebuilder.php:2846
+msgid "Use Parallax Effect"
+msgstr "Gunakan Efek Paralaks"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1066
+msgid ""
+"If enabled, your background image will stay fixed as your scroll, creating a "
+"fun parallax-like effect."
+msgstr ""
+"Jika diaktifkan, tampilan gambar latar belakang Anda tetap sama saat Anda "
+"menggulung layar, menciptakan efek paralaks yang menarik."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1075
+#: ../et-pagebuilder/et-pagebuilder.php:2617
+#: ../et-pagebuilder/et-pagebuilder.php:2862
+msgid "Parallax method"
+msgstr "Metode Paralaks"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1082
+#: ../et-pagebuilder/et-pagebuilder.php:2624
+#: ../et-pagebuilder/et-pagebuilder.php:2869
+msgid "CSS"
+msgstr "CSS"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1087
+#: ../et-pagebuilder/et-pagebuilder.php:2629
+#: ../et-pagebuilder/et-pagebuilder.php:2874
+msgid "True Parallax"
+msgstr "True Parallax"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1094
+#: ../et-pagebuilder/et-pagebuilder.php:2636
+#: ../et-pagebuilder/et-pagebuilder.php:2881
+msgid "Define the method, used for the parallax effect."
+msgstr "Pilih metode untuk efek paralaks."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1103
+#: ../et-pagebuilder/et-pagebuilder.php:1377
+#: ../et-pagebuilder/et-pagebuilder.php:1585
+#: ../et-pagebuilder/et-pagebuilder.php:1740
+#: ../et-pagebuilder/et-pagebuilder.php:1940
+#: ../et-pagebuilder/et-pagebuilder.php:2264
+#: ../et-pagebuilder/et-pagebuilder.php:2434
+#: ../et-pagebuilder/et-pagebuilder.php:2679
+#: ../et-pagebuilder/et-pagebuilder.php:2924
+#: ../et-pagebuilder/et-pagebuilder.php:3830
+#: ../et-pagebuilder/et-pagebuilder.php:4200
+#: ../et-pagebuilder/et-pagebuilder.php:4486
+#: ../et-pagebuilder/et-pagebuilder.php:4609
+#: ../et-pagebuilder/et-pagebuilder.php:4878
+#: ../et-pagebuilder/et-pagebuilder.php:5261
+#: ../et-pagebuilder/et-pagebuilder.php:5528
+#: ../et-pagebuilder/et-pagebuilder.php:5754
+#: ../et-pagebuilder/et-pagebuilder.php:5877
+#: ../et-pagebuilder/et-pagebuilder.php:6004
+#: ../et-pagebuilder/et-pagebuilder.php:6396
+#: ../et-pagebuilder/et-pagebuilder.php:6642
+#: ../et-pagebuilder/et-pagebuilder.php:6888
+#: ../et-pagebuilder/et-pagebuilder.php:7167
+#: ../et-pagebuilder/et-pagebuilder.php:7358
+#: ../et-pagebuilder/et-pagebuilder.php:7446
+#: ../et-pagebuilder/et-pagebuilder.php:7807
+#: ../et-pagebuilder/et-pagebuilder.php:7947
+#: ../et-pagebuilder/et-pagebuilder.php:8180
+#: ../et-pagebuilder/et-pagebuilder.php:8405
+#: ../et-pagebuilder/et-pagebuilder.php:8549
+#: ../et-pagebuilder/et-pagebuilder.php:8728
+#: ../et-pagebuilder/et-pagebuilder.php:8907
+#: ../et-pagebuilder/et-pagebuilder.php:9053
+#: ../et-pagebuilder/et-pagebuilder.php:9239
+#: ../et-pagebuilder/et-pagebuilder.php:9478
+#: ../et-pagebuilder/et-pagebuilder.php:9676
+msgid "CSS ID"
+msgstr "ID CSS"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1111
+#: ../et-pagebuilder/et-pagebuilder.php:1385
+#: ../et-pagebuilder/et-pagebuilder.php:1593
+#: ../et-pagebuilder/et-pagebuilder.php:1748
+#: ../et-pagebuilder/et-pagebuilder.php:1948
+#: ../et-pagebuilder/et-pagebuilder.php:2272
+#: ../et-pagebuilder/et-pagebuilder.php:2442
+#: ../et-pagebuilder/et-pagebuilder.php:2687
+#: ../et-pagebuilder/et-pagebuilder.php:2932
+#: ../et-pagebuilder/et-pagebuilder.php:3838
+#: ../et-pagebuilder/et-pagebuilder.php:4208
+#: ../et-pagebuilder/et-pagebuilder.php:4494
+#: ../et-pagebuilder/et-pagebuilder.php:4617
+#: ../et-pagebuilder/et-pagebuilder.php:4886
+#: ../et-pagebuilder/et-pagebuilder.php:5269
+#: ../et-pagebuilder/et-pagebuilder.php:5536
+#: ../et-pagebuilder/et-pagebuilder.php:5762
+#: ../et-pagebuilder/et-pagebuilder.php:5885
+#: ../et-pagebuilder/et-pagebuilder.php:6012
+#: ../et-pagebuilder/et-pagebuilder.php:6404
+#: ../et-pagebuilder/et-pagebuilder.php:6650
+#: ../et-pagebuilder/et-pagebuilder.php:6896
+#: ../et-pagebuilder/et-pagebuilder.php:7175
+#: ../et-pagebuilder/et-pagebuilder.php:7366
+#: ../et-pagebuilder/et-pagebuilder.php:7454
+#: ../et-pagebuilder/et-pagebuilder.php:7815
+#: ../et-pagebuilder/et-pagebuilder.php:7955
+#: ../et-pagebuilder/et-pagebuilder.php:8188
+#: ../et-pagebuilder/et-pagebuilder.php:8413
+#: ../et-pagebuilder/et-pagebuilder.php:8557
+#: ../et-pagebuilder/et-pagebuilder.php:8736
+#: ../et-pagebuilder/et-pagebuilder.php:8915
+#: ../et-pagebuilder/et-pagebuilder.php:9061
+#: ../et-pagebuilder/et-pagebuilder.php:9247
+#: ../et-pagebuilder/et-pagebuilder.php:9486
+#: ../et-pagebuilder/et-pagebuilder.php:9684
+msgid ""
+"Enter an optional CSS ID to be used for this module. An ID can be used to "
+"create custom CSS styling, or to create links to particular sections of your "
+"page."
+msgstr ""
+"Masukkan ID CSS opsional untuk digunakan dalam modul ini. Sebuah ID dapat "
+"digunakan untuk menciptakan CSS kustom, atau membuat tautan ke section "
+"tertentu dari halaman Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1120
+#: ../et-pagebuilder/et-pagebuilder.php:1394
+#: ../et-pagebuilder/et-pagebuilder.php:1602
+#: ../et-pagebuilder/et-pagebuilder.php:1757
+#: ../et-pagebuilder/et-pagebuilder.php:1957
+#: ../et-pagebuilder/et-pagebuilder.php:2281
+#: ../et-pagebuilder/et-pagebuilder.php:2451
+#: ../et-pagebuilder/et-pagebuilder.php:2696
+#: ../et-pagebuilder/et-pagebuilder.php:2941
+#: ../et-pagebuilder/et-pagebuilder.php:3847
+#: ../et-pagebuilder/et-pagebuilder.php:4217
+#: ../et-pagebuilder/et-pagebuilder.php:4503
+#: ../et-pagebuilder/et-pagebuilder.php:4626
+#: ../et-pagebuilder/et-pagebuilder.php:4895
+#: ../et-pagebuilder/et-pagebuilder.php:5278
+#: ../et-pagebuilder/et-pagebuilder.php:5545
+#: ../et-pagebuilder/et-pagebuilder.php:5771
+#: ../et-pagebuilder/et-pagebuilder.php:5894
+#: ../et-pagebuilder/et-pagebuilder.php:6021
+#: ../et-pagebuilder/et-pagebuilder.php:6413
+#: ../et-pagebuilder/et-pagebuilder.php:6659
+#: ../et-pagebuilder/et-pagebuilder.php:6905
+#: ../et-pagebuilder/et-pagebuilder.php:7184
+#: ../et-pagebuilder/et-pagebuilder.php:7375
+#: ../et-pagebuilder/et-pagebuilder.php:7463
+#: ../et-pagebuilder/et-pagebuilder.php:7824
+#: ../et-pagebuilder/et-pagebuilder.php:7964
+#: ../et-pagebuilder/et-pagebuilder.php:8197
+#: ../et-pagebuilder/et-pagebuilder.php:8422
+#: ../et-pagebuilder/et-pagebuilder.php:8566
+#: ../et-pagebuilder/et-pagebuilder.php:8745
+#: ../et-pagebuilder/et-pagebuilder.php:8924
+#: ../et-pagebuilder/et-pagebuilder.php:9070
+#: ../et-pagebuilder/et-pagebuilder.php:9256
+#: ../et-pagebuilder/et-pagebuilder.php:9495
+#: ../et-pagebuilder/et-pagebuilder.php:9693
+msgid "CSS Class"
+msgstr "Kelas CSS"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1128
+#: ../et-pagebuilder/et-pagebuilder.php:1402
+#: ../et-pagebuilder/et-pagebuilder.php:1610
+#: ../et-pagebuilder/et-pagebuilder.php:1765
+#: ../et-pagebuilder/et-pagebuilder.php:1965
+#: ../et-pagebuilder/et-pagebuilder.php:2289
+#: ../et-pagebuilder/et-pagebuilder.php:2459
+#: ../et-pagebuilder/et-pagebuilder.php:2704
+#: ../et-pagebuilder/et-pagebuilder.php:2949
+#: ../et-pagebuilder/et-pagebuilder.php:3855
+#: ../et-pagebuilder/et-pagebuilder.php:4225
+#: ../et-pagebuilder/et-pagebuilder.php:4511
+#: ../et-pagebuilder/et-pagebuilder.php:4634
+#: ../et-pagebuilder/et-pagebuilder.php:4903
+#: ../et-pagebuilder/et-pagebuilder.php:5286
+#: ../et-pagebuilder/et-pagebuilder.php:5553
+#: ../et-pagebuilder/et-pagebuilder.php:5779
+#: ../et-pagebuilder/et-pagebuilder.php:5902
+#: ../et-pagebuilder/et-pagebuilder.php:6029
+#: ../et-pagebuilder/et-pagebuilder.php:6421
+#: ../et-pagebuilder/et-pagebuilder.php:6667
+#: ../et-pagebuilder/et-pagebuilder.php:6913
+#: ../et-pagebuilder/et-pagebuilder.php:7192
+#: ../et-pagebuilder/et-pagebuilder.php:7383
+#: ../et-pagebuilder/et-pagebuilder.php:7471
+#: ../et-pagebuilder/et-pagebuilder.php:7832
+#: ../et-pagebuilder/et-pagebuilder.php:7972
+#: ../et-pagebuilder/et-pagebuilder.php:8205
+#: ../et-pagebuilder/et-pagebuilder.php:8430
+#: ../et-pagebuilder/et-pagebuilder.php:8574
+#: ../et-pagebuilder/et-pagebuilder.php:8753
+#: ../et-pagebuilder/et-pagebuilder.php:8932
+#: ../et-pagebuilder/et-pagebuilder.php:9078
+#: ../et-pagebuilder/et-pagebuilder.php:9264
+#: ../et-pagebuilder/et-pagebuilder.php:9503
+#: ../et-pagebuilder/et-pagebuilder.php:9701
+msgid ""
+"Enter optional CSS classes to be used for this module. A CSS class can be "
+"used to create custom CSS styling. You can add multiple classes, separated "
+"with a space."
+msgstr ""
+"Masukkan kelas CSS opsional untuk digunakan dalam modul ini. Sebuah kelas "
+"CSS dapat digunakan untuk menciptakan CSS kustom. Anda dapat menambahkan "
+"sejumlah kelas, yang dipisahkan dengan spasi."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1139
+msgid "Image Module Settings"
+msgstr "Pengaturan Modul Gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1147
+#: ../et-pagebuilder/et-pagebuilder.php:4278
+msgid "Image URL"
+msgstr "URL Gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1163
+#: ../et-pagebuilder/et-pagebuilder.php:1704
+#: ../et-pagebuilder/et-pagebuilder.php:2080
+#: ../et-pagebuilder/et-pagebuilder.php:3601
+#: ../et-pagebuilder/et-pagebuilder.php:3986
+#: ../et-pagebuilder/et-pagebuilder.php:4294
+#: ../et-pagebuilder/et-pagebuilder.php:5670
+msgid "Set As Image"
+msgstr "Atur sebagai Gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1168
+#: ../et-pagebuilder/et-pagebuilder.php:3991
+#: ../et-pagebuilder/et-pagebuilder.php:4299
+#: ../et-pagebuilder/et-pagebuilder.php:5675
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
+"Unggah gambar yang Anda inginkan, atau masukkan URL dari gambar yang ingin "
+"Anda tampilkan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1177
+#: ../et-pagebuilder/et-pagebuilder.php:3155
+msgid "Image Alternative Text"
+msgstr "Teks Alternatif Gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1185
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr ""
+"Ini adalah teks alternatif Anda. Deskripsi singkat dari gambar Anda dapat "
+"dimasukkan di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1194
+msgid "Image Title Text"
+msgstr "Teks Judul Gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1202
+msgid "This defines the HTML Title text."
+msgstr "Ini adalah teks Judul HTML."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1211
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1218
+msgid "Don't Open In Lightbox"
+msgstr "Jangan Buka di Lightbox"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1223
+msgid "Open In Lightbox"
+msgstr "Buka di Lightbox"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1230
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+"Di sini Anda dapat memilih untuk membuka gambar di Lightbox atau tidak. "
+"Catatan: Apabila Anda memilih untuk membuka gambar di Lightbox, opsi URL di "
+"bawah akan diabaikan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1239
+msgid "Link URL"
+msgstr "Tautkan URL"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1247
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+"Apabila Anda ingin gambar Anda menjadi tautan, masukkan URL tujuan Anda di "
+"sini. Tautan tidak akan dibuat apabila bidang ini dikosongkan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1256
+#: ../et-pagebuilder/et-pagebuilder.php:3383
+#: ../et-pagebuilder/et-pagebuilder.php:9605
+msgid "Url Opens"
+msgstr "Buka URL"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1263
+#: ../et-pagebuilder/et-pagebuilder.php:3390
+#: ../et-pagebuilder/et-pagebuilder.php:3949
+#: ../et-pagebuilder/et-pagebuilder.php:9612
+msgid "In The Same Window"
+msgstr "Di Jendela yang Sama"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1268
+#: ../et-pagebuilder/et-pagebuilder.php:3395
+#: ../et-pagebuilder/et-pagebuilder.php:3954
+#: ../et-pagebuilder/et-pagebuilder.php:9617
+msgid "In The New Tab"
+msgstr "Di Tab Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1275
+#: ../et-pagebuilder/et-pagebuilder.php:3402
+#: ../et-pagebuilder/et-pagebuilder.php:9623
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr ""
+"Di sini Anda dapat memilih untuk membuka tautan Anda di jendela baru atau "
+"tidak"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1284
+#: ../et-pagebuilder/et-pagebuilder.php:4308
+msgid "Animation"
+msgstr "Animasi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1291
+#: ../et-pagebuilder/et-pagebuilder.php:3673
+#: ../et-pagebuilder/et-pagebuilder.php:4325
+msgid "Left To Right"
+msgstr "Kiri ke Kanan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1296
+#: ../et-pagebuilder/et-pagebuilder.php:3678
+#: ../et-pagebuilder/et-pagebuilder.php:4330
+msgid "Right To Left"
+msgstr "Kanan ke Kiri"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1301
+#: ../et-pagebuilder/et-pagebuilder.php:3668
+#: ../et-pagebuilder/et-pagebuilder.php:4335
+msgid "Top To Bottom"
+msgstr "Atas ke Bawah"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1306
+#: ../et-pagebuilder/et-pagebuilder.php:3683
+#: ../et-pagebuilder/et-pagebuilder.php:4340
+msgid "Bottom To Top"
+msgstr "Bawah ke Atas"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1311
+#: ../et-pagebuilder/et-pagebuilder.php:4320
+msgid "Fade In"
+msgstr "Fade In"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1316
+#: ../et-pagebuilder/et-pagebuilder.php:3688
+#: ../et-pagebuilder/et-pagebuilder.php:4315
+msgid "No Animation"
+msgstr "Tidak Ada Animasi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1323
+#: ../et-pagebuilder/et-pagebuilder.php:3695
+#: ../et-pagebuilder/et-pagebuilder.php:4347
+msgid "This controls the direction of the lazy-loading animation."
+msgstr "Ini mengendalikan pengarahan animasi."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1332
+msgid "Remove Space Below The Image"
+msgstr "Hilangkan Jarak di Bawah Gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1351
+msgid ""
+"Here you can choose whether or not the image should have a space below it."
+msgstr ""
+"Di sini Anda dapat memilih apakah gambar memiliki jarak di bawahnya atau "
+"tidak."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1360
+#: ../et-pagebuilder/et-pagebuilder.php:1568
+#: ../et-pagebuilder/et-pagebuilder.php:1723
+#: ../et-pagebuilder/et-pagebuilder.php:1923
+#: ../et-pagebuilder/et-pagebuilder.php:1992
+#: ../et-pagebuilder/et-pagebuilder.php:2247
+#: ../et-pagebuilder/et-pagebuilder.php:2417
+#: ../et-pagebuilder/et-pagebuilder.php:2662
+#: ../et-pagebuilder/et-pagebuilder.php:2907
+#: ../et-pagebuilder/et-pagebuilder.php:3813
+#: ../et-pagebuilder/et-pagebuilder.php:4183
+#: ../et-pagebuilder/et-pagebuilder.php:4469
+#: ../et-pagebuilder/et-pagebuilder.php:4592
+#: ../et-pagebuilder/et-pagebuilder.php:4861
+#: ../et-pagebuilder/et-pagebuilder.php:5244
+#: ../et-pagebuilder/et-pagebuilder.php:5511
+#: ../et-pagebuilder/et-pagebuilder.php:5737
+#: ../et-pagebuilder/et-pagebuilder.php:5860
+#: ../et-pagebuilder/et-pagebuilder.php:5987
+#: ../et-pagebuilder/et-pagebuilder.php:6379
+#: ../et-pagebuilder/et-pagebuilder.php:6625
+#: ../et-pagebuilder/et-pagebuilder.php:6871
+#: ../et-pagebuilder/et-pagebuilder.php:7150
+#: ../et-pagebuilder/et-pagebuilder.php:7341
+#: ../et-pagebuilder/et-pagebuilder.php:7429
+#: ../et-pagebuilder/et-pagebuilder.php:7790
+#: ../et-pagebuilder/et-pagebuilder.php:7930
+#: ../et-pagebuilder/et-pagebuilder.php:8163
+#: ../et-pagebuilder/et-pagebuilder.php:8388
+#: ../et-pagebuilder/et-pagebuilder.php:8532
+#: ../et-pagebuilder/et-pagebuilder.php:8711
+#: ../et-pagebuilder/et-pagebuilder.php:8890
+#: ../et-pagebuilder/et-pagebuilder.php:9036
+#: ../et-pagebuilder/et-pagebuilder.php:9222
+#: ../et-pagebuilder/et-pagebuilder.php:9461
+#: ../et-pagebuilder/et-pagebuilder.php:9659
+msgid "Admin Label"
+msgstr "Label Admin"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1368
+#: ../et-pagebuilder/et-pagebuilder.php:1576
+#: ../et-pagebuilder/et-pagebuilder.php:1731
+#: ../et-pagebuilder/et-pagebuilder.php:1931
+#: ../et-pagebuilder/et-pagebuilder.php:2255
+#: ../et-pagebuilder/et-pagebuilder.php:2425
+#: ../et-pagebuilder/et-pagebuilder.php:2670
+#: ../et-pagebuilder/et-pagebuilder.php:2915
+#: ../et-pagebuilder/et-pagebuilder.php:3821
+#: ../et-pagebuilder/et-pagebuilder.php:4191
+#: ../et-pagebuilder/et-pagebuilder.php:4477
+#: ../et-pagebuilder/et-pagebuilder.php:4600
+#: ../et-pagebuilder/et-pagebuilder.php:4869
+#: ../et-pagebuilder/et-pagebuilder.php:5252
+#: ../et-pagebuilder/et-pagebuilder.php:5519
+#: ../et-pagebuilder/et-pagebuilder.php:5745
+#: ../et-pagebuilder/et-pagebuilder.php:5868
+#: ../et-pagebuilder/et-pagebuilder.php:5995
+#: ../et-pagebuilder/et-pagebuilder.php:6387
+#: ../et-pagebuilder/et-pagebuilder.php:6633
+#: ../et-pagebuilder/et-pagebuilder.php:6879
+#: ../et-pagebuilder/et-pagebuilder.php:7158
+#: ../et-pagebuilder/et-pagebuilder.php:7349
+#: ../et-pagebuilder/et-pagebuilder.php:7437
+#: ../et-pagebuilder/et-pagebuilder.php:7798
+#: ../et-pagebuilder/et-pagebuilder.php:7938
+#: ../et-pagebuilder/et-pagebuilder.php:8171
+#: ../et-pagebuilder/et-pagebuilder.php:8396
+#: ../et-pagebuilder/et-pagebuilder.php:8540
+#: ../et-pagebuilder/et-pagebuilder.php:8719
+#: ../et-pagebuilder/et-pagebuilder.php:8898
+#: ../et-pagebuilder/et-pagebuilder.php:9044
+#: ../et-pagebuilder/et-pagebuilder.php:9230
+#: ../et-pagebuilder/et-pagebuilder.php:9469
+#: ../et-pagebuilder/et-pagebuilder.php:9667
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr "Ini akan mengubah label modul dalam builder agar mudah dikenali."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1413
+msgid "Gallery Module Settings"
+msgstr "Pengaturan Modul Galeri"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1421
+msgid "Gallery Images"
+msgstr "Gambar Galeri"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1430
+msgid "Update Gallery"
+msgstr "Perbarui Galeri"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1451
+#: ../et-pagebuilder/et-pagebuilder.php:6060
+#: ../et-pagebuilder/et-pagebuilder.php:6452
+#: ../et-pagebuilder/et-pagebuilder.php:6698
+#: ../et-pagebuilder/et-pagebuilder.php:6960
+msgid "Grid"
+msgstr "Grid"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1458
+#: ../et-pagebuilder/et-pagebuilder.php:6067
+msgid "Toggle between the various blog layout types."
+msgstr "Alihkan di antara bermacam-macam tipe layout blog."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1467
+msgid "Images Number"
+msgstr "Jumlah Gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1475
+msgid "Define the number of images that should be displayed per page."
+msgstr "Menentukan jumlah gambar yang ditampilkan per halaman."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1484
+msgid "Show Title and Caption"
+msgstr "Tampilkan Judul dan Keterangan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1503
+msgid ""
+"Here you can choose whether to show the images title and caption, if the "
+"image has them."
+msgstr ""
+"Di sini Anda dapat memilih untuk menampilkan judul dan keterangan gambar "
+"apabila ada."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1512
+#: ../et-pagebuilder/et-pagebuilder.php:6306
+#: ../et-pagebuilder/et-pagebuilder.php:6569
+#: ../et-pagebuilder/et-pagebuilder.php:6815
+msgid "Pagination"
+msgstr "Penomoran halaman"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1519
+#: ../et-pagebuilder/et-pagebuilder.php:6313
+#: ../et-pagebuilder/et-pagebuilder.php:6576
+#: ../et-pagebuilder/et-pagebuilder.php:6822
+msgid "Show Pagination"
+msgstr "Tampilkan Nomor Halaman"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1524
+#: ../et-pagebuilder/et-pagebuilder.php:6318
+#: ../et-pagebuilder/et-pagebuilder.php:6581
+#: ../et-pagebuilder/et-pagebuilder.php:6827
+msgid "Don't Show Pagination"
+msgstr "Jangan Tampilkan Nomor Halaman"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1531
+#: ../et-pagebuilder/et-pagebuilder.php:6588
+#: ../et-pagebuilder/et-pagebuilder.php:6834
+msgid "Enable or disable pagination for this feed."
+msgstr "Aktifkan atau nonaktifkan penomoran halaman untuk feed ini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1559
+#: ../et-pagebuilder/et-pagebuilder.php:3723
+#: ../et-pagebuilder/et-pagebuilder.php:4096
+#: ../et-pagebuilder/et-pagebuilder.php:4772
+#: ../et-pagebuilder/et-pagebuilder.php:5154
+#: ../et-pagebuilder/et-pagebuilder.php:5422
+#: ../et-pagebuilder/et-pagebuilder.php:5728
+#: ../et-pagebuilder/et-pagebuilder.php:6370
+#: ../et-pagebuilder/et-pagebuilder.php:6616
+#: ../et-pagebuilder/et-pagebuilder.php:6862
+#: ../et-pagebuilder/et-pagebuilder.php:7096
+#: ../et-pagebuilder/et-pagebuilder.php:7714
+#: ../et-pagebuilder/et-pagebuilder.php:8097
+#: ../et-pagebuilder/et-pagebuilder.php:8675
+#: ../et-pagebuilder/et-pagebuilder.php:9027
+#: ../et-pagebuilder/et-pagebuilder.php:9579
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Di sini Anda dapat memilih warna tulisan terang atau gelap. Apabila Anda "
+"bekerja dengan latar belakang yang gelap, maka warna teks Anda sebaiknya "
+"terang. Apabila latar belakang Anda terang, maka warna teks Anda sebaiknya "
+"gelap."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1621
+msgid "Video Module Settings"
+msgstr "Pengaturan Modul Video"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1629
+#: ../et-pagebuilder/et-pagebuilder.php:2009
+msgid "Video MP4/URL"
+msgstr "URL Video .MP4"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1641
+#: ../et-pagebuilder/et-pagebuilder.php:2021
+msgid "Choose a Video MP4 File"
+msgstr "Pilih Berkas Video .MP4"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1645
+#: ../et-pagebuilder/et-pagebuilder.php:1674
+#: ../et-pagebuilder/et-pagebuilder.php:2050
+msgid "Set As Video"
+msgstr "Atur sebagai Video"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1650
+#: ../et-pagebuilder/et-pagebuilder.php:2026
+msgid ""
+"Upload your desired video in .MP4 format, or type in the URL to the video "
+"you would like to display"
+msgstr ""
+"Unggah video yang Anda inginkan dalam format .MP4, atau ketikkan URL video "
+"yang ingin Anda tampilkan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1659
+#: ../et-pagebuilder/et-pagebuilder.php:2035
+msgid "Video Webm"
+msgstr "Video .WEB"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1670
+#: ../et-pagebuilder/et-pagebuilder.php:2046
+msgid "Choose a Video WEBM File"
+msgstr "Pilih Berkas Video .WEBM"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1679
+#: ../et-pagebuilder/et-pagebuilder.php:2055
+msgid ""
+"Upload the .WEBM version of your video here. All uploaded videos should be "
+"in both .MP4 .WEBM formats to ensure maximum compatibility in all browsers."
+msgstr ""
+"Unggah versi .WEBM video Anda di sini. Semua video yang diunggah harus dalam "
+"format .MP4 atau .WEBM untuk memastikan kompatibilitas maksimum di semua "
+"browser."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1688
+#: ../et-pagebuilder/et-pagebuilder.php:2064
+msgid "Image Overlay URL"
+msgstr "URL Overlay Gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1709
+#: ../et-pagebuilder/et-pagebuilder.php:2085
+msgid "Generate From Video"
+msgstr "Buat dari Video"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1714
+#: ../et-pagebuilder/et-pagebuilder.php:2090
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display over your video. You can also generate a still image from your video."
+msgstr ""
+"Unggah gambar yang Anda inginkan, atau ketikkan URL gambar yang ingin Anda "
+"tampilkan di atas video Anda. Anda juga dapat membuat citra diam dari video "
+"Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1776
+msgid "Video Slider Module Settings"
+msgstr "Pengaturan Modul Slider Video"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1786
+msgid "Add New Video"
+msgstr "Tambah Video Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1794
+msgid "Display Image Overlays on Main Video"
+msgstr "Tampilkan Overlay Gambar pada Video Utama"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1801
+msgid "Hide"
+msgstr "Sembunyikan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1806
+msgid "Show"
+msgstr "Tampilkan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1813
+msgid ""
+"This option will cover the player UI on the main video. This image can "
+"either be uploaded in each video setting or auto-generated by Divi."
+msgstr ""
+"Opsi ini akan menutupi antarmuka pemutar video pada video utama. Gambar ini "
+"dapat diunggah di setiap pengaturan video atau dibuat otomatis oleh Divi."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1822
+#: ../et-pagebuilder/et-pagebuilder.php:2488
+#: ../et-pagebuilder/et-pagebuilder.php:2733
+msgid "Arrows"
+msgstr "Panah"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1829
+#: ../et-pagebuilder/et-pagebuilder.php:2495
+#: ../et-pagebuilder/et-pagebuilder.php:2740
+msgid "Show Arrows"
+msgstr "Tampilkan Panah"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1834
+#: ../et-pagebuilder/et-pagebuilder.php:2500
+#: ../et-pagebuilder/et-pagebuilder.php:2745
+msgid "Hide Arrows"
+msgstr "Sembunyikan Panah"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1841
+#: ../et-pagebuilder/et-pagebuilder.php:2507
+msgid "This setting will turn on and off the navigation arrows."
+msgstr "Pengaturan ini akan mengaktifkan dan menonaktifkan panah navigasi."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1850
+msgid "Slider Controls"
+msgstr "Kontrol Slider"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1857
+msgid "Use Thumbnail Track"
+msgstr "Gunakan Thumbnail Track"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1862
+msgid "Use Dot Navigation"
+msgstr "Gunakan Navigasi Titik"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1869
+msgid ""
+"This setting will let you choose to use the thumbnail track controls below "
+"the slider or dot navigation at the bottom of the slider."
+msgstr ""
+"Pengaturan ini akan memberi Anda pilihan untuk menggunakan kontrol thumbnail "
+"track atau navigasi titik di bagian bawah slider."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1878
+msgid "Slider Controls Color"
+msgstr "Kontrol Slider"
+
+#: ../et-pagebuilder/et-pagebuilder.php:1897
+msgid ""
+"This setting will make your slider controls either light or dark in color. "
+"Slider controls are either the arrows on the thumbnail track or the circles "
+"in dot navigation."
+msgstr ""
+"Pengaturan ini akan memberi Anda pilihan untuk menggunakan kontrol thumbnail "
+"track atau navigasi titik di bagian bawah slider."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1914
+#: ../et-pagebuilder/et-pagebuilder.php:2653
+msgid "Input the main text content for your slider here."
+msgstr "Masukkan konten teks utama untuk slider Anda di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:1976
+msgid "New Video"
+msgstr "131: "
+
+#: ../et-pagebuilder/et-pagebuilder.php:1984
+msgid "Video Settings"
+msgstr "Pengaturan Video"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2000
+msgid ""
+"This will change the label of the video in the builder for easy "
+"identification."
+msgstr "Ini akan mengubah label video pada builder agar mudah dikenali."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2099
+msgid "Slider Arrows Color"
+msgstr "Warna Panah Slider"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2118
+msgid ""
+"This setting will make your slider arrows either light or dark in color."
+msgstr ""
+"Pengaturan ini akan membuat panah slider Anda berwarna terang atau gelap."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2129
+msgid "Text Module Settings"
+msgstr "Pengaturan Modul Teks"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2156
+#: ../et-pagebuilder/et-pagebuilder.php:4375
+#: ../et-pagebuilder/et-pagebuilder.php:9150
+#: ../et-pagebuilder/et-pagebuilder.php:9361
+msgid ""
+"Here you can choose the value of your text. If you are working with a dark "
+"background, then your text should be set to light. If you are working with a "
+"light background, then your text should be dark."
+msgstr ""
+"Di sini Anda dapat memilih warna dari teks Anda. Apabila Anda bekerja dengan "
+"latar belakang gelap, maka warna teks Anda sebaiknya terang. Apabila Anda "
+"bekerja dengan latar belakang terang, maka warna teks Anda sebaiknya gelap."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2165
+#: ../et-pagebuilder/et-pagebuilder.php:3732
+#: ../et-pagebuilder/et-pagebuilder.php:4105
+#: ../et-pagebuilder/et-pagebuilder.php:4781
+#: ../et-pagebuilder/et-pagebuilder.php:5163
+#: ../et-pagebuilder/et-pagebuilder.php:5431
+#: ../et-pagebuilder/et-pagebuilder.php:9159
+#: ../et-pagebuilder/et-pagebuilder.php:9370
+msgid "Text Orientation"
+msgstr "Orientasi Teks"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2177
+#: ../et-pagebuilder/et-pagebuilder.php:3645
+#: ../et-pagebuilder/et-pagebuilder.php:3744
+#: ../et-pagebuilder/et-pagebuilder.php:4116
+#: ../et-pagebuilder/et-pagebuilder.php:4792
+#: ../et-pagebuilder/et-pagebuilder.php:5174
+#: ../et-pagebuilder/et-pagebuilder.php:5442
+#: ../et-pagebuilder/et-pagebuilder.php:8958
+#: ../et-pagebuilder/et-pagebuilder.php:9170
+#: ../et-pagebuilder/et-pagebuilder.php:9381
+msgid "Left"
+msgstr "Kiri"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2187
+#: ../et-pagebuilder/et-pagebuilder.php:2208
+#: ../et-pagebuilder/et-pagebuilder.php:3754
+#: ../et-pagebuilder/et-pagebuilder.php:3775
+#: ../et-pagebuilder/et-pagebuilder.php:4126
+#: ../et-pagebuilder/et-pagebuilder.php:4146
+#: ../et-pagebuilder/et-pagebuilder.php:4802
+#: ../et-pagebuilder/et-pagebuilder.php:4823
+#: ../et-pagebuilder/et-pagebuilder.php:5184
+#: ../et-pagebuilder/et-pagebuilder.php:5205
+#: ../et-pagebuilder/et-pagebuilder.php:5452
+#: ../et-pagebuilder/et-pagebuilder.php:5473
+#: ../et-pagebuilder/et-pagebuilder.php:8963
+#: ../et-pagebuilder/et-pagebuilder.php:9180
+#: ../et-pagebuilder/et-pagebuilder.php:9201
+#: ../et-pagebuilder/et-pagebuilder.php:9391
+#: ../et-pagebuilder/et-pagebuilder.php:9412
+msgid "Right"
+msgstr "Kanan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2197
+#: ../et-pagebuilder/et-pagebuilder.php:3117
+#: ../et-pagebuilder/et-pagebuilder.php:3764
+#: ../et-pagebuilder/et-pagebuilder.php:4136
+#: ../et-pagebuilder/et-pagebuilder.php:4812
+#: ../et-pagebuilder/et-pagebuilder.php:5194
+#: ../et-pagebuilder/et-pagebuilder.php:5462
+#: ../et-pagebuilder/et-pagebuilder.php:9190
+#: ../et-pagebuilder/et-pagebuilder.php:9401
+msgid "Center"
+msgstr "Tengah"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2221
+#: ../et-pagebuilder/et-pagebuilder.php:9213
+#: ../et-pagebuilder/et-pagebuilder.php:9424
+msgid "This controls the how your text is aligned within the module."
+msgstr "Ini mengatur perataan teks Anda di dalam modul."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2238
+msgid "Here you can create the content that will be used within the module."
+msgstr "Di sini Anda dapat membuat konten yang akan digunakan di dalam modul."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2330
+msgid "New Tab"
+msgstr "Tab Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2338
+msgid "Tab Settings"
+msgstr "Pengaturan Tab"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2346
+#: ../et-pagebuilder/et-pagebuilder.php:3349
+#: ../et-pagebuilder/et-pagebuilder.php:4530
+#: ../et-pagebuilder/et-pagebuilder.php:4653
+#: ../et-pagebuilder/et-pagebuilder.php:5048
+#: ../et-pagebuilder/et-pagebuilder.php:5305
+#: ../et-pagebuilder/et-pagebuilder.php:5603
+#: ../et-pagebuilder/et-pagebuilder.php:5843
+#: ../et-pagebuilder/et-pagebuilder.php:6513
+#: ../et-pagebuilder/et-pagebuilder.php:6759
+#: ../et-pagebuilder/et-pagebuilder.php:7021
+#: ../et-pagebuilder/et-pagebuilder.php:7526
+#: ../et-pagebuilder/et-pagebuilder.php:7859
+#: ../et-pagebuilder/et-pagebuilder.php:7999
+#: ../et-pagebuilder/et-pagebuilder.php:8232
+#: ../et-pagebuilder/et-pagebuilder.php:8594
+#: ../et-pagebuilder/et-pagebuilder.php:8773
+#: ../et-pagebuilder/et-pagebuilder.php:9097
+#: ../includes/widgets/widget-about.php:48
+#: ../includes/widgets/widget-ads.php:172
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-adsense.php:46
+msgid "Title"
+msgstr "Judul"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2354
+#: ../et-pagebuilder/et-pagebuilder.php:8240
+msgid "The title will be used within the tab button for this tab."
+msgstr "Judul ini akan digunakan pada tombol tab untuk tab ini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2371
+#: ../et-pagebuilder/et-pagebuilder.php:2408
+#: ../et-pagebuilder/et-pagebuilder.php:7921
+#: ../et-pagebuilder/et-pagebuilder.php:8024
+msgid ""
+"Here you can define the content that will be placed within the current tab."
+msgstr ""
+"Di sini Anda dapat menentukan konten yang akan ditempatkan di dalam tab ini"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2382
+msgid "Tabs Module Settings"
+msgstr "Pengaturan Modul Tab"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2392
+msgid "Add New Tab"
+msgstr "Tambah Tab Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2470
+msgid "Slider Module Settings"
+msgstr "Pengaturan Modul Slider"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2480
+#: ../et-pagebuilder/et-pagebuilder.php:2725
+msgid "Add New Slide"
+msgstr "Tambah Slide Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2516
+#: ../et-pagebuilder/et-pagebuilder.php:2761
+msgid "Controls"
+msgstr "Kontrol"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2523
+#: ../et-pagebuilder/et-pagebuilder.php:2768
+msgid "Show Slider Controls"
+msgstr "Tampilkan Kontrol Slider"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2528
+#: ../et-pagebuilder/et-pagebuilder.php:2773
+msgid "Hide Slider Controls"
+msgstr "Sembunyikan Kontrol Slider"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2535
+msgid ""
+"This setting will turn on and off the circle buttons at the bottom of the "
+"slider."
+msgstr ""
+"Pengaturan ini akan mengaktifkan dan menonaktifkan tombol lingkaran pada "
+"bagian bawah slider."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2544
+#: ../et-pagebuilder/et-pagebuilder.php:2789
+msgid "Automatic Animation"
+msgstr "Animasi Otomatis"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2551
+#: ../et-pagebuilder/et-pagebuilder.php:2796
+#: ../et-pagebuilder/et-pagebuilder.php:7112
+msgid "Disabled"
+msgstr "Nonaktifkan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2556
+#: ../et-pagebuilder/et-pagebuilder.php:2801
+#: ../et-pagebuilder/et-pagebuilder.php:7117
+msgid "Enabled"
+msgstr "Aktifkan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2563
+#: ../et-pagebuilder/et-pagebuilder.php:2808
+msgid ""
+"If you would like the slider to slide automatically, without the visitor "
+"having to click the next button, enable this option and then adjust the "
+"rotation speed below if desired."
+msgstr ""
+"Apabila Anda ingin slider bergeser secara otomatis, tanpa mengharuskan "
+"pengunjung untuk mengeklik tombol berikut, aktifkan opsi ini dan atur "
+"kecepatan rotasi di bawah apabila diinginkan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2572
+#: ../et-pagebuilder/et-pagebuilder.php:2817
+msgid "Automatic Animation Speed (in ms)"
+msgstr "Kecepatan Animasi Otomatis (dalam milidetik)"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2580
+#: ../et-pagebuilder/et-pagebuilder.php:2825
+msgid ""
+"Here you can designate how fast the slider fades between each slide, if "
+"'Automatic Animation' option is enabled above. The higher the number the "
+"longer the pause between each rotation."
+msgstr ""
+"Di sini Anda dapat menentukan seberapa cepat pergantian slider jika opsi "
+"'Animasi Otomatis' di atas diaktifkan. Semakin tinggi angkanya, semakin lama "
+"jeda di antara tiap-tiap rotasi."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2608
+msgid ""
+"Enabling this option will give your background images a fixed position as "
+"you scroll."
+msgstr ""
+"Mengaktifkan opsi ini akan membuat posisi gambar latar belakang Anda tetap "
+"sama saat Anda menggulung layar."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2715
+msgid "Fullwidth Slider Module Settings"
+msgstr "Pengaturan Modul Slider Lebar Penuh"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2752
+msgid "This setting allows you to turn the navigation arrows on or off."
+msgstr ""
+"Pengaturan ini memungkinkan Anda untuk mengaktifkan atau menonaktifkan panah "
+"navigasi."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2780
+msgid ""
+"Disabling this option will remove the circle button at the bottom of the "
+"slider."
+msgstr ""
+"Menonaktifkan opsi ini akan menghilangkan tombol lingkaran di bagian bawah "
+"slider."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2853
+msgid ""
+"If enabled, your background images will have a fixed position as your "
+"scroll, creating a fun parallax-like effect."
+msgstr ""
+"Jika diaktifkan, posisi gambar latar belakang Anda akan tetap sama saat Anda "
+"menggulung layar dan menciptakan efek paralaks yang menarik."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2898
+msgid "Here you can define the text content that will be used in this slide."
+msgstr ""
+"Di sini Anda dapat membuat konten teks yang akan digunakan dalam slide ini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2960
+msgid "New Slide"
+msgstr "Slide Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2968
+msgid "Slide Settings"
+msgstr "Pengaturan Slide"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2976
+msgid "Heading"
+msgstr "Heading"
+
+#: ../et-pagebuilder/et-pagebuilder.php:2984
+msgid "Define the title text for your slide."
+msgstr "Tentukan teks judul untuk slide Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:2993
+#: ../et-pagebuilder/et-pagebuilder.php:4687
+#: ../et-pagebuilder/et-pagebuilder.php:5065
+#: ../et-pagebuilder/et-pagebuilder.php:7628
+msgid "Button Text"
+msgstr "Teks Tombol"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3001
+msgid "Define the text for the slide button"
+msgstr "Tentukan teks untuk tombol slide"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3010
+#: ../et-pagebuilder/et-pagebuilder.php:4670
+#: ../et-pagebuilder/et-pagebuilder.php:7611
+msgid "Button URL"
+msgstr "URL Tombol"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3018
+msgid "Input a destination URL for the slide button."
+msgstr "Masukkan URL tujuan untuk tombol slide."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3070
+#: ../et-pagebuilder/et-pagebuilder.php:9332
+msgid "Use the color picker to choose a background color for this module."
+msgstr ""
+"Gunakan pemilih warna untuk memilih warna latar belakang untuk modul ini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3080
+msgid "Slide Image"
+msgstr "Gambar Slide"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3087
+#: ../et-pagebuilder/et-pagebuilder.php:3593
+msgid "Upload an Image"
+msgstr "Unggah Gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3091
+msgid "Choose a Slide Image"
+msgstr "Pilih Gambar Slide"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3095
+msgid "Set As Slide Image"
+msgstr "Tinggi Gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3101
+msgid ""
+"If defined, this slide image will appear to the left of your slide text. "
+"Upload an image, or leave blank for a text-only slide."
+msgstr ""
+"Jika dipilih, gambar slide ini akan tampil di sebelah kiri teks slide Anda. "
+"Unggah gambar, atau biarkan kosong untuk slide yang hanya berisi teks."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3110
+msgid "Slide Image Vertical Alignment"
+msgstr "Perataan Vertikal Gambar Slide"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3122
+msgid "Bottom"
+msgstr "Bawah"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3129
+msgid ""
+"This setting determines the vertical alignment of your slide image. Your "
+"image can either be vertically centered, or aligned to the bottom of your "
+"slide."
+msgstr ""
+"Pengaturan ini menentukan perataan vertikal dari gambar slide Anda. Gambar "
+"Anda dapat dibuat rata tengah secara vertikal, atau diratakan di bagian "
+"bawah slide Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3138
+msgid "Slide Video"
+msgstr "Video Slide"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3146
+msgid ""
+"If defined, this video will appear to the left of your slide text. Enter "
+"youtube or vimeo page url, or leave blank for a text-only slide."
+msgstr ""
+"Jika dipilih, video ini akan tampil di sebelah kiri teks slide Anda. "
+"Masukkan URL halaman Youtube atau Vimeo, atau biarkan kosong untuk slide "
+"yang hanya berisi teks."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3163
+msgid ""
+"If you have a slide image defined, input your HTML ALT text for the image "
+"here."
+msgstr ""
+"Apabila Anda memiliki gambar slide yang ditentukan, masukkan teks alternatif "
+"untuk gambar Anda di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3191
+msgid ""
+"Here you can choose whether your text is light or dark. If you have a slide "
+"with a dark background, then choose light text. If you have a light "
+"background, then use dark text."
+msgstr ""
+"Di sini Anda dapat memilih warna teks yang terang atau gelap. Apabila Anda "
+"memiliki slide dengan latar belakang gelap, maka pilihlah warna teks terang. "
+"Apabila Anda memiliki latar belakang terang, gunakan warna teks gelap."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3330
+msgid "Input your main slide text content here."
+msgstr "Masukkan konten teks slide utama Anda di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3341
+msgid "Blurb Module Settings"
+msgstr "Pengaturan Modul Blurb"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3357
+msgid "The title of your blurb will appear in bold below your blurb image."
+msgstr ""
+"Judul blurb Anda akan tampak dalam cetak tebal di bawah gambar blurb Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3366
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:238
+msgid "Url"
+msgstr "URL"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3374
+msgid ""
+"If you would like to make your blurb a link, input your destination URL here."
+msgstr ""
+"Apabila Anda ingin menjadikan blurb sebagai tautan, masukkan URL tujuan Anda "
+"di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3411
+msgid "Use Icon"
+msgstr "Gunakan Ikon"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3430
+msgid "Here you can choose whether icon set below should be used."
+msgstr "Di sini Anda dapat memilih untuk menggunakan set ikon di bawah."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3450
+msgid "Choose an icon to display with your blurb."
+msgstr "Pilih ikon untuk ditampilkan bersama blurb Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3459
+#: ../et-pagebuilder/et-pagebuilder.php:9845
+msgid "Icon Color"
+msgstr "Warna Ikon"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3475
+msgid "Here you can define a custom color for your icon."
+msgstr "Di sini Anda dapat memilih warna kustom untuk ikon Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3484
+msgid "Circle Icon"
+msgstr "Ikon Lingkaran"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3503
+msgid ""
+"Here you can choose whether icon set above should display within a circle."
+msgstr ""
+"Di sini Anda dapat memilih untuk menampilkan set ikon di atas di dalam "
+"lingkaran."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3512
+msgid "Circle Color"
+msgstr "Warna Lingkaran"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3528
+msgid "Here you can define a custom color for the icon circle."
+msgstr "Di sini Anda dapat memilih warna kustom untuk lingkaran ikon Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3537
+msgid "Show Circle Border"
+msgstr "Tampilkan Sempadan Lingkaran"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3556
+msgid "Here you can choose whether if the icon circle border should display."
+msgstr ""
+"Di sini Anda dapat memilih untuk menampilkan sempadan pada lingkaran ikon."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3565
+msgid "Circle Border Color"
+msgstr "Warna Sempadan Lingkaran"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3577
+msgid "Here you can define a custom color for the icon circle border."
+msgstr ""
+"Di sini Anda dapat memilih warna kustom untuk sempadan lingkaran ikon Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3607
+msgid "Upload an image to display at the top of your blurb."
+msgstr "Unggah gambar untuk ditampilkan di bagian atas blurb Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3616
+msgid "Image Alt Text"
+msgstr "Teks Alternatif Gambar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3624
+msgid "Define the HTML ALT text for your image here."
+msgstr "Masukkan teks alternatif untuk gambar Anda di sini"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3633
+msgid "Image/Icon Placement"
+msgstr "Penempatan Gambar/Ikon"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3640
+msgid "Top"
+msgstr "Atas"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3652
+msgid "Here you can choose where to place the icon."
+msgstr "Di sini Anda dapat memilih di mana untuk meletakkan ikon."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3661
+msgid "Image/Icon Animation"
+msgstr "Animasi Gambar/Ikon"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3787
+msgid "This will control how your blurb text is aligned."
+msgstr "Ini akan mengatur perataan teks blurb Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3804
+#: ../et-pagebuilder/et-pagebuilder.php:4174
+#: ../et-pagebuilder/et-pagebuilder.php:4460
+#: ../et-pagebuilder/et-pagebuilder.php:4583
+#: ../et-pagebuilder/et-pagebuilder.php:4852
+#: ../et-pagebuilder/et-pagebuilder.php:5235
+#: ../et-pagebuilder/et-pagebuilder.php:5502
+#: ../et-pagebuilder/et-pagebuilder.php:7420
+#: ../et-pagebuilder/et-pagebuilder.php:7781
+#: ../et-pagebuilder/et-pagebuilder.php:9596
+msgid "Input the main text content for your module here."
+msgstr "Masukkan konten teks utama untuk modul Anda di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3866
+msgid "Testimonial Module Settings"
+msgstr "Pengaturan Modul Testimonial"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3874
+msgid "Author Name"
+msgstr "Nama Penulis"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3882
+msgid "Input the name of the testimonial author."
+msgstr "Masukkan nama penulis testimonial."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3891
+msgid "Job Title"
+msgstr "Jabatan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3899
+msgid "Input the job title."
+msgstr "Masukkan jabatan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3908
+msgid "Company Name"
+msgstr "Nama Perusahaan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3916
+msgid "Input the name of the company."
+msgstr "Masukkan nama perusahaan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3925
+msgid "Author/Company URL"
+msgstr "URL Penulis/Perusahaan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3933
+msgid "Input the website of the author or leave blank for no link."
+msgstr "Masukkan situs web penulis atau biarkan kosong jika tak ada tautan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3942
+msgid "URLs Open"
+msgstr "Buka URLs"
+
+#: ../et-pagebuilder/et-pagebuilder.php:3961
+msgid "Choose whether or not the URL should open in a new window."
+msgstr "Tentukan apakah URL dibuka di jendela baru atau tidak."
+
+#: ../et-pagebuilder/et-pagebuilder.php:3970
+msgid "Portrait Image URL"
+msgstr "URL Gambar Profil"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4000
+msgid "Quote Icon"
+msgstr "Ikon Kutip"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4007
+msgid "Visible"
+msgstr "Tampak"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4012
+msgid "Hidden"
+msgstr "Tersembunyi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4019
+msgid "Choose whether or not the quote icon should be visible."
+msgstr "Tentukan apakah ikon kutip ditampilkan atau tidak."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4047
+#: ../et-pagebuilder/et-pagebuilder.php:4723
+#: ../et-pagebuilder/et-pagebuilder.php:5101
+#: ../et-pagebuilder/et-pagebuilder.php:5369
+#: ../et-pagebuilder/et-pagebuilder.php:8126
+msgid ""
+"Here you can choose whether background color setting below should be used or "
+"not."
+msgstr ""
+"Di sini Anda dapat menentukan apakah pengaturan warna latar belakang di "
+"bawah harus digunakan atau tidak."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4068
+#: ../et-pagebuilder/et-pagebuilder.php:4744
+msgid "Here you can define a custom background color for your CTA."
+msgstr ""
+"Di sini Anda dapat memilih warna latar belakang kustom untuk tombol aksi "
+"Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4157
+#: ../et-pagebuilder/et-pagebuilder.php:4835
+msgid "This will adjust the alignment of the module text."
+msgstr "Ini akan mengatur perataan untuk teks modul."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4236
+msgid "Person Module Settings"
+msgstr "Pengaturan Modul Perorangan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4252
+msgid "Input the name of the person"
+msgstr "Masukkan nama individu"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4261
+msgid "Position"
+msgstr "Posisi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4269
+msgid "Input the person's position."
+msgstr "Masukkan posisi individu"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4392
+msgid "Input Facebook Profile Url."
+msgstr "Masukkan URL Profil Facebook."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4409
+msgid "Input Twitter Profile Url"
+msgstr "Masukkan URL Profil Twitter."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4426
+msgid "Input Google+ Profile Url"
+msgstr "Masukkan URL Profil Google+."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4435
+msgid "LinkedIn Profile Url"
+msgstr "URL Profil LinkedIn"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4443
+msgid "Input LinkedIn Profile Url"
+msgstr "Masukkan URL Profil LinkedIn."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4452
+msgid "Description"
+msgstr "Deskripsi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4522
+msgid "Toggle Module Settings"
+msgstr "Pengaturan Modul Toggle"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4538
+#: ../et-pagebuilder/et-pagebuilder.php:8007
+msgid ""
+"The toggle title will appear above the content and when the toggle is closed."
+msgstr "Judul toggle akan tampil di atas konten dan saat toggle ditutup."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4554
+msgid "Close"
+msgstr "Tutup"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4559
+msgid "Open"
+msgstr "Buka"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4566
+msgid ""
+"Choose whether or not this toggle should start in an open or closed state."
+msgstr ""
+"Tentukan apakah toggle ini harus dimulai dalam keadaan terbuka atau tertutup."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4645
+msgid "Call To Action Module Settings"
+msgstr "Pengaturan Modul Tombol Aksi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4661
+msgid "Input your value to action title here."
+msgstr "Masukkan judul tombol aksi Anda di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4678
+msgid "Input the destination URL for your CTA button."
+msgstr "Masukkan URL tujuan dari tombol aksi Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4695
+msgid "Input your desired button text, or leave blank for no button."
+msgstr ""
+"Masukkan teks tombol yang Anda inginkan, atau biarkan kosong untuk tak ada "
+"tombol."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4914
+msgid "Signup Module Settings"
+msgstr "Pengaturan Modul Pendaftaran"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4922
+msgid "Service Provider"
+msgstr "Penyedia Layanan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4929
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4934
+msgid "FeedBurner"
+msgstr "FeedBurner"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4939
+msgid "Aweber"
+msgstr "Aweber"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4946
+msgid "Here you can choose a service provider."
+msgstr "Di sini Anda dapat memilih penyedia layanan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:4955
+msgid "Feed Title"
+msgstr "Judul Feed"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4972
+msgid "MailChimp lists"
+msgstr "Daftar MailChimp"
+
+#: ../et-pagebuilder/et-pagebuilder.php:4979
+#: ../et-pagebuilder/et-pagebuilder.php:5017
+msgid "Select the list"
+msgstr "Pilih daftar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5001
+msgid ""
+"Here you can choose MailChimp list to add customers to. If you don't see any "
+"lists here, you need to make sure MailChimp API key is set in ePanel and you "
+"have at least one list on a MailChimp account. If you added new list, but it "
+"doesn't appear here, activate 'Regenerate MailChimp Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Di sini Anda dapat memilih daftar MailChimp untuk menambahkan pelanggan. "
+"Jika Anda tidak melihat daftar di sini, maka Anda harus memastikan MailChimp "
+"API key telah diatur di ePanel dan bahwa Anda memiliki setidaknya satu "
+"daftar dalam akun MailChimp. Jika Anda menambahkan daftar baru namun tidak "
+"muncul di sini, aktifkan opsi Buat Ulang Daftar MailChimp di ePanel. Jangan "
+"lupa untuk menonaktifkannya saat daftar telah dibuat kembali."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5010
+msgid "Aweber lists"
+msgstr "Daftar Aweber"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5039
+msgid ""
+"Here you can choose Aweber list to add customers to. If you don't see any "
+"lists here, you need to make sure Aweber is set up properly in ePanel and "
+"you have at least one list on a Aweber account. If you added new list, but "
+"it doesn't appear here, activate 'Regenerate Aweber Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Di sini Anda dapat memilih daftar Aweber untuk menambahkan pelanggan. Jika "
+"Anda tidak melihat daftar di sini, maka Anda harus memastikan Aweber telah "
+"diatur dengan benar di ePanel dan bahwa Anda memiliki setidaknya satu daftar "
+"dalam akun Aweber. Jika Anda menambahkan daftar baru namun tidak muncul di "
+"sini, aktifkan opsi Buat Ulang Daftar Aweber di ePanel. Jangan lupa untuk "
+"menonaktifkannya saat daftar telah dibuat kembali."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5056
+msgid "Choose a title of your signup box."
+msgstr "Tentukan judul untuk kotak pendaftaran Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5073
+msgid "Here you can change the text used for the signup button."
+msgstr ""
+"Di sini Anda dapat mengubah teks yang digunakan untuk tombol pendaftaran."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5218
+#: ../et-pagebuilder/et-pagebuilder.php:5485
+msgid "Here you can adjust the alignment of your text."
+msgstr "Di sini Anda dapat menyesuaikan perataan teks Anda"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5297
+msgid "Login Module Settings"
+msgstr "Pengaturan Modul Login"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5313
+msgid "Choose a title of your login box."
+msgstr "Tentukan judul untuk kotak login Anda"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5322
+msgid "Redirect To The Current Page"
+msgstr "Alihkan ke Halaman Ini"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5341
+msgid ""
+"Here you can choose whether the user should be redirected to the current "
+"page."
+msgstr ""
+"Di sini Anda dapat memilih apakah pengguna akan dialihkan ke halaman ini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5564
+msgid "Audio Module Settings"
+msgstr "Pengaturan Modul Audio"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5580
+msgid "Upload an audio file"
+msgstr "Unggah berkas audio"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5584
+msgid "Choose an Audio file"
+msgstr "Pilih berkas audio"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5588
+msgid "Set As Audio for the module"
+msgstr "Atur sebagai Audio untuk modul ini"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5594
+msgid ""
+"Define the audio file for use in the module. To remove an audio file from "
+"the module, simply delete the URL from the settings field."
+msgstr ""
+"Pilih berkas audio untuk digunakan dalam modul. Untuk menghilangkan berkas "
+"audio dari modul, hapus URL dari bidang pengaturan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5611
+msgid "Define a title."
+msgstr "Tentukan judul."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5620
+msgid "Artist Name"
+msgstr "Nama Artis"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5628
+msgid "Define an artist name."
+msgstr "Masukkan nama artis."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5637
+msgid "Album name"
+msgstr "Nama Album"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5645
+msgid "Define an album name."
+msgstr "Masukkan nama album"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5654
+msgid "Cover Art Image URL"
+msgstr "URL Gambar Sampul"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5790
+msgid "Contact Form Module Settings"
+msgstr "Pengaturan Modul Formulir Kontak"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5805
+msgid "Display Captcha"
+msgstr "Tampilkan Captcha"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5810
+msgid "Don't Display Captcha"
+msgstr "Jangan Tampilkan Captcha"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5817
+msgid "Turn the captcha on or off using this option."
+msgstr "Aktifkan/nonaktifkan Captcha dengan opsi ini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5834
+msgid "Input the email address where messages should be sent."
+msgstr "Masukkan alamat email ke mana pesan dikirimkan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5851
+msgid "Define a title for your contact form."
+msgstr "Masukkan judul untuk formulir kontak Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5913
+msgid "Divider Module Settings"
+msgstr "Pengaturan Modul Garis Pemisah"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5933
+msgid "This will adjust the color of the 1px divider line."
+msgstr "Ini akan mengatur warna dari garis pemisah 1px."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5942
+msgid "Visibility"
+msgstr "Visibilitas"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5949
+msgid "Don't Show Divider"
+msgstr "Jangan Tampilkan Garis Pemisah"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5954
+msgid "Show Divider"
+msgstr "Tampilkan Pemisah"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5961
+msgid ""
+"This settings turns on and off the 1px divider line, but does not affect the "
+"divider height."
+msgstr ""
+"Pengaturan ini mengaktifkan dan menonaktifkan garis pemisah 1px, namun tidak "
+"memengaruhi tinggi garis pemisah."
+
+#: ../et-pagebuilder/et-pagebuilder.php:5970
+msgid "Height"
+msgstr "Tinggi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:5978
+msgid "Define how much space should be added below the divider (in pixels)."
+msgstr ""
+"Tentukan seberapa besar ruang yang ditambahkan di bawah garis pemisah (dalam "
+"pixel)."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6040
+msgid "Blog Module Settings"
+msgstr "Pengaturan Modul Blog"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6055
+#: ../et-pagebuilder/et-pagebuilder.php:6447
+#: ../et-pagebuilder/et-pagebuilder.php:6693
+msgid "Fullwidth"
+msgstr "Lebar Penuh"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6076
+#: ../et-pagebuilder/et-pagebuilder.php:6468
+#: ../et-pagebuilder/et-pagebuilder.php:6714
+#: ../et-pagebuilder/et-pagebuilder.php:7004
+#: ../et-pagebuilder/et-pagebuilder.php:7254
+msgid "Posts Number"
+msgstr "Jumlah Postingan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6084
+msgid "Choose how much posts you would like to display per page."
+msgstr ""
+"Tentukan berapa banyak postingan yang ingin Anda tampilkan per halaman."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6093
+#: ../et-pagebuilder/et-pagebuilder.php:6485
+#: ../et-pagebuilder/et-pagebuilder.php:6731
+#: ../et-pagebuilder/et-pagebuilder.php:6976
+msgid "Include Categories"
+msgstr "Sertakan Kategori"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6112
+msgid "Choose which categories you would like to include in the feed."
+msgstr "Pilih kategori yang ingin Anda sertakan dalam feed."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6121
+msgid "Meta Date Format"
+msgstr "Format tanggal"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6129
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr ""
+"Jika Anda ingin menyesuaikan format tanggal, masukkan format tanggal dalam "
+"PHP yang benar di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6138
+msgid "Featured Image"
+msgstr "Gambar Utama"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6145
+msgid "Show Featured Image"
+msgstr "Tampilkan Gambar Utama"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6150
+msgid "Don't Show Featured Image"
+msgstr "Jangan Tampilkan Gambar Utama"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6157
+msgid "This will turn thumbnails on and off."
+msgstr "Ini akan mengaktifkan atau menonaktifkan thumbnail."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6173
+msgid "Show Excerpt"
+msgstr "Tampilkan Kutipan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6178
+msgid "Show Content"
+msgstr "Tampilkan Konten"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6185
+msgid ""
+"Showing the full content will not truncate your posts on the index page. "
+"Showing the excerpt will only display your excerpt text."
+msgstr ""
+"Menampilkan seluruh konten tidak akan memangkas postingan Anda pada halaman "
+"indeks. Menampilkan Kutipan hanya akan menampilkan teks kutipan Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6194
+msgid "Read More Button"
+msgstr "Tombol Baca Selebihnya"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6213
+msgid ""
+"Here you can define whether to show \"read more\" link after the excerpts or "
+"not."
+msgstr ""
+"Di sini Anda dapat memilih untuk menampilkan tautan baca selebihnya setelah "
+"kutipan atau tidak."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6222
+msgid "Author"
+msgstr "Penulis"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6229
+msgid "Show Author"
+msgstr "Tampilkan Penulis"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6234
+msgid "Don't Show Author"
+msgstr "Jangan Tampilkan Penulis"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6241
+msgid "Turn on or off the author link."
+msgstr "Aktifkan/nonaktifkan tautan penulis."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6250
+#: ../et-pagebuilder/et-pagebuilder.php:7049
+msgid "Date"
+msgstr "Tanggal"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6257
+#: ../et-pagebuilder/et-pagebuilder.php:7056
+msgid "Show Date"
+msgstr "Tampilkan Tanggal"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6262
+#: ../et-pagebuilder/et-pagebuilder.php:7061
+msgid "Don't Show Date"
+msgstr "Jangan Tampilkan Tanggal"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6269
+msgid "Turn the date on or off."
+msgstr "Aktifkan/nonaktifkan tanggal."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6285
+#: ../et-pagebuilder/et-pagebuilder.php:6548
+#: ../et-pagebuilder/et-pagebuilder.php:6794
+msgid "Show Categories"
+msgstr "Tampilkan Kategori"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6290
+#: ../et-pagebuilder/et-pagebuilder.php:6553
+#: ../et-pagebuilder/et-pagebuilder.php:6799
+msgid "Don't Show Categories"
+msgstr "Jangan Tampilkan Kategori"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6297
+#: ../et-pagebuilder/et-pagebuilder.php:6560
+#: ../et-pagebuilder/et-pagebuilder.php:6806
+msgid "Turn the category links on or off."
+msgstr "Aktifkan/nonaktifkan tautan kategori."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6325
+msgid "Turn pagination on and off."
+msgstr "Aktifkan/nonaktifkan penomoran halaman."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6334
+msgid "Offset Number"
+msgstr "Nilai Offset"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6342
+msgid "Choose how many posts you would like to offset by"
+msgstr "Tentukan berapa banyak postingan untuk di-offset"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6432
+msgid "Portfolio Module Settings"
+msgstr "Pengaturan Modul Portofolio"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6459
+#: ../et-pagebuilder/et-pagebuilder.php:6705
+#: ../et-pagebuilder/et-pagebuilder.php:6967
+msgid "Choose your desired portfolio layout style."
+msgstr "Pilih gaya tampilan portofolio yang Anda inginkan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6476
+#: ../et-pagebuilder/et-pagebuilder.php:6722
+msgid "Define the number of projects that should be displayed per page."
+msgstr "Tentukan jumlah proyek yang ditampilkan per halaman."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6504
+#: ../et-pagebuilder/et-pagebuilder.php:6750
+#: ../et-pagebuilder/et-pagebuilder.php:6995
+msgid "Select the categories that you would like to include in the feed."
+msgstr "Pilih kategori yang ingin Anda sertakan dalam feed."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6520
+#: ../et-pagebuilder/et-pagebuilder.php:6766
+#: ../et-pagebuilder/et-pagebuilder.php:7028
+msgid "Show Title"
+msgstr "Tampilkan Judul"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6525
+#: ../et-pagebuilder/et-pagebuilder.php:6771
+#: ../et-pagebuilder/et-pagebuilder.php:7033
+msgid "Don't Show Title"
+msgstr "Jangan Tampilkan Judul"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6532
+#: ../et-pagebuilder/et-pagebuilder.php:6778
+#: ../et-pagebuilder/et-pagebuilder.php:7040
+msgid "Turn project titles on or off."
+msgstr "Aktifkan/nonaktifkan judul proyek."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6678
+msgid "Filterable Portfolio Module Settings"
+msgstr "Pengaturan Modul Portofolio Filterable"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6924
+msgid "Fullwidth Portfolio Module Settings"
+msgstr "Pengaturan Modul Portofolio Lebar Penuh"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6932
+msgid "Portfolio Title"
+msgstr "Judul Portofolio"
+
+#: ../et-pagebuilder/et-pagebuilder.php:6939
+msgid "Title displayed above the portfolio."
+msgstr "Judul yang ditampilkan di atas portofolio."
+
+#: ../et-pagebuilder/et-pagebuilder.php:6955
+msgid "Carousel"
+msgstr "Carousel"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7012
+msgid ""
+"Control how many projects are displayed. Leave blank or use 0 to not limit "
+"the amount."
+msgstr ""
+"Atur berapa banyak proyek yang ditampilkan. Biarkan kosong atau gunakan 0 "
+"untuk tidak membatasi jumlah."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7068
+msgid "Turn the date display on or off."
+msgstr "Aktifkan/nonaktifkan tampilan tanggal."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7105
+msgid "Automatic Carousel Rotation"
+msgstr "Rotasi Carousel Otomatis"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7124
+msgid ""
+"If you the carousel layout option is chosen and you would like the carousel "
+"to slide automatically, without the visitor having to click the next button, "
+"enable this option and then adjust the rotation speed below if desired."
+msgstr ""
+"Apabila opsi tampilan carousel dipilih dan Anda ingin carousel bergeser "
+"secara otomatis, tanpa mengharuskan pengunjung untuk mengeklik tombol "
+"berikut, aktifkan opsi ini dan atur kecepatan rotasi di bawah apabila "
+"diinginkan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7133
+msgid "Automatic Carousel Rotation Speed (in ms)"
+msgstr "Kecepatan Rotasi Carousel Otomatis (dalam milidetik)"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7141
+msgid ""
+"Here you can designate how fast the carousel rotates, if 'Automatic Carousel "
+"Rotation' option is enabled above. The higher the number the longer the "
+"pause between each rotation. (Ex. 1000 = 1 sec)"
+msgstr ""
+"Di sini Anda dapat menentukan seberapa cepat rotasi carousel jika opsi "
+"'Rotasi Carousel Otomatis' di atas diaktifkan. Semakin tinggi angkanya, "
+"semakin lama jeda di antara tiap-tiap rotasi. (Contoh: 1000 = 1 dtk)"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7203
+msgid "Shop Module Settings"
+msgstr "Pengaturan Modul Toko"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7218
+msgid "Recent Products"
+msgstr "Produk Terbaru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7223
+msgid "Featured Products"
+msgstr "Produk Unggulan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7228
+msgid "Sale Products"
+msgstr "Produk Diskon"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7233
+msgid "Best Selling Products"
+msgstr "Produk Terlaris"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7238
+msgid "Top Rated Products"
+msgstr "Produk Teratas"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7245
+msgid "Choose which type of products you would like to display."
+msgstr "Pilih tipe produk yang ingin Anda tampilkan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7262
+msgid "Control how many products are displayed."
+msgstr "Atur berapa banyak produk yang ditampilkan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7271
+msgid "Columns Number"
+msgstr "Jumlah Kolom"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7284
+msgid ""
+"Choose how many columns to display. 4 columns should be used for a 1 column "
+"row. 2 columns should be used for a 1/2 row column. 1 column should be used "
+"for a 1/4 row column."
+msgstr ""
+"Pilih berapa banyak kolom yang akan ditampilkan. 4 kolom digunakan untuk 1 "
+"baris kolom. 2 kolom digunakan untuk 1/2 kolom baris. 1 kolom digunakan "
+"untuk 1/4 kolom baris."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7293
+msgid "Order By"
+msgstr "Urut Berdasarkan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7300
+msgid "Default Sorting"
+msgstr "Sortir Default"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7305
+msgid "Sort By Popularity"
+msgstr "Sortir Berdasarkan Popularitas"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7310
+msgid "Sort By Rating"
+msgstr "Sortir Berdasarkan Rating"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7315
+msgid "Sort By Date"
+msgstr "Sortir Berdasarkan Tanggal"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7320
+msgid "Sort By Price: Low To High"
+msgstr "Sortir Berdasarkan Harga: Rendah ke Tinggi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7325
+msgid "Sort By Price: High To Low"
+msgstr "Sortir Berdasarkan Harga: Tinggi ke Rendah"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7332
+msgid "Choose how your products should be ordered."
+msgstr "Tentukan bagaimana produk Anda diurutkan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7394
+msgid "Pricing Tables Settings"
+msgstr "Pengaturan Tabel Harga"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7404
+msgid "Add New Pricing Table"
+msgstr "Tambah Tabel Harga Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7482
+msgid "New Pricing Table"
+msgstr "Tabel Harga Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7490
+msgid "Pricing Table Settings"
+msgstr "Pengaturan UmumPengaturan Tabel Harga"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7498
+msgid "Featured"
+msgstr "Unggulan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7505
+msgid "Don't Make This Table Featured"
+msgstr "Jangan Jadikan Tabel ini Unggulan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7510
+msgid "Make This Table Featured"
+msgstr "Jadikan Tabel ini Unggulan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7517
+msgid "Featuring a table will make it stand out from the rest."
+msgstr "Tabel Unggulan akan ditampilkan menonjol dari yang lainnya."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7534
+msgid "Define a title for the pricing table."
+msgstr "Masukkan judul untuk tabel harga."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7543
+msgid "Subtitle"
+msgstr "Subjudul"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7551
+msgid "Define a sub title for the table if desired."
+msgstr "Masukkan subjudul untuk tabel apabila diinginkan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7560
+msgid "Currency"
+msgstr "Mata Uang"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7568
+msgid "Input your desired currency symbol here."
+msgstr "Masukkan simbol mata uang yang Anda inginkan di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7577
+msgid "Per"
+msgstr "Per"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7585
+msgid ""
+"If your pricing is subscription based, input the subscription payment cycle "
+"here."
+msgstr ""
+"Apabila harga Anda didasarkan pada paket berlangganan, masukkan siklus "
+"pembayaran paket berlangganan di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7594
+msgid "Price"
+msgstr "Harga"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7602
+msgid "Input the value of the product here."
+msgstr "Masukkan nilai produk di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7619
+msgid "Input the destination URL for the signup button."
+msgstr "Masukkan URL tujuan untuk tombol daftar."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7636
+msgid "Adjust the text used from the signup button."
+msgstr "Atur teks yang digunakan untuk tombol daftar."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7653
+msgid ""
+"Input a list of features that are/are not included in the product. Separate "
+"items on a new line, and begin with either a + or - symbol: "
+msgstr ""
+"Masukkan daftar fitur yang disertakan/tidak disertakan dalam produk. "
+"Pisahkan item dengan baris baru, dan mulai dengan simbol + atau -"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7659
+msgid "Included option"
+msgstr "Opsi yang disertakan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7665
+msgid "Excluded option"
+msgstr "Opsi yang tidak disertakan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7677
+msgid "Bar Counters Settings"
+msgstr "Pengaturan Bar Counter"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7687
+msgid "Add New Bar Counter"
+msgstr "Tambah Bar Counter Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7736
+msgid ""
+"This will adjust the color of the empty space in the bar (currently gray)."
+msgstr ""
+"Ini akan menyesuaikan warna dari ruang kosong pada bar (saat ini abu-abu)."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7746
+#: ../et-pagebuilder/et-pagebuilder.php:8684
+msgid "Bar Background Color"
+msgstr "Warna Latar Belakang Bar"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7763
+#: ../et-pagebuilder/et-pagebuilder.php:8701
+#: ../et-pagebuilder/et-pagebuilder.php:8852
+msgid "This will change the fill color for the bar."
+msgstr "Ini akan mengubah warna isi dari bar."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7843
+msgid "New Bar Counter"
+msgstr "Bar Counter Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7851
+msgid "Bar Counter Settings"
+msgstr "Pengaturan Bar Counter"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7867
+msgid "Input a title for your bar."
+msgstr "Masukkan judul untuk bar Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7876
+msgid "Percent"
+msgstr "Persen"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7884
+msgid "Define a percentage for this bar."
+msgstr "Tentukan persentase untuk bar ini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:7895
+msgid "Accordion Settings"
+msgstr "Pengaturan Accordion"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7905
+#: ../et-pagebuilder/et-pagebuilder.php:7983
+msgid "Add New Item"
+msgstr "Tambah Item Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:7991
+msgid "Accordion Item Settings"
+msgstr "Pengaturan Item Accordion"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8035
+msgid "Countdown Timer Settings"
+msgstr "Pengaturan Penghitung Waktu Mundur"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8044
+msgid "Countdown Timer Title"
+msgstr "Judul Penghitung Waktu Mundur"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8052
+msgid "This is the title displayed for the countdown timer."
+msgstr "Ini adalah judul yang ditampilkan untuk penghitung waktu mundur."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8061
+msgid "Countdown To"
+msgstr "Hitung Waktu Mundur Ke"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8069
+msgid "This is the date the countdown timer is counting down to."
+msgstr "Ini adalah tanggal yang dihitung mundur oleh penghitung waktu mundur."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8153
+msgid "Here you can define a custom background color for your countdown timer."
+msgstr ""
+"Di sini Anda dapat memilih warna latar belakang kustom untuk penghitung "
+"waktu mundur Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8216
+msgid "New Pin"
+msgstr "Pin Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8224
+msgid "Pin Settings"
+msgstr "Pengaturan Pin"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8249
+msgid "Map Pin Address"
+msgstr "Alamat Pin Peta"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8256
+#: ../et-pagebuilder/et-pagebuilder.php:8339
+#: ../et-pagebuilder/et-pagebuilder.php:8483
+msgid "Find"
+msgstr "Cari"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8261
+msgid ""
+"Enter an address for this map pin, and the address will be geocoded and "
+"displayed on the map below."
+msgstr ""
+"Masukkan alamat untuk pin peta ini, geocoding akan mengidentifikasi alamat "
+"dan menampilkannya pada peta di bawah."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8285
+#: ../et-pagebuilder/et-pagebuilder.php:8323
+#: ../et-pagebuilder/et-pagebuilder.php:8467
+msgid ""
+"Here you can define the content that will be placed within the infobox for "
+"the pin."
+msgstr ""
+"Di sini Anda dapat menentukan konten yang akan ditempatkan di dalam kotak "
+"info pin."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8297
+#: ../et-pagebuilder/et-pagebuilder.php:8441
+msgid "Map Settings"
+msgstr "Pengaturan Peta"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8307
+#: ../et-pagebuilder/et-pagebuilder.php:8451
+msgid "Add New Pin"
+msgstr "Tambah Pin Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8332
+#: ../et-pagebuilder/et-pagebuilder.php:8476
+msgid "Map Center Address"
+msgstr "Alamat Pusat Peta"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8344
+#: ../et-pagebuilder/et-pagebuilder.php:8488
+msgid ""
+"Enter an address for the map center point, and the address will be geocoded "
+"and displayed on the map below."
+msgstr ""
+"Masukkan alamat untuk titik pusat peta, geocoding akan mengidentifikasi "
+"alamat dan menampilkannya pada peta di bawah."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8360
+#: ../et-pagebuilder/et-pagebuilder.php:8504
+msgid "Mouse Wheel Zoom"
+msgstr "Pembesaran Roda Mouse"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8379
+#: ../et-pagebuilder/et-pagebuilder.php:8523
+msgid ""
+"Here you can choose whether the zoom level will be controlled by mouse wheel "
+"or not."
+msgstr ""
+"Di sini Anda dapat memilih apakah tingkat pembesaran akan dikendalikan oleh "
+"roda mouse atau tidak."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8585
+msgid "Circle Counter Settings"
+msgstr "Pengaturan Circle Counter"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8602
+msgid "Input a title for the circle counter."
+msgstr "Masukkan judul untuk circle counter."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8611
+#: ../et-pagebuilder/et-pagebuilder.php:8790
+msgid "Number"
+msgstr "Nilai"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8619
+msgid ""
+"Define a number for the circle counter. (Don't include the percentage sign, "
+"use the option below.). <strong>Note: You can use only natural numbers from "
+"0 to 100</strong>"
+msgstr ""
+"Masukkan nilai untuk circle counter. (Jangan sertakan simbol persen, gunakan "
+"opsi di bawah). Catatan: Anda hanya dapat menggunakan angka natural dari 0 "
+"sampai 100"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8628
+#: ../et-pagebuilder/et-pagebuilder.php:8807
+msgid "Percent Sign"
+msgstr "Simbol Persen"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8647
+#: ../et-pagebuilder/et-pagebuilder.php:8826
+msgid ""
+"Here you can choose whether the percent sign should be added after the "
+"number set above."
+msgstr ""
+" Di sini Anda dapat menentukan apakah simbol persen akan ditambahkan setelah "
+"angka yang telah diatur di atas."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8764
+msgid "Number Counter Settings"
+msgstr "Pengaturan Number Counter"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8781
+msgid "Input a title for the counter."
+msgstr "Masukkan judul untuk counter."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8798
+msgid ""
+"Define a number for the counter. (Don't include the percentage sign, use the "
+"option below.)"
+msgstr ""
+"Masukkan nilai untuk counter. (Jangan sertakan simbol persen, gunakan opsi "
+"di bawah)."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8835
+msgid "Counter Text Color"
+msgstr "Warna Teks Counter"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8881
+msgid ""
+"Here you can choose whether your title text should be light or dark. If you "
+"are working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Di sini Anda dapat memilih warna teks judul yang terang atau gelap. Apabila "
+"Anda bekerja dengan latar belakang gelap, maka warna teks Anda sebaiknya "
+"terang. Apabila latar belakang Anda terang, maka warna teks Anda sebaiknya "
+"gelap."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8943
+msgid "Sidebar Module Settings"
+msgstr "Pengaturan Modul Bar Sisi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8951
+msgid "Orientation"
+msgstr "Orientasi"
+
+#: ../et-pagebuilder/et-pagebuilder.php:8970
+msgid ""
+"Choose which side of the page your sidebar will be on. This setting controls "
+"text orientation and border position."
+msgstr ""
+"Pilih sisi halaman di mana bar sisi Anda akan ditampilkan. Pengaturan ini "
+"mengatur orientasi teks dan posisi sempadan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:8979
+msgid "Widget Area"
+msgstr "Area Widget"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9000
+msgid ""
+"Select a widget-area that you would like to display. You can create new "
+"widget areas within the Appearances > Widgets tab."
+msgstr ""
+"Pilih area widget yang ingin Anda tampilkan. Anda dapat membuat area widget "
+"baru pada Tampilan > Tab Widget."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9089
+msgid "Fullwidth Header Module Settings"
+msgstr "Pengaturan Modul Header Lebar Penuh"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9105
+msgid "Enter your page title here."
+msgstr "Masukkan judul halaman Anda di sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9114
+msgid "Subheading Text"
+msgstr "Teks Subheading"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9122
+msgid ""
+"If you would like to use a subhead, add it here. Your subhead will appear "
+"below your title in a small font."
+msgstr ""
+"Jika Anda ingin menggunakan subhead, tambahkan di sini. Subhead Anda akan "
+"tampil di bawah judul Anda dalam huruf kecil."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9275
+msgid "Fullwidth Menu Module Settings"
+msgstr "Pengaturan Modul Menu Lebar Penuh"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9283
+msgid "Menu"
+msgstr "Menu"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9291
+msgid "Select a menu"
+msgstr "Pilih menu"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9308
+msgid "Select a menu that should be used in the module"
+msgstr "Pilih menu yang akan digunakan dalam modul."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9309
+msgid "Click here to create new menu"
+msgstr "Klik di sini untuk membuat menu baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9433
+msgid "Sub-Menus Open"
+msgstr "Sub-Menu Dibuka"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9440
+msgid "Downwards"
+msgstr "Ke Bawah"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9445
+msgid "Upwards"
+msgstr "Ke Atas"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9452
+msgid ""
+"Here you can choose the direction that your sub-menus will open. You can "
+"choose to have them open downwards or upwards."
+msgstr ""
+"Di sini Anda dapat memilih arah bukaan sub-menu Anda. Anda dapat memilih "
+"untuk membukanya ke bawah atau ke atas."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9515
+msgid "Social Media Follow Settings"
+msgstr "Media Sosial"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9525
+msgid "Add Social Network"
+msgstr "Tambahkan Jejaring Sosial"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9533
+msgid "Link Shape"
+msgstr "Bentuk Tautan"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9540
+msgid "Rounded Rectangle"
+msgstr "Persegi Bulat"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9545
+msgid "Circle"
+msgstr "Lingkaran"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9551
+msgid "Here you can choose the shape of your social network icons."
+msgstr "Di sini Anda dapat memilih bentuk dari ikon jejaring sosial Anda."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9632
+msgid "Follow Button"
+msgstr "Tombol Ikuti"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9650
+msgid ""
+"Here you can choose whether or not to include the follow button next to the "
+"icon."
+msgstr ""
+"Di sini Anda dapat menentukan untuk menyertakan tombol ikuti di sebelah ikon "
+"atau tidak."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9712
+msgid "New Social Network"
+msgstr "Jejaring Sosial Baru"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9720
+msgid "Social Network Settings"
+msgstr "Pengaturan Jejaring Sosial"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9729
+msgid "Social Network"
+msgstr "Jejaring Sosial"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9736
+msgid "Select a Network"
+msgstr "Pilih Jejaring"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9741
+msgid "facebook"
+msgstr "Facebook"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9756
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9766
+msgid "tumblr"
+msgstr "tumblr"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9771
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9776
+msgid "skype"
+msgstr "skype"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9781
+msgid "flikr"
+msgstr "flikr"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9786
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9791
+msgid "dribbble"
+msgstr "dribbble"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9796
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9801
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9806 ../includes/social_icons.php:32
+msgid "RSS"
+msgstr "RSS"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9813
+msgid "Choose the social network"
+msgstr "Pilih jejaring sosial"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9828
+msgid "Account URL"
+msgstr "URL akun"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9836
+msgid "The URL for this social network link."
+msgstr "URL untuk tautan jejaring sosial ini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9862
+msgid "Reset Color"
+msgstr "Reset Warna"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9867
+msgid "This will change the icon color."
+msgstr "Ini akan mengubah warna ikon."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9883
+msgid "Insert Module(s)"
+msgstr "Masukkan Modul"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9891
+msgid ""
+"All content created in the Page Builder will be lost. Previous content will "
+"be restored."
+msgstr ""
+"Semua konten yang dibuat di Builder Halaman akan terhapus. Konten sebelumnya "
+"akan dipulihkan."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9896
+#: ../et-pagebuilder/et-pagebuilder.php:9909
+msgid "Do you want to proceed?"
+msgstr "Apakah Anda ingin melanjutkan?"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9904
+msgid "All content created in the Page Builder will be lost."
+msgstr "Semua konten yang dibuat di Builder Halaman akan terhapus."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9917
+msgid "You can save the Page Builder Layout for later use here."
+msgstr ""
+"Anda dapat menyimpan Layout Builder Halaman untuk pemakaian mendatang di "
+"sini."
+
+#: ../et-pagebuilder/et-pagebuilder.php:9922
+msgid "Layout Name"
+msgstr "Nama Layout"
+
+#: ../et-pagebuilder/et-pagebuilder.php:9938
+msgid "Close Modal Window"
+msgstr "Tutup Jendela Modal"
+
+#: ../et-pagebuilder/layouts/layouts.php:58
+msgid "Homepage Basic"
+msgstr "Halaman Utama Standar"
+
+#: ../et-pagebuilder/layouts/layouts.php:66
+msgid "Homepage Shop"
+msgstr "Halaman Utama Toko"
+
+#: ../et-pagebuilder/layouts/layouts.php:76
+msgid "Homepage Portfolio"
+msgstr "Halaman Utama Portofolio"
+
+#: ../et-pagebuilder/layouts/layouts.php:84
+msgid "Homepage Company"
+msgstr "Halaman Utama Perusahaan"
+
+#: ../et-pagebuilder/layouts/layouts.php:92
+msgid "Homepage Corporate"
+msgstr "Halaman Utama Korporasi"
+
+#: ../et-pagebuilder/layouts/layouts.php:103
+msgid "Homepage Extended"
+msgstr "Halaman Utama Extended"
+
+#: ../et-pagebuilder/layouts/layouts.php:112
+msgid "Page Fullwidth"
+msgstr "Laman Lebar Penuh"
+
+#: ../et-pagebuilder/layouts/layouts.php:146
+msgid "Page Right Sidebar"
+msgstr "Laman dengan Bar Sisi Kanan"
+
+#: ../et-pagebuilder/layouts/layouts.php:180
+msgid "Page Left Sidebar"
+msgstr "Laman dengan Bar Sisi Kiri"
+
+#: ../et-pagebuilder/layouts/layouts.php:214
+msgid "Page Dual Sidebars"
+msgstr "Laman dengan Dua Bar Sisi"
+
+#: ../et-pagebuilder/layouts/layouts.php:236
+msgid "Portfolio Grid"
+msgstr "Portofolio Grid"
+
+#: ../et-pagebuilder/layouts/layouts.php:244
+msgid "Portfolio 1 Column"
+msgstr "Portofolio 1 Kolom"
+
+#: ../et-pagebuilder/layouts/layouts.php:252
+msgid "Portfolio Fullwidth Carousel"
+msgstr "Portofolio dengan Carousel Lebar Penuh"
+
+#: ../et-pagebuilder/layouts/layouts.php:260
+msgid "Portfolio Fullwidth Grid"
+msgstr "Portofolio dengan Grid Lebar Penuh"
+
+#: ../et-pagebuilder/layouts/layouts.php:268
+msgid "Project Extended"
+msgstr "Proyek Extended"
+
+#: ../et-pagebuilder/layouts/layouts.php:278
+msgid "Project Extended 2"
+msgstr "Proyek Extended 2"
+
+#: ../et-pagebuilder/layouts/layouts.php:291
+msgid "Blog Masonry"
+msgstr "Blog Masonry"
+
+#: ../et-pagebuilder/layouts/layouts.php:299
+msgid "Blog Standard"
+msgstr "Blog Standar"
+
+#: ../et-pagebuilder/layouts/layouts.php:307
+msgid "Shop Basic"
+msgstr "Toko Standar"
+
+#: ../et-pagebuilder/layouts/layouts.php:315
+msgid "Shop Extended"
+msgstr "Toko Extended"
+
+#: ../et-pagebuilder/layouts/layouts.php:323
+msgid "Splash Page"
+msgstr "Halaman Splash"
+
+#: ../et-pagebuilder/layouts/layouts.php:334
+msgid "Maintenance Mode"
+msgstr "Modus Pemeliharaan"
+
+#: ../et-pagebuilder/layouts/layouts.php:343
+msgid "Coming Soon"
+msgstr "Segera Hadir"
+
+#: ../et-pagebuilder/layouts/layouts.php:351
+msgid "Landing Page"
+msgstr "Landing Page"
+
+#: ../et-pagebuilder/layouts/layouts.php:360
+#: ../includes/widgets/widget-about.php:12
+#: ../includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "Tentang Saya"
+
+#: ../et-pagebuilder/layouts/layouts.php:369
+msgid "About Us"
+msgstr "Tentang Kami"
+
+#: ../et-pagebuilder/layouts/layouts.php:378
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+#: ../et-pagebuilder/layouts/layouts.php:394
+msgid "Our Team"
+msgstr "Tim Kami"
+
+#: ../et-pagebuilder/layouts/layouts.php:507
+msgid "Creative Agency"
+msgstr "Tim Kreatif"
+
+#: ../et-pagebuilder/layouts/layouts.php:516
+msgid "Sales Page"
+msgstr "Halaman Penjualan"
+
+#: ../et-pagebuilder/layouts/layouts.php:552
+msgid "Case Study"
+msgstr "Kajian Kasus"
+
+#: ../et-pagebuilder/layouts/layouts.php:562
+msgid "Product Features"
+msgstr "Fitur Produk"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Entri Terdahulu"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Entri Selanjutnya &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Tak Ditemukan Hasil"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"Laman yang Anda rikues tak dapat ditemukan. Cobalah mengganti pencarian "
+"Anda, atau gunakan navigasi di atas untuk mencari postingan."
+
+#: ../includes/social_icons.php:20
+msgid "Google"
+msgstr "Google"
+
+#: ../includes/functions/comments.php:15
+#, php-format
+msgid "on %1$s at %2$s"
+msgstr "pada %1$s pukul %2$s"
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(Sunting)"
+
+#: ../includes/functions/comments.php:21
+msgid "Reply"
+msgstr "Balas"
+
+#: ../includes/functions/comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda menunggu moderasi."
+
+#: ../includes/functions/installation.php:1
+msgid "Read Divi Documentation"
+msgstr "Baca Dokumentasi Divi"
+
+#: ../includes/functions/sidebars.php:13 ../includes/functions/sidebars.php:22
+#: ../includes/functions/sidebars.php:31 ../includes/functions/sidebars.php:40
+msgid "Footer Area"
+msgstr "Area Footer"
+
+#: ../includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "Tonton video tutorial"
+
+#: ../includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr "Tampilkan Informasi Tentang Saya"
+
+#: ../includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr "Widget Tentang Saya"
+
+#: ../includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr "Tampilkan Iklan"
+
+#: ../includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr "ET Iklan"
+
+#: ../includes/widgets/widget-ads.php:12
+#: ../includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr "Iklan"
+
+#: ../includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr "Gunakan Path Gambar Relatif"
+
+#: ../includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr "Buka di jendela baru"
+
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:236
+#: ../includes/widgets/widget-ads.php:238
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-ads.php:242
+msgid "Banner"
+msgstr "Banner"
+
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:242
+msgid "Alt"
+msgstr "Alt"
+
+#: ../includes/widgets/widget-ads.php:243
+msgid ""
+"If you don't want to display some banners - leave approptiate fields blank"
+msgstr "Apabila Anda tidak ingin menampilkan banner - kosongkan bidang"
+
+#: ../includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr "Tampilkan Iklan Adsense"
+
+#: ../includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr "Widget Adsense"
+
+#: ../includes/widgets/widget-adsense.php:12
+#: ../includes/widgets/widget-adsense.php:40
+msgid "Adsense"
+msgstr "Adsense"
+
+#: ../includes/widgets/widget-adsense.php:48
+msgid "Adsense Code"
+msgstr "Kode Adsense"
+
+#~ msgid ""
+#~ "Canonicalization helps to prevent the indexing of duplicate content by "
+#~ "search engines, and as a result, may help avoid duplicate content "
+#~ "penalties and pagerank degradation. Some pages may have different URL's "
+#~ "all leading to the same place. For example domain.com, domain.com/index."
+#~ "html, and www.domain.com are all different URLs leading to your homepage. "
+#~ "From a search engine's perspective these duplicate URLs, which also occur "
+#~ "often due to custom permalinks, may be treaded individually instead of as "
+#~ "a single destination. Defining a canonical URL tells the search engine "
+#~ "which URL you would like to use officially. The theme bases its canonical "
+#~ "URLs off your permalinks and the domain name defined in the settings tab "
+#~ "of wp-admin."
+#~ msgstr ""
+#~ "Peresmian membantu mencegah indeksasi konten duplikat oleh mesin pencari, "
+#~ "dan sebagai hasilnya, dapat membantu menghindari penalti konten duplikat "
+#~ "serta degradasi Google Pagerank. Sebagian laman dapat memiliki URL "
+#~ "berbeda yang mengarahkan ke tempat yang sama. Sebagai contoh domain.com, "
+#~ "domain.com/index.html, dan www.domain.com semua memiliki URL berbeda yang "
+#~ "mengarah ke beranda Anda. Dari sisi mesin pencari, berbagai URL duplikat "
+#~ "ini (yang seringkali disebabkan oleh tautan kustom), dapat ditapaki "
+#~ "secara individu daripada sebagai satu destinasi tunggal. Menentukan URL "
+#~ "resmi memerintahkan mein pencari URL mana yang ingin Anda gunakan secara "
+#~ "resmi. Tema mendasarkan URL resminya dari tautan Anda dan nama domain "
+#~ "yang ditetapkan dalam tab pengaturan wp-admin."
