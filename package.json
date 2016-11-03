@@ -1,6 +1,6 @@
 {
   "name": "divi",
-  "version": "2.3.4-1",
+  "version": "2.3.4-2",
   "description": "Elegant Themes Divi 2.3.4 patched to work with WordPress 4.5 ",
   "main": "index.js",
   "dependencies": {},
