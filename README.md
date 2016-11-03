@@ -2,7 +2,7 @@
 
 **Synopsis**
 
-Elegant Themes Legacy Divi theme (version 2.4) patched to work with WordPress 4.5
+Elegant Themes Legacy Divi theme (version 2.3.4 updated 02-17-2016 ) patched to work with WordPress 4.5
 
 
 Motivation
@@ -13,6 +13,9 @@ Websites using a legacy version of Divi break when updated to WordPress 4.5+ app
 
 Install like any other WordPress theme using the WordPress admin panel or by unzipping and placing it in the wp-content/themes directory and activate it.
 
+**Security Fix**
+
+This version contains a security fix that corrected a critical privilege escalation security vulnerability that, if properly exploited, could allow unprivileged registered WordPress users to perform a subset of actions within the Divi Builder, including the potential to manipulate posts.
 
 
 **Contributors**
