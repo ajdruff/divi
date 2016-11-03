@@ -187,7 +187,7 @@ var ET_PageBuilder = ET_PageBuilder || {};
 					child_views = {};
 
 				_.each( views, function( view, key ) {
-					if ( view['model']['attributes']['parent'] === parent_id )
+                                    if ( view !== undefined && view['model']['attributes']['parent'] === parent_id )  
 						child_views[key] = view;
 				} );
 
@@ -239,7 +239,7 @@ var ET_PageBuilder = ET_PageBuilder || {};
 				_.each( views, function( view ) {
 					var type = view['model']['attributes']['type'];
 
-					if ( view['model']['attributes']['parent'] === module_cid && ( type === element_name || type === ( element_name + '_inner' ) ) )
+					if ( (view !== undefined && view['model']['attributes']['parent'] === module_cid) && ( type === element_name || type === ( element_name + '_inner' ) ) )
 						num++;
 				} );
 
