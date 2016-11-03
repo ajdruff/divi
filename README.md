@@ -5,9 +5,9 @@
 Elegant Themes Legacy Divi theme (version 2.3.4 updated 02-17-2016 ) patched to work with WordPress 4.5
 
 
-Motivation
+**Motivation**
 
-Websites using a legacy version of Divi break when updated to WordPress 4.5+ apparently due to an updated version of jquery.
+Websites using a legacy version of Divi break when updated to WordPress 4.5+ apparently due to an updated version of jQuery.
 
 **Installation**
 
