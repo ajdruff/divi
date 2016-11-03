@@ -237,7 +237,8 @@ var ET_PageBuilder = ET_PageBuilder || {};
 					num = 0;
 
 				_.each( views, function( view ) {
-					var type = view['model']['attributes']['type'];
+					var type = null;
+                                        if (view !== undefined) {type=view['model']['attributes']['type'];}
 
 					if ( (view !== undefined && view['model']['attributes']['parent'] === module_cid) && ( type === element_name || type === ( element_name + '_inner' ) ) )
 						num++;
@@ -251,7 +252,7 @@ var ET_PageBuilder = ET_PageBuilder || {};
 					num = 0;
 
 				_.each( views, function( view ) {
-					if ( view['model']['attributes']['type'] === module_name )
+					if ( view !== undefined && (view['model']['attributes']['type'] === module_name) )
 						num++;
 				} );
 
