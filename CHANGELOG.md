@@ -1,3 +1,12 @@
+<a name="2.3.4-3"></a>
+## 2.3.4-3 (2017-02-16)
+
+
+### Feature
+
+* **divi:** Disable update notifications
+
+
 <a name="2.3.4-2"></a>
 ## 2.3.4-2 (2016-11-03)
 
