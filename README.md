@@ -17,6 +17,9 @@ Install like any other WordPress theme using the WordPress admin panel or by unz
 
 This version contains a security fix that corrected a critical privilege escalation security vulnerability that, if properly exploited, could allow unprivileged registered WordPress users to perform a subset of actions within the Divi Builder, including the potential to manipulate posts.
 
+**Updates Disabled**
+
+Update notifications have been disabled by changing the Version: property in style.css to an artificially high version number.
 
 **Contributors**
 
